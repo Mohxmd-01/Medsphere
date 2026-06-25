@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00068
+Patient: Ava Harris
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+9.0
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Endocrinology referral.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00089
+Patient: Sarah Brown
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+6.5
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Medication review and lifestyle counseling.

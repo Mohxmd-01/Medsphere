@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00034
+Patient: Sophia Johnson
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+7.3
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Cardiology follow-up recommended.

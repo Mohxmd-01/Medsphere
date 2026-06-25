@@ -1,0 +1,3 @@
+BMI above 30 indicates obesity.
+
+Dietary modification and exercise interventions are recommended.

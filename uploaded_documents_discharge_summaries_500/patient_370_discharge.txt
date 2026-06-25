@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00370
+Patient: David Lewis
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+7.4
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Medication review and lifestyle counseling.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00276
+Patient: Ava Harris
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+9.7
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Continue current medications and monitor symptoms.

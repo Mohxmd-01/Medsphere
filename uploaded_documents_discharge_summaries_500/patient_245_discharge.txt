@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00245
+Patient: Sarah Smith
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.9
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Endocrinology referral.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00318
+Patient: James Lee
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+9.3
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Endocrinology referral.

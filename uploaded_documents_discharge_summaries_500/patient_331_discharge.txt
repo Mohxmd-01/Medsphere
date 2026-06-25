@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00331
+Patient: John Clark
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+7.2
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Cardiology follow-up recommended.

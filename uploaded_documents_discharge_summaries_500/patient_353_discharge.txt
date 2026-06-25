@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00353
+Patient: David Johnson
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+6.9
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Structured weight management program.

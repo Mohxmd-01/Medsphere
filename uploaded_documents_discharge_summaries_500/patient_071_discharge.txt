@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00071
+Patient: David Davis
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+6.7
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Endocrinology referral.

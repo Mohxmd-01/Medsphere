@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00359
+Patient: Ava Davis
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+5.6
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Dietary modification and exercise plan advised.

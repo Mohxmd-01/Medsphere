@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00164
+Patient: Ava Harris
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.2
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Endocrinology referral.

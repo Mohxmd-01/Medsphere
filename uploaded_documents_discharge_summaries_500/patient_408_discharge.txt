@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00408
+Patient: William Taylor
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+10.4
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Structured weight management program.

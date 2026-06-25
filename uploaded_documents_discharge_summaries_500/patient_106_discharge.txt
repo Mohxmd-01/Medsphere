@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00106
+Patient: James Lewis
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+10.0
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

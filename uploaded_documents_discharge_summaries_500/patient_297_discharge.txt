@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00297
+Patient: Ava Brown
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+8.1
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Dietary modification and exercise plan advised.

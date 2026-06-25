@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00194
+Patient: Olivia Wilson
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+10.2
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00202
+Patient: Sophia Taylor
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+6.1
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Endocrinology referral.

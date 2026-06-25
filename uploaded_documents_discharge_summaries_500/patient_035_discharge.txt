@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00035
+Patient: Emma Smith
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+8.0
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

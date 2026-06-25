@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00226
+Patient: James Johnson
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+8.2
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Medication review and lifestyle counseling.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00170
+Patient: Emma Lewis
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+6.5
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00193
+Patient: Ava Lee
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+5.7
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Structured weight management program.

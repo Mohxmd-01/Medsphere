@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00002
+Patient: Olivia Clark
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+7.2
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Endocrinology referral.

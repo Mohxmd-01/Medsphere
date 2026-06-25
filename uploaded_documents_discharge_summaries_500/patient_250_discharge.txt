@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00250
+Patient: David Davis
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+7.5
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Endocrinology referral.

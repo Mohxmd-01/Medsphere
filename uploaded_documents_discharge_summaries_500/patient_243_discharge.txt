@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00243
+Patient: John Clark
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+10.0
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Cardiology follow-up recommended.

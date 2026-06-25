@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00455
+Patient: Emma Lewis
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+7.6
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Medication review and lifestyle counseling.

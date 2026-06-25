@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00175
+Patient: Sophia Brown
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+8.1
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Medication review and lifestyle counseling.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00338
+Patient: James Davis
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+9.7
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Dietary modification and exercise plan advised.

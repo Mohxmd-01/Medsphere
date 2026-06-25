@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00017
+Patient: John Smith
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+5.7
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

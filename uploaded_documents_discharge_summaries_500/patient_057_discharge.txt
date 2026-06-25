@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00057
+Patient: John Davis
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+9.1
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Continue current medications and monitor symptoms.

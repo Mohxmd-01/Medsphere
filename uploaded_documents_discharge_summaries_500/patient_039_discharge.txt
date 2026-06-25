@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00039
+Patient: David Davis
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+9.6
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

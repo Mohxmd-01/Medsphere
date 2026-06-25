@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00425
+Patient: Michael Taylor
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+7.8
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Continue current medications and monitor symptoms.

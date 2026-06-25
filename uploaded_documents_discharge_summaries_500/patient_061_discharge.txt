@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00061
+Patient: James Lee
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+8.6
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Medication review and lifestyle counseling.

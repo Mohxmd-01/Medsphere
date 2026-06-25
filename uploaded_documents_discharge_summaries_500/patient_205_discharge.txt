@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00205
+Patient: Ava Lee
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+8.3
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Endocrinology referral.

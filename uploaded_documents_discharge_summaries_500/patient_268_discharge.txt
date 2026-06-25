@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00268
+Patient: Sarah Lewis
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.1
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

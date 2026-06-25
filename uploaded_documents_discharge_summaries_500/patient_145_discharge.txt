@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00145
+Patient: Olivia Brown
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+7.9
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Endocrinology referral.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00064
+Patient: David Wilson
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+10.0
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Cardiology follow-up recommended.

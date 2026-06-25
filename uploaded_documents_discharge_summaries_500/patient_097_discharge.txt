@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00097
+Patient: James Lee
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+10.6
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

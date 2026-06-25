@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00222
+Patient: Olivia Smith
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+9.5
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Dietary modification and exercise plan advised.

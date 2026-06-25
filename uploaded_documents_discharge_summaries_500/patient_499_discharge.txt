@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00499
+Patient: Sophia Brown
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+6.7
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Cardiology follow-up recommended.

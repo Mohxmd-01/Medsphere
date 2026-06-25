@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00041
+Patient: Sophia Smith
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+8.1
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Cardiology follow-up recommended.

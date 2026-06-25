@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00253
+Patient: Olivia Taylor
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+8.7
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Endocrinology referral.

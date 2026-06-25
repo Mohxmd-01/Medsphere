@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00343
+Patient: Sarah Wilson
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+7.5
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Dietary modification and exercise plan advised.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00112
+Patient: Sophia Wilson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+7.7
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00125
+Patient: John Taylor
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+10.7
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Dietary modification and exercise plan advised.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00372
+Patient: Olivia Taylor
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+7.4
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Medication review and lifestyle counseling.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00003
+Patient: Emma Smith
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+9.8
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Cardiology follow-up recommended.

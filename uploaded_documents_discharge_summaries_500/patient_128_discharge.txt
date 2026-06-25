@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00128
+Patient: James Clark
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+9.5
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Medication review and lifestyle counseling.

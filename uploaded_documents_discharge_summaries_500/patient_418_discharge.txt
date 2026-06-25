@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00418
+Patient: Olivia Smith
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+6.9
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Dietary modification and exercise plan advised.

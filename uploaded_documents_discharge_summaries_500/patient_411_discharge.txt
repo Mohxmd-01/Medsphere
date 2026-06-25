@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00411
+Patient: John Clark
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+8.9
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Cardiology follow-up recommended.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00432
+Patient: John Lee
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+9.2
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Structured weight management program.

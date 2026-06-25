@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00360
+Patient: David Harris
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+7.9
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Dietary modification and exercise plan advised.

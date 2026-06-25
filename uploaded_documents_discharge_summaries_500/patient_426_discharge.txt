@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00426
+Patient: Michael Johnson
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+5.6
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Endocrinology referral.

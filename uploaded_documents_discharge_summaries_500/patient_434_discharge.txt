@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00434
+Patient: David Clark
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+10.1
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00263
+Patient: Sarah Brown
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+8.7
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Medication review and lifestyle counseling.

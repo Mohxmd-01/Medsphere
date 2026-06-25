@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00169
+Patient: Michael Davis
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+8.6
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Endocrinology referral.

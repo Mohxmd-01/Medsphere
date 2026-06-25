@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00231
+Patient: Olivia Lewis
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+6.2
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Cardiology follow-up recommended.

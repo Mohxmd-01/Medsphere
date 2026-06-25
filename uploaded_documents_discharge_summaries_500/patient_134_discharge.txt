@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00134
+Patient: James Johnson
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+7.9
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Endocrinology referral.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00004
+Patient: Sarah Clark
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+5.7
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Endocrinology referral.

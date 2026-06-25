@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00162
+Patient: John Lee
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+8.7
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Dietary modification and exercise plan advised.

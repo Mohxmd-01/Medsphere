@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00445
+Patient: Ava Smith
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+10.0
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Continue current medications and monitor symptoms.

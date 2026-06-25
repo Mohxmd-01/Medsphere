@@ -1,0 +1,527 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 36 30% 98%;
+    --foreground: 213 31% 91%;
+    --card: 224 71% 6%;
+    --card-foreground: 210 40% 98%;
+    --popover: 224 71% 4%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 217.2 91.2% 59.8%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 222.2 47.4% 11.2%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 223 47% 11%;
+    --muted-foreground: 215.4 16.3% 56.9%;
+    --accent: 216 34% 12%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 216 34% 12%;
+    --input: 216 34% 12%;
+    --ring: 224.3 76.3% 48%;
+    --radius: 0.75rem;
+  }
+}
+
+html {
+  font-size: 15.8px !important;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: #08060f;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(168, 85, 247, 0.04) 0px, transparent 50%),
+    radial-gradient(at 50% 0%, rgba(217, 70, 239, 0.06) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(168, 85, 247, 0.04) 0px, transparent 50%),
+    radial-gradient(circle at center, rgba(46, 2, 73, 0.15) 0%, #08060f 100%),
+    radial-gradient(rgba(255, 255, 255, 0.015) 1px, transparent 0);
+  background-size: 100% 100%, 100% 100%, 100% 100%, 100% 100%, 20px 20px;
+  color: #f1f5f9;
+  overflow-x: hidden;
+  letter-spacing: -0.01em;
+}
+
+h1, h2, h3, h4, .font-serif-elegant {
+  font-family: 'Plus Jakarta Sans', 'Outfit', 'Inter', sans-serif !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em !important;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(2, 6, 23, 0.5);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.1);
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(59, 130, 246, 0.4);
+}
+
+/* Glassmorphism Panel styles */
+.glass-panel {
+  background: rgba(10, 15, 30, 0.7);
+  backdrop-filter: blur(20px) saturate(160%);
+  -webkit-backdrop-filter: blur(20px) saturate(160%);
+  border: 1px solid rgba(255, 255, 255, 0.04);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.glass-panel-glow-cyan {
+  background: rgba(10, 15, 30, 0.75);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(6, 182, 212, 0.15);
+  box-shadow: 0 0 25px rgba(6, 182, 212, 0.05);
+}
+
+.glass-panel-glow-red {
+  background: rgba(10, 15, 30, 0.75);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(239, 68, 68, 0.15);
+  box-shadow: 0 0 25px rgba(239, 68, 68, 0.05);
+}
+
+/* React Flow Visual Customizations for Constellation */
+.react-flow__renderer {
+  background-color: transparent !important;
+}
+
+.react-flow__handle {
+  width: 6px !important;
+  height: 6px !important;
+  background: #0ea5e9 !important;
+  border: 1px solid #020617 !important;
+}
+
+.react-flow__edge-path {
+  stroke: rgba(14, 165, 233, 0.35) !important;
+  stroke-width: 1.5px !important;
+}
+
+.react-flow__edge.animated .react-flow__edge-path {
+  stroke: #06b6d4 !important;
+  stroke-dasharray: 5;
+  animation: dash 5s linear infinite;
+}
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 20;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* Constellation orbit helper */
+@keyframes orbit {
+  from { transform: rotate(0deg) translateX(120px) rotate(0deg); }
+  to   { transform: rotate(360deg) translateX(120px) rotate(-360deg); }
+}
+
+.orbiting-node {
+  animation: orbit 24s linear infinite;
+}
+
+/* Monospace font settings for technical readouts - mapped to clean sans-serif for clear readability */
+.font-mono-tech {
+  font-family: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+  font-size: 0.8rem !important;
+  letter-spacing: normal !important;
+}
+
+/* Base font-size overrides for absolute clear readability of tiny text elements */
+.text-\[8px\] { font-size: 10px !important; }
+.text-\[9px\] { font-size: 11px !important; }
+.text-\[10px\] { font-size: 12px !important; }
+.text-\[11px\] { font-size: 13px !important; }
+.text-xs { font-size: 13px !important; }
+.text-sm { font-size: 14.5px !important; }
+
+/* Dot pattern background */
+.bg-dot-grid {
+  background-image: radial-gradient(rgba(168, 85, 247, 0.08) 1px, transparent 1px) !important;
+  background-size: 16px 16px;
+}
+
+/* ==========================================================================
+   GLOBAL LIGHT THEME OVERRIDES (ELEGANT PINK & WHITE THEME)
+   ========================================================================== */
+
+body {
+  background-color: #fffafb !important;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(244, 63, 94, 0.05) 0px, transparent 50%),
+    radial-gradient(at 50% 0%, rgba(236, 72, 153, 0.06) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(244, 63, 94, 0.05) 0px, transparent 50%),
+    radial-gradient(circle at center, #ffffff 0%, #fffafb 100%),
+    radial-gradient(rgba(244, 63, 94, 0.015) 1.5px, transparent 0) !important;
+  background-size: 100% 100%, 100% 100%, 100% 100%, 100% 100%, 20px 20px !important;
+  color: #0f172a !important;
+}
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.85) !important;
+  backdrop-filter: blur(20px) saturate(160%) !important;
+  -webkit-backdrop-filter: blur(20px) saturate(160%) !important;
+  border: 1px solid rgba(244, 63, 94, 0.16) !important;
+  box-shadow: 0 10px 40px -10px rgba(244, 63, 94, 0.05) !important;
+  color: #0f172a !important;
+}
+
+/* General typography inside panels */
+.glass-panel span,
+.glass-panel p,
+.glass-panel div,
+.glass-panel h1,
+.glass-panel h2,
+.glass-panel h3,
+.glass-panel h4,
+.glass-panel td,
+.glass-panel th,
+.glass-panel label,
+.glass-panel input,
+.glass-panel li {
+  color: #1e293b !important;
+}
+
+/* Force specific tailwind text classes to be dark/readable */
+.glass-panel .text-slate-100,
+.glass-panel .text-slate-200,
+.glass-panel .text-slate-300,
+.glass-panel .text-slate-350,
+.glass-panel .text-slate-400,
+.glass-panel .text-slate-450,
+.glass-panel .text-slate-500,
+.glass-panel .text-slate-550,
+.glass-panel .text-slate-600,
+.glass-panel .text-slate-650,
+.glass-panel .text-white {
+  color: #334155 !important;
+}
+
+/* Remap cyan/blue styling accents to high-contrast rose/pink values */
+.glass-panel .text-cyan-300,
+.glass-panel .text-cyan-400,
+.glass-panel .text-cyan-500,
+.text-cyan-400,
+.text-cyan-300 {
+  color: #be123c !important; /* Deep Rose Accent */
+}
+
+.glass-panel .bg-cyan-500\/10 {
+  background-color: rgba(244, 63, 94, 0.08) !important;
+}
+
+.glass-panel .border-cyan-500\/20,
+.glass-panel .border-cyan-500\/30 {
+  border-color: rgba(244, 63, 94, 0.18) !important;
+}
+
+.glass-panel .bg-cyan-950\/20 {
+  background-color: rgba(255, 241, 242, 0.7) !important;
+}
+
+.glass-panel .bg-cyan-950\/40 {
+  background-color: rgba(254, 228, 230, 0.8) !important;
+}
+
+/* Background panel lists and grids */
+.glass-panel .bg-black\/20,
+.glass-panel .bg-black\/30,
+.glass-panel .bg-black\/40,
+.glass-panel .bg-black\/50,
+.glass-panel .bg-black\/60 {
+  background-color: rgba(255, 248, 249, 0.85) !important;
+}
+
+.glass-panel .border-white\/5,
+.glass-panel .border-white\/10 {
+  border-color: rgba(244, 63, 94, 0.1) !important;
+}
+
+/* Forms, buttons and console styling */
+.glass-panel input,
+.glass-panel select,
+.glass-panel textarea {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  border: 1px solid rgba(244, 63, 94, 0.15) !important;
+  color: #0f172a !important;
+}
+
+.glass-panel button.bg-cyan-500\/10 {
+  background-color: rgba(244, 63, 94, 0.1) !important;
+  color: #db2777 !important;
+}
+
+.glass-panel button.bg-cyan-500\/10:hover {
+  background-color: rgba(244, 63, 94, 0.18) !important;
+  color: #be123c !important;
+  box-shadow: 0 0 10px rgba(244, 63, 94, 0.15) !important;
+}
+
+/* Active patient/timeline registry buttons */
+.glass-panel button.bg-black\/20 {
+  background-color: rgba(255, 245, 246, 0.8) !important;
+  border-color: rgba(244, 63, 94, 0.08) !important;
+  color: #475569 !important;
+}
+
+.glass-panel button.bg-black\/20:hover {
+  background-color: rgba(254, 228, 230, 0.9) !important;
+  color: #be123c !important;
+}
+
+/* Side navigation panel overrides */
+aside, 
+.glass-panel-glow-cyan {
+  background: rgba(255, 255, 255, 0.88) !important;
+  border-color: rgba(244, 63, 94, 0.15) !important;
+}
+
+aside .text-slate-400 {
+  color: #475569 !important;
+}
+
+aside .text-slate-400:hover,
+aside .text-slate-200 {
+  color: #db2777 !important;
+}
+
+aside .bg-slate-900\/50 {
+  background-color: rgba(254, 228, 230, 0.8) !important;
+}
+
+/* Charts axes, grids and tooltips */
+.recharts-text {
+  fill: #475569 !important;
+  font-weight: 500;
+}
+
+.recharts-cartesian-grid-line {
+  stroke: rgba(244, 63, 94, 0.08) !important;
+}
+
+.recharts-legend-item-text {
+  color: #334155 !important;
+}
+
+.recharts-tooltip-wrapper .recharts-default-tooltip {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  border-color: rgba(244, 63, 94, 0.15) !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.06) !important;
+}
+
+.recharts-tooltip-item {
+  color: #1e293b !important;
+}
+
+/* Scrollbars overrides for light theme */
+::-webkit-scrollbar-thumb {
+  background: rgba(244, 63, 94, 0.12) !important;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(244, 63, 94, 0.45) !important;
+}
+
+/* SVG twin graphics outlines */
+svg path[stroke="rgba(255, 255, 255, 0.15)"] {
+  stroke: rgba(244, 63, 94, 0.25) !important;
+}
+
+/* Specific elements like active patient selector */
+.glass-panel span.bg-cyan-500\/10 {
+  background-color: rgba(244, 63, 94, 0.1) !important;
+  color: #be123c !important;
+  border-color: rgba(244, 63, 94, 0.15) !important;
+}
+
+/* Login page overrides */
+h1.text-slate-100 {
+  color: #0f172a !important;
+}
+form input {
+  color: #0f172a !important;
+}
+form label {
+  color: #db2777 !important;
+}
+
+/* ==========================================================================
+   GLOBAL NEUTRAL TEXT & CARD VISIBILITY OVERRIDES FOR LUXURY LIGHT THEME
+   ========================================================================== */
+
+/* Turn all neutral white/light-gray texts into elegant dark-slate */
+.authenticated-layout .text-white,
+.authenticated-layout .text-slate-50,
+.authenticated-layout .text-slate-100,
+.authenticated-layout .text-slate-200,
+.authenticated-layout .text-slate-350,
+.authenticated-layout .text-slate-300 {
+  color: #0f172a !important;
+}
+
+/* Turn medium gray texts into readable charcoal gray */
+.authenticated-layout .text-slate-400,
+.authenticated-layout .text-slate-450,
+.authenticated-layout .text-slate-550,
+.authenticated-layout .text-slate-500 {
+  color: #475569 !important;
+}
+
+/* Ensure secondary labels are distinct but legible */
+.authenticated-layout .text-slate-600,
+.authenticated-layout .text-slate-650 {
+  color: #64748b !important;
+}
+
+/* Make the black/dark-opacity cards elegant light panels with rose borders */
+.authenticated-layout .bg-black\/80,
+.authenticated-layout .bg-black\/90,
+.authenticated-layout .bg-black\/70,
+.authenticated-layout .bg-black {
+  background-color: rgba(255, 255, 255, 0.92) !important;
+  border-color: rgba(244, 63, 94, 0.2) !important;
+}
+
+/* Global overlays and card panels background mappings */
+.authenticated-layout .bg-black\/20,
+.authenticated-layout .bg-black\/30,
+.authenticated-layout .bg-black\/40,
+.authenticated-layout .bg-black\/50,
+.authenticated-layout .bg-black\/60 {
+  background-color: rgba(255, 248, 249, 0.85) !important;
+  border-color: rgba(244, 63, 94, 0.15) !important;
+}
+
+.authenticated-layout .bg-slate-900,
+.authenticated-layout .bg-slate-950 {
+  background-color: #fffcfd !important;
+  border-color: rgba(244, 63, 94, 0.15) !important;
+}
+
+.authenticated-layout .border-white\/5,
+.authenticated-layout .border-white\/10,
+.authenticated-layout .border-white\/20,
+.authenticated-layout .border-white\/25,
+.authenticated-layout .border-white\/30 {
+  border-color: rgba(244, 63, 94, 0.12) !important;
+}
+
+/* Ensure the central digital twin node has high contrast and matches theme */
+.authenticated-layout div.absolute.z-20.bg-\[\#070e1b\] {
+  background-color: #ffffff !important;
+  border-color: #f43f5e !important;
+}
+.authenticated-layout div.absolute.z-20.bg-\[\#070e1b\] span {
+  color: #0f172a !important;
+}
+.authenticated-layout div.absolute.z-20.bg-\[\#070e1b\] span.text-cyan-500 {
+  color: #f43f5e !important;
+}
+
+/* Fix any console terminal dark background streams */
+.authenticated-layout .bg-slate-950 {
+  background-color: #fffcfd !important;
+  border-color: rgba(244, 63, 94, 0.15) !important;
+}
+
+/* Hover effects for buttons & anchors */
+button, a, select, input {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+/* Sidebar hover transitions and colors */
+aside a:hover {
+  color: #db2777 !important;
+  background-color: rgba(244, 63, 94, 0.06) !important;
+}
+aside a.text-cyan-400,
+aside a.bg-cyan-500\/10 {
+  color: #db2777 !important;
+  background-color: rgba(244, 63, 94, 0.1) !important;
+  border-color: rgba(244, 63, 94, 0.25) !important;
+  box-shadow: 0 0 15px rgba(244, 63, 94, 0.1) !important;
+}
+aside a.text-cyan-400 svg {
+  stroke: #db2777 !important;
+}
+aside span.bg-cyan-400 {
+  background-color: #db2777 !important;
+  box-shadow: 0 0 10px rgba(244, 63, 94, 0.5) !important;
+}
+
+/* Top bar user icon */
+.w-9.h-9.rounded-xl.bg-cyan-950\/40 {
+  background-color: rgba(244, 63, 94, 0.1) !important;
+  border-color: rgba(244, 63, 94, 0.25) !important;
+  color: #db2777 !important;
+}
+
+/* Drag-and-drop dropzones and files */
+.border-dashed.border-white\/10 {
+  border-color: rgba(244, 63, 94, 0.25) !important;
+  background-color: rgba(255, 245, 246, 0.5) !important;
+}
+.border-dashed.border-white\/10:hover {
+  border-color: #f43f5e !important;
+  background-color: rgba(255, 240, 242, 0.8) !important;
+}
+
+/* Hover state upgrades for interactive elements */
+button.bg-black\/20:hover,
+button.bg-black\/30:hover,
+button.bg-black\/40:hover {
+  background-color: rgba(254, 228, 230, 0.9) !important;
+  color: #db2777 !important;
+  border-color: rgba(244, 63, 94, 0.25) !important;
+}
+
+/* Hover highlights for lists and clickable panels */
+.hover\:bg-black\/40:hover {
+  background-color: rgba(254, 228, 230, 0.85) !important;
+  color: #be123c !important;
+}
+.hover\:bg-white\/5:hover {
+  background-color: rgba(244, 63, 94, 0.08) !important;
+  color: #db2777 !important;
+}
+
+/* Suggestion tag buttons in guidelines and cli */
+button.bg-slate-900:hover {
+  background-color: rgba(244, 63, 94, 0.15) !important;
+  color: #db2777 !important;
+  border-color: rgba(244, 63, 94, 0.3) !important;
+}
+
+/* Focus colors for input fields */
+input:focus, select:focus, textarea:focus {
+  border-color: #fb7185 !important;
+  box-shadow: 0 0 0 2px rgba(244, 63, 94, 0.15) !important;
+}
+
+/* Highlight elements */
+.text-emerald-400 {
+  color: #059669 !important; /* Elegant green for success/low risk */
+}
+.text-amber-400 {
+  color: #d97706 !important; /* Elegant amber for warning/moderate risk */
+}
+.text-red-400 {
+  color: #dc2626 !important; /* Elegant red for danger/high risk */
+}
+
+
+

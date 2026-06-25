@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00115
+Patient: Ava Harris
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+5.8
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Endocrinology referral.

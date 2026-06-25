@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00347
+Patient: Olivia Davis
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+10.4
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Cardiology follow-up recommended.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00167
+Patient: John Wilson
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+10.0
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Dietary modification and exercise plan advised.

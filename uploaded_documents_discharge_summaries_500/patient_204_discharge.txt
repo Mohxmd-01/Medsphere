@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00204
+Patient: Olivia Johnson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+7.8
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Cardiology follow-up recommended.

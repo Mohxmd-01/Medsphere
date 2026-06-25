@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00257
+Patient: Emma Brown
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+7.3
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Medication review and lifestyle counseling.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00107
+Patient: Olivia Lee
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+6.5
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

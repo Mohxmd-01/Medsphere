@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00330
+Patient: James Smith
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+6.7
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Continue current medications and monitor symptoms.

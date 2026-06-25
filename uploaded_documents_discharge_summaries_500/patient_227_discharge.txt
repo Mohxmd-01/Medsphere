@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00227
+Patient: Olivia Davis
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+10.6
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Medication review and lifestyle counseling.

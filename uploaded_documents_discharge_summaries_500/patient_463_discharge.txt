@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00463
+Patient: Sarah Davis
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+7.7
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Continue current medications and monitor symptoms.

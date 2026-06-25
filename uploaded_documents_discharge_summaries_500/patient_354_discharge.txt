@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00354
+Patient: Emma Taylor
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+9.5
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Cardiology follow-up recommended.

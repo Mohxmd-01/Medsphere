@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00262
+Patient: James Smith
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+8.5
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Continue current medications and monitor symptoms.

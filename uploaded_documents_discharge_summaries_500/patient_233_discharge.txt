@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00233
+Patient: Emma Brown
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+10.2
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Structured weight management program.

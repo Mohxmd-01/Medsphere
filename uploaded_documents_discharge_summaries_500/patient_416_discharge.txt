@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00416
+Patient: David Brown
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+5.9
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

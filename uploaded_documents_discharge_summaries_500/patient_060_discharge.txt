@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00060
+Patient: Ava Lewis
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+8.0
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Structured weight management program.

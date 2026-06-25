@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00429
+Patient: William Smith
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+7.1
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Endocrinology referral.

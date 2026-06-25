@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00428
+Patient: Emma Taylor
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+7.6
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Dietary modification and exercise plan advised.

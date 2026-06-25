@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00108
+Patient: Sophia Lewis
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+6.2
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Structured weight management program.

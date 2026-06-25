@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00363
+Patient: Sophia Johnson
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+5.8
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

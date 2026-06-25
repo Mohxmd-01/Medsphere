@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00423
+Patient: John Johnson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+9.9
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Cardiology follow-up recommended.

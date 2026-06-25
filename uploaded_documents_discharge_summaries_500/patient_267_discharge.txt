@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00267
+Patient: Michael Lee
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.8
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Endocrinology referral.

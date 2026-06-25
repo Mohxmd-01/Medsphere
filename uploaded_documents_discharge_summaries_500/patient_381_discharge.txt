@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00381
+Patient: Michael Taylor
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+6.8
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

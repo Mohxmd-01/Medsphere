@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00024
+Patient: Michael Wilson
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+8.7
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Dietary modification and exercise plan advised.

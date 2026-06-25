@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00190
+Patient: John Taylor
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+5.9
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Dietary modification and exercise plan advised.

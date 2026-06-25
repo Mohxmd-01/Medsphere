@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00095
+Patient: William Wilson
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.0
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Cardiology follow-up recommended.

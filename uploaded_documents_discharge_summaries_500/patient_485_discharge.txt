@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00485
+Patient: Emma Wilson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+9.3
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Endocrinology referral.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00448
+Patient: Sophia Wilson
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+9.4
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Continue current medications and monitor symptoms.

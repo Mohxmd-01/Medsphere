@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00007
+Patient: David Davis
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+6.2
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Dietary modification and exercise plan advised.

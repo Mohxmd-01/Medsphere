@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00186
+Patient: Emma Clark
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+10.6
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Cardiology follow-up recommended.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00482
+Patient: Sophia Lewis
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+7.3
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Cardiology follow-up recommended.

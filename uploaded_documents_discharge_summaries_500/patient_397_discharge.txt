@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00397
+Patient: Michael Taylor
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+9.0
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Continue current medications and monitor symptoms.

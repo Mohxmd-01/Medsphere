@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00465
+Patient: David Davis
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+10.6
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Dietary modification and exercise plan advised.

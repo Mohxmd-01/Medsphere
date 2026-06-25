@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00288
+Patient: William Smith
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+7.6
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Cardiology follow-up recommended.

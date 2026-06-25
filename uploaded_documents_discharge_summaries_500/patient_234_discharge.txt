@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00234
+Patient: John Brown
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+7.7
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Continue current medications and monitor symptoms.

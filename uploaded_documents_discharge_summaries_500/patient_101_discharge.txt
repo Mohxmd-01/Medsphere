@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00101
+Patient: Emma Lewis
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+9.9
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Cardiology follow-up recommended.

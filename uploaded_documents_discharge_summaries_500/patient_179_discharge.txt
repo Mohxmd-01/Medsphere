@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00179
+Patient: James Clark
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+8.4
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

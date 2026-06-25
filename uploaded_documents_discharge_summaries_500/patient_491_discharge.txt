@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00491
+Patient: John Clark
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+7.4
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Cardiology follow-up recommended.

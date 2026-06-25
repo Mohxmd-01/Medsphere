@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00265
+Patient: John Harris
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+8.7
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Continue current medications and monitor symptoms.

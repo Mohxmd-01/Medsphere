@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00441
+Patient: Ava Johnson
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+9.4
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Dietary modification and exercise plan advised.

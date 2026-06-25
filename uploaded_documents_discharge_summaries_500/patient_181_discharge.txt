@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00181
+Patient: Sarah Johnson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.7
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Continue current medications and monitor symptoms.

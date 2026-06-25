@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00111
+Patient: John Brown
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+6.5
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Medication review and lifestyle counseling.

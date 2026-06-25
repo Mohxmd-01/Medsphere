@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00368
+Patient: Ava Taylor
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+8.8
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

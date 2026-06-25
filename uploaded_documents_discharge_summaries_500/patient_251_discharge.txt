@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00251
+Patient: Emma Davis
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+7.8
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Medication review and lifestyle counseling.

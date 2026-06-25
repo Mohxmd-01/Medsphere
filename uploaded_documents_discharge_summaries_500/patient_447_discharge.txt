@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00447
+Patient: Emma Lewis
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+10.3
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Dietary modification and exercise plan advised.

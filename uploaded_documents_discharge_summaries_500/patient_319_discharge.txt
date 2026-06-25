@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00319
+Patient: Emma Smith
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+10.7
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Cardiology follow-up recommended.

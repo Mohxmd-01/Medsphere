@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00099
+Patient: Michael Wilson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+6.6
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Continue current medications and monitor symptoms.

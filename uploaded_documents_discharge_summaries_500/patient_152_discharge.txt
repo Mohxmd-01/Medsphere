@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00152
+Patient: Olivia Taylor
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+8.9
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Continue current medications and monitor symptoms.

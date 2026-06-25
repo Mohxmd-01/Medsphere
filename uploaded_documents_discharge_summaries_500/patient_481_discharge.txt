@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00481
+Patient: David Brown
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+5.7
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

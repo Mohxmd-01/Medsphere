@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00189
+Patient: Emma Lewis
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.3
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Structured weight management program.

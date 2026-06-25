@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00366
+Patient: Emma Brown
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+6.3
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Cardiology follow-up recommended.

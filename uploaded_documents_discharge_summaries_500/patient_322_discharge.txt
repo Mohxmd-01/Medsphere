@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00322
+Patient: Emma Wilson
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+9.3
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Continue current medications and monitor symptoms.

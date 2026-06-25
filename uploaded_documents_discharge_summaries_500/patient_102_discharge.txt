@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00102
+Patient: Emma Davis
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+8.5
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Dietary modification and exercise plan advised.

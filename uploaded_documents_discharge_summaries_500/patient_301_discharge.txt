@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00301
+Patient: William Davis
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+8.2
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

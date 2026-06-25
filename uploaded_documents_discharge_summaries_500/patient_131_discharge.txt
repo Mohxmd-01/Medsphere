@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00131
+Patient: John Lewis
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+9.6
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Dietary modification and exercise plan advised.

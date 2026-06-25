@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00285
+Patient: Michael Clark
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+8.9
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

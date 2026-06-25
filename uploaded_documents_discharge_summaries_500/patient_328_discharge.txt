@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00328
+Patient: Ava Clark
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+10.3
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Cardiology follow-up recommended.

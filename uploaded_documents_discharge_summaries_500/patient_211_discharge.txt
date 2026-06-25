@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00211
+Patient: David Johnson
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+6.6
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Medication review and lifestyle counseling.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00362
+Patient: Emma Brown
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+7.9
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Cardiology follow-up recommended.

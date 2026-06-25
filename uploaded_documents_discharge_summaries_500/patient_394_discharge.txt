@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00394
+Patient: John Harris
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+8.1
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Cardiology follow-up recommended.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00382
+Patient: Ava Davis
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+5.9
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

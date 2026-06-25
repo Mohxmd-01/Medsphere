@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00009
+Patient: William Wilson
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+8.5
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Medication review and lifestyle counseling.

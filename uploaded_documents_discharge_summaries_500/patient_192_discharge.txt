@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00192
+Patient: William Clark
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+6.2
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Continue current medications and monitor symptoms.

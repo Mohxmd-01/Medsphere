@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00323
+Patient: David Davis
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+9.6
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Endocrinology referral.

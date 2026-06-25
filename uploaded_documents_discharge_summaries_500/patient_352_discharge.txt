@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00352
+Patient: David Smith
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+6.6
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Dietary modification and exercise plan advised.

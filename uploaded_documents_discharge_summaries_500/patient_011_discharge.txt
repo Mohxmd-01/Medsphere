@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00011
+Patient: Ava Brown
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+7.1
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Continue current medications and monitor symptoms.

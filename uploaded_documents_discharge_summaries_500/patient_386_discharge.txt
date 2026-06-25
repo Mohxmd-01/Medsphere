@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00386
+Patient: William Smith
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+8.9
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

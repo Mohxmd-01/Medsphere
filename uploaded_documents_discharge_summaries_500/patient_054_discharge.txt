@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00054
+Patient: Emma Harris
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+9.7
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Cardiology follow-up recommended.

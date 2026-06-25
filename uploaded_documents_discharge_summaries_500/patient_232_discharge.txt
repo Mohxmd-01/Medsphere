@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00232
+Patient: John Johnson
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+6.5
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

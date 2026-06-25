@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00311
+Patient: John Lee
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+9.3
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Structured weight management program.

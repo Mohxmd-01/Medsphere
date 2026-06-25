@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00168
+Patient: John Taylor
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+7.9
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Structured weight management program.

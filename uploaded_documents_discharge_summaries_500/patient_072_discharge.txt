@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00072
+Patient: Sophia Clark
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+9.4
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Medication review and lifestyle counseling.

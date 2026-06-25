@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00036
+Patient: Sophia Taylor
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+10.3
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Continue current medications and monitor symptoms.

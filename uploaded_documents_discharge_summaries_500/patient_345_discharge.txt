@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00345
+Patient: Olivia Lee
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+10.5
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Cardiology follow-up recommended.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00094
+Patient: Olivia Davis
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+7.7
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Medication review and lifestyle counseling.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00148
+Patient: John Wilson
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+8.3
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

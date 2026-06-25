@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00383
+Patient: James Taylor
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+6.8
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Structured weight management program.

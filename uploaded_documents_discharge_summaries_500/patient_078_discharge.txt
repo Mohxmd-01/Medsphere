@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00078
+Patient: James Harris
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+10.0
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Endocrinology referral.

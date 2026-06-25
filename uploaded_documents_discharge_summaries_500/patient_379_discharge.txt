@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00379
+Patient: Sophia Smith
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+5.7
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Medication review and lifestyle counseling.

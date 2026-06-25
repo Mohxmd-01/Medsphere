@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00252
+Patient: Sophia Smith
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+5.9
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Dietary modification and exercise plan advised.

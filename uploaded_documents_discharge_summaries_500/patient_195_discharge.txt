@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00195
+Patient: Ava Taylor
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+5.9
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Endocrinology referral.

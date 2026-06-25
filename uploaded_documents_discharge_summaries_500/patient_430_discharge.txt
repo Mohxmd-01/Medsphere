@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00430
+Patient: Sophia Davis
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+7.6
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

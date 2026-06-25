@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00270
+Patient: William Taylor
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+6.7
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Medication review and lifestyle counseling.

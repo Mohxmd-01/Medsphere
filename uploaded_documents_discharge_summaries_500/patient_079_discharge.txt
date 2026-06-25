@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00079
+Patient: David Davis
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+7.9
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

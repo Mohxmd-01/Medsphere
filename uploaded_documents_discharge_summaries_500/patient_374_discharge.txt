@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00374
+Patient: Ava Smith
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+7.7
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Endocrinology referral.

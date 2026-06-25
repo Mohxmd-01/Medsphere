@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00337
+Patient: Emma Taylor
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+7.6
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Structured weight management program.

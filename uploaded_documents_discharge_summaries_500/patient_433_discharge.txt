@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00433
+Patient: Ava Brown
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+7.1
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Dietary modification and exercise plan advised.

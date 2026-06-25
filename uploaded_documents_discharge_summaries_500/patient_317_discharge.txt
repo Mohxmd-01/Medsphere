@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00317
+Patient: Ava Wilson
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+9.5
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Cardiology follow-up recommended.

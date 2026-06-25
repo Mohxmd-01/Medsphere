@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00074
+Patient: Michael Johnson
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+10.0
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Continue current medications and monitor symptoms.

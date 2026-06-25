@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00495
+Patient: William Wilson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+6.5
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Endocrinology referral.

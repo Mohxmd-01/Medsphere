@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00300
+Patient: David Davis
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+6.0
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Structured weight management program.

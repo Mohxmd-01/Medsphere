@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00032
+Patient: Emma Johnson
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+7.9
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Cardiology follow-up recommended.

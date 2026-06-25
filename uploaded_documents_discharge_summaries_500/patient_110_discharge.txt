@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00110
+Patient: Sarah Smith
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+10.0
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Continue current medications and monitor symptoms.

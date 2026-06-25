@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00123
+Patient: William Clark
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+6.8
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Medication review and lifestyle counseling.

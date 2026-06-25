@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00239
+Patient: Sarah Clark
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+10.5
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Endocrinology referral.

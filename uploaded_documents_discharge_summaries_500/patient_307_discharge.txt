@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00307
+Patient: Sarah Wilson
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+6.0
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Medication review and lifestyle counseling.

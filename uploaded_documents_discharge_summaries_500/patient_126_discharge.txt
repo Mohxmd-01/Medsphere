@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00126
+Patient: Michael Taylor
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+10.4
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Cardiology follow-up recommended.

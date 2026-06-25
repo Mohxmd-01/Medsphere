@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00191
+Patient: David Wilson
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+10.3
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Endocrinology referral.

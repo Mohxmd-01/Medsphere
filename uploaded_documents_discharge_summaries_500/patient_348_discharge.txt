@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00348
+Patient: Emma Clark
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+5.7
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Medication review and lifestyle counseling.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00415
+Patient: Ava Lee
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+6.0
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

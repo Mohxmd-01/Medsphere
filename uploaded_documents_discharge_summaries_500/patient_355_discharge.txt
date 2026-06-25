@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00355
+Patient: Ava Clark
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+9.5
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Endocrinology referral.

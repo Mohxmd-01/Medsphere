@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00384
+Patient: Michael Davis
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.4
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Structured weight management program.

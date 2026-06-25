@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00008
+Patient: John Davis
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.4
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

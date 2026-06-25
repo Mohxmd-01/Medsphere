@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00197
+Patient: Ava Lewis
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+5.9
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Structured weight management program.

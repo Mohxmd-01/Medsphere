@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00451
+Patient: Emma Taylor
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+8.2
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Structured weight management program.

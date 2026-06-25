@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00390
+Patient: Olivia Taylor
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+6.2
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Structured weight management program.

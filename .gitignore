@@ -1,0 +1,29 @@
+# Node / Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# Python / Backend
+backend/venv/
+backend/.env
+**/__pycache__/
+*.pyc
+.pytest_cache/
+
+# Data / Models
+backend/models/risk_model.pkl
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+backend/app/database/mock_qdrant.json
+backend/app/database/mock_neo4j.json
+
+backend/app/database/

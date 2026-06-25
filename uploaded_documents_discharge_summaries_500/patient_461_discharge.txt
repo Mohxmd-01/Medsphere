@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00461
+Patient: John Wilson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+7.8
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Medication review and lifestyle counseling.

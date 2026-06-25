@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00153
+Patient: David Brown
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+6.5
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

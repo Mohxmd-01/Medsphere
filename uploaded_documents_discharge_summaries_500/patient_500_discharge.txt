@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00500
+Patient: Emma Taylor
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+7.8
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Medication review and lifestyle counseling.

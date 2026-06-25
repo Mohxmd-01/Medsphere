@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00161
+Patient: James Lewis
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+6.8
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

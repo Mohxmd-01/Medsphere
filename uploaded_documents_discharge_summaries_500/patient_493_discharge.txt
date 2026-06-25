@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00493
+Patient: William Lewis
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+7.7
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Cardiology follow-up recommended.

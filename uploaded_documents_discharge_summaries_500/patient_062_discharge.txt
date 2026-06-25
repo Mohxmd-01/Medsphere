@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00062
+Patient: William Smith
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+7.8
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Structured weight management program.

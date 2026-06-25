@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00165
+Patient: John Smith
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+9.5
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

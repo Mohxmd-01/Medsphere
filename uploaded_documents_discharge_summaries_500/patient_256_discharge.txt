@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00256
+Patient: John Lee
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+6.4
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Cardiology follow-up recommended.

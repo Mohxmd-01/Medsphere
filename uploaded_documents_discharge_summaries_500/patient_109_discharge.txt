@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00109
+Patient: Michael Lee
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+9.9
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Medication review and lifestyle counseling.

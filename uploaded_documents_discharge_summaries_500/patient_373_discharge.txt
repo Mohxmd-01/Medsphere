@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00373
+Patient: John Clark
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+10.6
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

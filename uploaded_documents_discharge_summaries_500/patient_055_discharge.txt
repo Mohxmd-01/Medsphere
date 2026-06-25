@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00055
+Patient: Sarah Davis
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+10.8
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Structured weight management program.

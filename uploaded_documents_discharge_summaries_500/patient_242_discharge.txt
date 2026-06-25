@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00242
+Patient: William Harris
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+10.5
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Dietary modification and exercise plan advised.

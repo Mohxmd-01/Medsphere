@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00206
+Patient: Sophia Brown
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+9.3
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

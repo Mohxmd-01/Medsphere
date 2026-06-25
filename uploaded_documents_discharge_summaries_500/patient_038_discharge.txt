@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00038
+Patient: David Harris
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+7.3
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Medication review and lifestyle counseling.

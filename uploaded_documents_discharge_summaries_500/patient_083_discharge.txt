@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00083
+Patient: David Lewis
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+6.1
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Endocrinology referral.

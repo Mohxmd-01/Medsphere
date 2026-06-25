@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00409
+Patient: John Davis
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+9.0
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Cardiology follow-up recommended.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00136
+Patient: David Clark
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+10.8
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Medication review and lifestyle counseling.

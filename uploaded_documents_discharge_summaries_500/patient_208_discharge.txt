@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00208
+Patient: Sarah Johnson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+6.0
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Continue current medications and monitor symptoms.

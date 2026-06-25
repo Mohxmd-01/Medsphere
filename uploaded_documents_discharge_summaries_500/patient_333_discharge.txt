@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00333
+Patient: John Lee
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+7.5
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Continue current medications and monitor symptoms.

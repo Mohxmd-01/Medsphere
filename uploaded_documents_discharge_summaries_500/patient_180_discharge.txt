@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00180
+Patient: John Lewis
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+8.1
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Cardiology follow-up recommended.

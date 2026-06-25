@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00277
+Patient: Sarah Smith
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+7.4
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

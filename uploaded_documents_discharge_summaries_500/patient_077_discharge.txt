@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00077
+Patient: David Harris
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+9.9
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Continue current medications and monitor symptoms.

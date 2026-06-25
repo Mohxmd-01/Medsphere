@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00174
+Patient: Sarah Johnson
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+6.5
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

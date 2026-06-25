@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00393
+Patient: William Harris
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+9.5
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Structured weight management program.

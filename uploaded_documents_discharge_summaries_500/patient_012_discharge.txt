@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00012
+Patient: William Lee
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+9.9
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

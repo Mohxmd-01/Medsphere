@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00492
+Patient: Ava Davis
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+10.1
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Medication review and lifestyle counseling.

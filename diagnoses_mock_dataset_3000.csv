@@ -1,0 +1,3001 @@
+diagnosis_id,patient_id,disease,diagnosis_date,severity
+D00001,P00921,Anemia,2023-10-31,Moderate
+D00002,P00652,Stroke,2021-04-23,Moderate
+D00003,P00483,Peripheral Artery Disease,2020-07-24,Severe
+D00004,P00044,Hypertension,2021-03-26,Moderate
+D00005,P00766,Asthma,2022-06-25,Mild
+D00006,P00611,Obesity,2022-11-01,Severe
+D00007,P00613,Peripheral Artery Disease,2021-06-28,Mild
+D00008,P00453,Peripheral Artery Disease,2020-03-24,Moderate
+D00009,P00884,Peripheral Artery Disease,2022-01-25,Severe
+D00010,P00059,Prediabetes,2021-04-19,Severe
+D00011,P00933,Coronary Artery Disease,2025-09-30,Moderate
+D00012,P00455,Arthritis,2022-07-03,Mild
+D00013,P00823,Hyperlipidemia,2024-05-20,Moderate
+D00014,P00752,Stroke,2021-07-08,Severe
+D00015,P00257,COPD,2020-04-16,Mild
+D00016,P00665,Arthritis,2020-05-28,Moderate
+D00017,P00389,Hyperlipidemia,2023-02-27,Moderate
+D00018,P00290,Type 2 Diabetes,2025-05-21,Moderate
+D00019,P00477,Anemia,2025-04-29,Moderate
+D00020,P00955,Type 2 Diabetes,2020-11-18,Severe
+D00021,P00423,Chronic Kidney Disease,2020-07-10,Mild
+D00022,P00409,Hyperlipidemia,2021-06-09,Moderate
+D00023,P00062,COPD,2020-10-02,Mild
+D00024,P00503,Asthma,2023-09-11,Mild
+D00025,P00527,COPD,2022-05-18,Mild
+D00026,P00443,COPD,2023-02-27,Severe
+D00027,P00311,Hyperlipidemia,2024-08-10,Severe
+D00028,P00087,Obesity,2020-10-17,Moderate
+D00029,P00753,Anemia,2021-01-09,Severe
+D00030,P00128,Peripheral Artery Disease,2024-10-08,Mild
+D00031,P00643,Type 2 Diabetes,2020-10-06,Moderate
+D00032,P00343,Heart Failure,2023-01-05,Severe
+D00033,P00303,Chronic Kidney Disease,2020-02-06,Severe
+D00034,P00945,Prediabetes,2021-10-25,Severe
+D00035,P00960,COPD,2023-04-17,Severe
+D00036,P00631,Anemia,2022-05-08,Mild
+D00037,P00151,Depression,2020-11-02,Mild
+D00038,P00379,Stroke,2025-08-31,Mild
+D00039,P00351,Depression,2025-06-07,Mild
+D00040,P00778,Stroke,2022-09-11,Severe
+D00041,P00676,Peripheral Artery Disease,2023-09-08,Severe
+D00042,P00242,Obesity,2022-12-05,Mild
+D00043,P00775,Stroke,2021-08-25,Severe
+D00044,P00356,Depression,2021-01-15,Mild
+D00045,P00375,Type 2 Diabetes,2022-03-04,Severe
+D00046,P00085,Type 2 Diabetes,2022-09-11,Moderate
+D00047,P00251,Asthma,2025-04-09,Severe
+D00048,P00268,Arthritis,2021-03-22,Mild
+D00049,P00274,Anemia,2020-12-08,Mild
+D00050,P00973,Hyperlipidemia,2021-01-02,Mild
+D00051,P00333,Prediabetes,2025-05-10,Severe
+D00052,P00114,Obesity,2025-12-25,Mild
+D00053,P00170,Arthritis,2024-04-20,Moderate
+D00054,P00368,Type 2 Diabetes,2025-04-04,Severe
+D00055,P00927,Chronic Kidney Disease,2021-03-05,Moderate
+D00056,P00948,Depression,2025-05-04,Moderate
+D00057,P00922,Depression,2020-06-17,Severe
+D00058,P00248,Coronary Artery Disease,2023-03-13,Moderate
+D00059,P00678,Arthritis,2025-11-17,Severe
+D00060,P00061,Hyperlipidemia,2020-08-24,Moderate
+D00061,P00494,Hyperlipidemia,2024-08-12,Severe
+D00062,P00605,Coronary Artery Disease,2025-07-04,Moderate
+D00063,P00293,Peripheral Artery Disease,2022-07-03,Moderate
+D00064,P00232,Anemia,2020-09-28,Moderate
+D00065,P00454,Asthma,2021-06-27,Mild
+D00066,P00026,Depression,2022-09-09,Severe
+D00067,P00167,COPD,2025-11-18,Moderate
+D00068,P00468,Type 2 Diabetes,2022-03-10,Mild
+D00069,P00386,Obesity,2021-08-16,Mild
+D00070,P00063,Chronic Kidney Disease,2024-09-07,Severe
+D00071,P00181,Arthritis,2020-12-22,Mild
+D00072,P00712,COPD,2022-02-28,Mild
+D00073,P00904,Type 2 Diabetes,2020-01-10,Mild
+D00074,P00373,Anemia,2025-02-24,Moderate
+D00075,P00813,Hyperlipidemia,2020-08-28,Severe
+D00076,P00865,Prediabetes,2024-07-17,Mild
+D00077,P00776,Stroke,2020-11-05,Moderate
+D00078,P00894,Depression,2022-11-19,Severe
+D00079,P00082,Type 2 Diabetes,2025-10-04,Severe
+D00080,P00185,Obesity,2021-12-24,Moderate
+D00081,P00776,Coronary Artery Disease,2025-03-24,Mild
+D00082,P00628,Prediabetes,2022-09-03,Severe
+D00083,P00541,Prediabetes,2024-06-20,Severe
+D00084,P00991,Coronary Artery Disease,2023-11-10,Moderate
+D00085,P00252,Hyperlipidemia,2020-12-29,Moderate
+D00086,P00525,Stroke,2023-03-29,Mild
+D00087,P00234,Arthritis,2021-08-20,Severe
+D00088,P00431,Anemia,2021-04-15,Mild
+D00089,P00526,COPD,2025-01-19,Moderate
+D00090,P00357,Heart Failure,2025-08-30,Moderate
+D00091,P00875,Coronary Artery Disease,2022-02-26,Mild
+D00092,P00039,Prediabetes,2023-03-12,Moderate
+D00093,P00699,Prediabetes,2021-03-07,Moderate
+D00094,P00372,COPD,2020-02-01,Mild
+D00095,P00092,Hyperlipidemia,2025-11-05,Severe
+D00096,P00504,Type 2 Diabetes,2021-08-26,Mild
+D00097,P00500,Peripheral Artery Disease,2023-04-23,Mild
+D00098,P00291,Heart Failure,2024-04-13,Mild
+D00099,P00485,Coronary Artery Disease,2024-11-02,Severe
+D00100,P00093,Asthma,2020-11-04,Mild
+D00101,P00158,Stroke,2023-11-25,Severe
+D00102,P00847,Peripheral Artery Disease,2022-12-04,Mild
+D00103,P00930,Peripheral Artery Disease,2020-08-06,Severe
+D00104,P00458,Hypertension,2025-11-24,Mild
+D00105,P00320,Hypertension,2022-05-02,Severe
+D00106,P00047,Depression,2021-02-28,Moderate
+D00107,P00258,Chronic Kidney Disease,2020-03-15,Severe
+D00108,P00553,Obesity,2024-12-21,Severe
+D00109,P00627,Obesity,2022-10-05,Mild
+D00110,P00971,Stroke,2020-12-24,Mild
+D00111,P00568,Anemia,2021-11-30,Moderate
+D00112,P00212,Prediabetes,2022-05-17,Moderate
+D00113,P00743,Peripheral Artery Disease,2023-07-06,Mild
+D00114,P00218,Stroke,2021-11-05,Mild
+D00115,P00564,Obesity,2025-07-23,Severe
+D00116,P00121,Hyperlipidemia,2022-01-14,Mild
+D00117,P00003,Depression,2022-10-29,Severe
+D00118,P00346,Prediabetes,2024-01-15,Severe
+D00119,P00554,Hypertension,2023-06-07,Mild
+D00120,P00452,Hyperlipidemia,2024-04-14,Severe
+D00121,P00957,Type 2 Diabetes,2025-04-13,Severe
+D00122,P00543,Stroke,2021-03-26,Mild
+D00123,P00153,Type 2 Diabetes,2021-09-26,Moderate
+D00124,P00078,Arthritis,2020-03-19,Severe
+D00125,P00257,Prediabetes,2023-04-07,Severe
+D00126,P00896,Hyperlipidemia,2020-12-17,Severe
+D00127,P00780,Prediabetes,2024-10-09,Severe
+D00128,P00687,Stroke,2024-10-19,Moderate
+D00129,P00919,Depression,2020-10-29,Mild
+D00130,P00366,Arthritis,2025-10-08,Mild
+D00131,P00972,Peripheral Artery Disease,2021-01-16,Mild
+D00132,P00202,Hypertension,2025-10-09,Moderate
+D00133,P00538,Prediabetes,2020-08-28,Severe
+D00134,P00144,Stroke,2025-05-05,Moderate
+D00135,P00634,Hypertension,2021-02-15,Mild
+D00136,P00638,Hyperlipidemia,2024-09-23,Severe
+D00137,P00488,Prediabetes,2024-06-05,Moderate
+D00138,P00719,Depression,2023-03-14,Mild
+D00139,P00728,Coronary Artery Disease,2022-01-17,Moderate
+D00140,P00701,Hyperlipidemia,2021-01-29,Moderate
+D00141,P00049,Obesity,2025-04-08,Severe
+D00142,P00702,COPD,2021-10-24,Severe
+D00143,P00888,Peripheral Artery Disease,2021-01-27,Moderate
+D00144,P00024,Anemia,2020-05-12,Moderate
+D00145,P00303,Type 2 Diabetes,2020-05-09,Moderate
+D00146,P00975,Depression,2021-07-17,Severe
+D00147,P00441,Asthma,2025-01-04,Mild
+D00148,P00105,Prediabetes,2020-06-26,Severe
+D00149,P00613,Chronic Kidney Disease,2021-09-06,Severe
+D00150,P00251,Hypertension,2021-05-21,Mild
+D00151,P00855,Hyperlipidemia,2022-11-05,Moderate
+D00152,P00447,Hyperlipidemia,2022-10-05,Moderate
+D00153,P00160,Chronic Kidney Disease,2020-05-28,Mild
+D00154,P00032,COPD,2022-05-19,Severe
+D00155,P00858,Coronary Artery Disease,2022-12-10,Mild
+D00156,P00718,Hypertension,2020-10-11,Moderate
+D00157,P00071,Obesity,2025-08-31,Mild
+D00158,P00986,Type 2 Diabetes,2020-10-10,Mild
+D00159,P00118,Peripheral Artery Disease,2021-04-11,Mild
+D00160,P00462,Anemia,2024-12-23,Mild
+D00161,P00245,Stroke,2021-08-21,Severe
+D00162,P00515,Prediabetes,2021-09-24,Mild
+D00163,P00659,Type 2 Diabetes,2022-09-06,Severe
+D00164,P00819,Obesity,2024-07-24,Mild
+D00165,P00970,Hypertension,2023-05-26,Mild
+D00166,P00594,Hyperlipidemia,2022-12-06,Severe
+D00167,P00908,COPD,2025-10-20,Severe
+D00168,P00960,Asthma,2024-03-20,Moderate
+D00169,P00411,Stroke,2025-09-22,Mild
+D00170,P00372,Type 2 Diabetes,2025-05-06,Moderate
+D00171,P00260,Depression,2023-03-05,Mild
+D00172,P00599,Prediabetes,2021-11-26,Moderate
+D00173,P00281,Hyperlipidemia,2022-08-12,Moderate
+D00174,P00526,Prediabetes,2025-07-07,Moderate
+D00175,P00603,Asthma,2023-03-13,Severe
+D00176,P00391,Hyperlipidemia,2021-10-30,Mild
+D00177,P00740,Coronary Artery Disease,2022-12-10,Severe
+D00178,P00603,Heart Failure,2021-08-25,Severe
+D00179,P00825,Hyperlipidemia,2023-08-03,Mild
+D00180,P00651,Prediabetes,2023-10-18,Severe
+D00181,P00003,Coronary Artery Disease,2022-06-06,Mild
+D00182,P00954,Coronary Artery Disease,2024-05-20,Severe
+D00183,P00005,COPD,2025-05-19,Severe
+D00184,P00524,Heart Failure,2021-10-28,Severe
+D00185,P00773,Stroke,2020-07-21,Moderate
+D00186,P00044,Peripheral Artery Disease,2020-11-13,Mild
+D00187,P00651,Chronic Kidney Disease,2023-05-21,Moderate
+D00188,P00273,Anemia,2023-09-24,Mild
+D00189,P00132,Prediabetes,2023-09-21,Moderate
+D00190,P00988,Chronic Kidney Disease,2021-05-19,Moderate
+D00191,P00566,Hypertension,2022-10-06,Mild
+D00192,P00397,COPD,2021-02-10,Mild
+D00193,P00280,Depression,2020-01-20,Mild
+D00194,P00466,Prediabetes,2024-11-05,Moderate
+D00195,P00914,Peripheral Artery Disease,2022-12-01,Severe
+D00196,P00808,Heart Failure,2023-05-08,Severe
+D00197,P00080,Heart Failure,2025-04-03,Severe
+D00198,P00715,Obesity,2021-02-06,Severe
+D00199,P00774,Arthritis,2021-04-14,Severe
+D00200,P00777,Coronary Artery Disease,2025-12-24,Severe
+D00201,P00483,Chronic Kidney Disease,2021-06-11,Moderate
+D00202,P00363,COPD,2023-08-05,Severe
+D00203,P00452,Hyperlipidemia,2021-04-06,Severe
+D00204,P00106,Hypertension,2021-08-06,Mild
+D00205,P00689,Prediabetes,2022-05-29,Severe
+D00206,P00862,Anemia,2021-02-22,Moderate
+D00207,P00439,Arthritis,2023-04-06,Moderate
+D00208,P00499,Obesity,2022-09-17,Mild
+D00209,P00389,Type 2 Diabetes,2023-09-29,Moderate
+D00210,P00948,COPD,2023-03-24,Severe
+D00211,P00576,Obesity,2020-06-19,Mild
+D00212,P00515,Hyperlipidemia,2023-12-12,Mild
+D00213,P00913,Coronary Artery Disease,2020-02-22,Mild
+D00214,P00110,Peripheral Artery Disease,2020-01-14,Moderate
+D00215,P00557,Type 2 Diabetes,2024-04-06,Severe
+D00216,P00702,Prediabetes,2023-07-06,Severe
+D00217,P00739,Chronic Kidney Disease,2024-05-13,Mild
+D00218,P00137,Obesity,2023-06-15,Severe
+D00219,P00922,Arthritis,2024-11-08,Severe
+D00220,P00076,Hypertension,2022-08-05,Moderate
+D00221,P00365,Anemia,2025-06-09,Moderate
+D00222,P00781,Depression,2020-03-08,Mild
+D00223,P00538,Arthritis,2021-04-25,Moderate
+D00224,P00121,Obesity,2022-03-06,Mild
+D00225,P00684,Coronary Artery Disease,2024-05-28,Mild
+D00226,P00702,Depression,2025-02-03,Mild
+D00227,P00500,Asthma,2022-07-27,Mild
+D00228,P00586,COPD,2022-05-05,Severe
+D00229,P00903,Heart Failure,2021-12-27,Severe
+D00230,P00400,Hyperlipidemia,2020-08-03,Moderate
+D00231,P00341,Type 2 Diabetes,2024-09-29,Moderate
+D00232,P00765,Anemia,2024-08-15,Severe
+D00233,P00066,Anemia,2024-09-21,Severe
+D00234,P00867,Asthma,2025-02-16,Moderate
+D00235,P00364,Chronic Kidney Disease,2024-07-13,Mild
+D00236,P00805,Hyperlipidemia,2021-04-16,Mild
+D00237,P00245,Obesity,2021-02-10,Mild
+D00238,P00470,Prediabetes,2020-12-14,Moderate
+D00239,P00456,COPD,2025-01-18,Mild
+D00240,P00573,Prediabetes,2023-08-30,Moderate
+D00241,P00022,Hypertension,2025-10-05,Mild
+D00242,P00211,Hyperlipidemia,2020-11-24,Mild
+D00243,P00608,Anemia,2022-08-23,Severe
+D00244,P00530,Heart Failure,2023-03-31,Moderate
+D00245,P00807,Asthma,2024-09-05,Mild
+D00246,P00235,Asthma,2021-07-17,Severe
+D00247,P00752,Coronary Artery Disease,2023-11-18,Mild
+D00248,P00335,Asthma,2025-02-04,Moderate
+D00249,P00366,Hypertension,2023-10-24,Moderate
+D00250,P00515,Chronic Kidney Disease,2020-12-15,Severe
+D00251,P00425,Hypertension,2020-08-12,Severe
+D00252,P00831,Prediabetes,2020-12-16,Severe
+D00253,P00252,Obesity,2023-07-25,Severe
+D00254,P00186,Heart Failure,2025-09-18,Mild
+D00255,P00063,Type 2 Diabetes,2022-07-13,Mild
+D00256,P00368,Chronic Kidney Disease,2022-07-27,Moderate
+D00257,P00954,COPD,2021-02-14,Severe
+D00258,P00289,COPD,2025-04-26,Mild
+D00259,P00403,Chronic Kidney Disease,2021-09-22,Severe
+D00260,P00722,Hypertension,2020-06-06,Moderate
+D00261,P00310,Hyperlipidemia,2021-12-30,Mild
+D00262,P00737,Hypertension,2025-05-29,Mild
+D00263,P00400,Stroke,2020-07-13,Severe
+D00264,P00438,Type 2 Diabetes,2022-08-29,Moderate
+D00265,P00481,COPD,2020-05-26,Severe
+D00266,P00604,Type 2 Diabetes,2025-02-02,Mild
+D00267,P00632,COPD,2023-11-11,Moderate
+D00268,P00648,Obesity,2024-01-31,Severe
+D00269,P00345,Arthritis,2021-11-29,Moderate
+D00270,P00974,Type 2 Diabetes,2023-12-29,Severe
+D00271,P00972,Prediabetes,2025-07-13,Moderate
+D00272,P00064,COPD,2020-04-10,Severe
+D00273,P00170,Anemia,2020-05-23,Severe
+D00274,P00583,Arthritis,2025-08-31,Mild
+D00275,P00835,Obesity,2021-12-30,Mild
+D00276,P00026,Hyperlipidemia,2022-01-27,Severe
+D00277,P00978,Asthma,2024-06-06,Severe
+D00278,P00535,Asthma,2023-10-18,Severe
+D00279,P00714,Stroke,2025-10-23,Severe
+D00280,P00787,Obesity,2021-04-07,Severe
+D00281,P00347,Prediabetes,2023-10-01,Mild
+D00282,P00912,Arthritis,2020-02-05,Severe
+D00283,P00971,Prediabetes,2023-06-18,Moderate
+D00284,P00855,Anemia,2023-06-16,Moderate
+D00285,P00870,Depression,2025-12-27,Mild
+D00286,P00511,Coronary Artery Disease,2022-12-06,Moderate
+D00287,P00557,Stroke,2020-06-12,Mild
+D00288,P00704,Stroke,2025-10-01,Moderate
+D00289,P00840,COPD,2023-06-24,Moderate
+D00290,P00246,Hyperlipidemia,2021-12-01,Severe
+D00291,P00168,Chronic Kidney Disease,2022-12-04,Mild
+D00292,P00861,Hyperlipidemia,2022-09-28,Moderate
+D00293,P00810,Heart Failure,2025-05-31,Mild
+D00294,P00702,Hyperlipidemia,2023-10-01,Moderate
+D00295,P00124,Heart Failure,2025-01-24,Moderate
+D00296,P00353,Depression,2024-03-14,Mild
+D00297,P00376,Peripheral Artery Disease,2025-08-07,Mild
+D00298,P00738,Hyperlipidemia,2020-07-17,Mild
+D00299,P00153,Chronic Kidney Disease,2023-09-03,Severe
+D00300,P00404,Chronic Kidney Disease,2025-03-31,Severe
+D00301,P00442,Coronary Artery Disease,2022-08-03,Moderate
+D00302,P00821,Arthritis,2025-06-29,Mild
+D00303,P00240,COPD,2024-05-22,Mild
+D00304,P00851,COPD,2020-11-15,Severe
+D00305,P00550,Prediabetes,2025-12-27,Mild
+D00306,P00055,Hypertension,2020-04-16,Mild
+D00307,P00739,Prediabetes,2022-12-23,Mild
+D00308,P00936,Anemia,2024-04-04,Moderate
+D00309,P00411,Coronary Artery Disease,2025-12-16,Severe
+D00310,P00785,Asthma,2022-10-28,Severe
+D00311,P00850,Peripheral Artery Disease,2023-06-04,Moderate
+D00312,P00756,Heart Failure,2022-03-19,Moderate
+D00313,P00864,Hypertension,2023-04-19,Moderate
+D00314,P00688,Depression,2025-09-10,Moderate
+D00315,P00793,Prediabetes,2023-03-20,Severe
+D00316,P00730,Prediabetes,2025-05-25,Mild
+D00317,P00208,Obesity,2025-03-06,Mild
+D00318,P00240,Anemia,2020-06-10,Severe
+D00319,P00461,Coronary Artery Disease,2023-02-09,Moderate
+D00320,P00205,Chronic Kidney Disease,2022-10-20,Severe
+D00321,P00757,Depression,2024-05-03,Severe
+D00322,P00499,Asthma,2022-02-23,Moderate
+D00323,P00641,Obesity,2020-10-14,Mild
+D00324,P00594,Obesity,2024-04-11,Mild
+D00325,P00394,Obesity,2023-10-24,Moderate
+D00326,P00381,Obesity,2024-05-27,Mild
+D00327,P00574,Asthma,2024-05-17,Mild
+D00328,P00149,Hypertension,2022-08-21,Moderate
+D00329,P00976,Heart Failure,2021-06-20,Mild
+D00330,P00944,Anemia,2025-07-01,Moderate
+D00331,P00654,Obesity,2022-07-19,Moderate
+D00332,P00146,Anemia,2020-02-25,Severe
+D00333,P00542,Asthma,2023-11-23,Mild
+D00334,P00284,Asthma,2021-04-09,Moderate
+D00335,P00430,Type 2 Diabetes,2023-08-15,Mild
+D00336,P00870,Arthritis,2023-08-03,Severe
+D00337,P00488,Hypertension,2024-02-09,Mild
+D00338,P00081,COPD,2023-02-20,Moderate
+D00339,P00986,Coronary Artery Disease,2021-11-28,Mild
+D00340,P00537,Hypertension,2020-12-01,Severe
+D00341,P00927,Obesity,2024-11-06,Mild
+D00342,P00942,Asthma,2024-09-11,Moderate
+D00343,P00749,Chronic Kidney Disease,2025-05-29,Moderate
+D00344,P00629,Obesity,2023-06-09,Mild
+D00345,P00578,Prediabetes,2025-05-01,Moderate
+D00346,P00808,COPD,2025-06-08,Moderate
+D00347,P00085,Asthma,2022-12-10,Severe
+D00348,P00246,Arthritis,2022-08-26,Mild
+D00349,P00101,COPD,2025-04-28,Moderate
+D00350,P00879,Hypertension,2022-02-08,Severe
+D00351,P00973,COPD,2021-08-22,Mild
+D00352,P00421,Obesity,2023-03-01,Severe
+D00353,P00217,COPD,2023-01-20,Severe
+D00354,P00243,Hypertension,2021-07-12,Mild
+D00355,P00283,Anemia,2024-04-09,Severe
+D00356,P00545,Asthma,2021-06-02,Mild
+D00357,P00739,Hypertension,2025-06-24,Moderate
+D00358,P00683,Heart Failure,2024-06-23,Severe
+D00359,P00139,Hyperlipidemia,2024-01-10,Mild
+D00360,P00589,Coronary Artery Disease,2021-07-27,Severe
+D00361,P00108,Coronary Artery Disease,2021-08-15,Moderate
+D00362,P00962,Hyperlipidemia,2022-11-08,Severe
+D00363,P01000,Hypertension,2025-03-03,Severe
+D00364,P00478,Asthma,2021-04-19,Moderate
+D00365,P00737,Stroke,2021-01-07,Mild
+D00366,P00623,Heart Failure,2024-09-14,Mild
+D00367,P00685,Chronic Kidney Disease,2021-02-26,Mild
+D00368,P00778,Asthma,2020-07-21,Moderate
+D00369,P00653,Asthma,2023-02-06,Mild
+D00370,P00090,Arthritis,2023-03-19,Moderate
+D00371,P00858,COPD,2024-05-01,Mild
+D00372,P00093,Obesity,2024-09-19,Moderate
+D00373,P00468,Chronic Kidney Disease,2024-11-27,Mild
+D00374,P00930,Hyperlipidemia,2020-09-30,Mild
+D00375,P00897,Arthritis,2021-07-14,Moderate
+D00376,P00459,Hypertension,2023-11-30,Severe
+D00377,P00749,COPD,2024-01-04,Moderate
+D00378,P00566,Chronic Kidney Disease,2021-09-19,Severe
+D00379,P00741,Peripheral Artery Disease,2023-01-03,Mild
+D00380,P00537,Obesity,2021-04-21,Mild
+D00381,P00345,Arthritis,2025-02-19,Mild
+D00382,P00435,Prediabetes,2022-08-20,Moderate
+D00383,P00155,Stroke,2023-12-03,Mild
+D00384,P00017,Hyperlipidemia,2025-03-01,Severe
+D00385,P00371,Chronic Kidney Disease,2022-03-30,Moderate
+D00386,P00526,Hyperlipidemia,2025-12-30,Severe
+D00387,P00623,Type 2 Diabetes,2021-10-02,Severe
+D00388,P00176,Anemia,2024-07-14,Moderate
+D00389,P00102,Peripheral Artery Disease,2020-07-22,Moderate
+D00390,P00938,Hypertension,2024-01-29,Moderate
+D00391,P00515,Coronary Artery Disease,2023-02-10,Severe
+D00392,P00029,Stroke,2025-02-09,Moderate
+D00393,P00024,Hypertension,2025-07-29,Mild
+D00394,P00501,Arthritis,2025-08-13,Mild
+D00395,P00360,Type 2 Diabetes,2021-07-02,Severe
+D00396,P00654,Arthritis,2025-12-31,Severe
+D00397,P00969,Hyperlipidemia,2020-09-08,Severe
+D00398,P00981,Stroke,2023-05-21,Severe
+D00399,P00778,Chronic Kidney Disease,2020-03-13,Mild
+D00400,P00485,Depression,2023-02-10,Moderate
+D00401,P00965,Coronary Artery Disease,2025-02-22,Severe
+D00402,P00861,Type 2 Diabetes,2020-06-28,Mild
+D00403,P00296,Depression,2023-12-18,Severe
+D00404,P00985,Prediabetes,2024-03-04,Severe
+D00405,P00969,Chronic Kidney Disease,2020-03-26,Moderate
+D00406,P00813,COPD,2024-09-26,Severe
+D00407,P00795,COPD,2021-07-23,Mild
+D00408,P00083,Type 2 Diabetes,2022-08-11,Mild
+D00409,P00409,Hyperlipidemia,2023-07-29,Mild
+D00410,P00925,Hypertension,2023-06-04,Moderate
+D00411,P00937,Peripheral Artery Disease,2023-11-11,Mild
+D00412,P00326,Depression,2025-08-03,Mild
+D00413,P00448,Arthritis,2025-01-09,Moderate
+D00414,P00368,Anemia,2020-12-27,Moderate
+D00415,P00753,Chronic Kidney Disease,2025-12-03,Mild
+D00416,P00530,Asthma,2023-09-29,Moderate
+D00417,P00997,Arthritis,2022-09-27,Severe
+D00418,P00009,Obesity,2025-12-29,Moderate
+D00419,P00066,Heart Failure,2020-08-22,Severe
+D00420,P00426,Coronary Artery Disease,2021-11-15,Moderate
+D00421,P00274,COPD,2024-12-18,Severe
+D00422,P00990,Prediabetes,2020-12-19,Mild
+D00423,P00917,Coronary Artery Disease,2021-11-25,Mild
+D00424,P00540,Stroke,2023-11-23,Mild
+D00425,P00903,Prediabetes,2024-12-15,Severe
+D00426,P00810,Coronary Artery Disease,2025-09-10,Severe
+D00427,P00959,Prediabetes,2020-10-24,Severe
+D00428,P00102,COPD,2025-07-25,Mild
+D00429,P00890,Anemia,2025-12-20,Severe
+D00430,P00168,Asthma,2025-05-28,Severe
+D00431,P00134,COPD,2023-04-16,Severe
+D00432,P00286,Chronic Kidney Disease,2025-09-13,Severe
+D00433,P00217,Depression,2024-10-03,Moderate
+D00434,P00638,Hyperlipidemia,2023-04-15,Moderate
+D00435,P00064,Hyperlipidemia,2021-07-10,Severe
+D00436,P00557,Coronary Artery Disease,2023-06-29,Mild
+D00437,P00731,Prediabetes,2020-03-21,Severe
+D00438,P00506,Arthritis,2025-12-30,Mild
+D00439,P00266,Peripheral Artery Disease,2025-03-26,Severe
+D00440,P00690,Hypertension,2023-08-06,Moderate
+D00441,P00510,Arthritis,2023-07-18,Severe
+D00442,P00681,Prediabetes,2024-09-04,Moderate
+D00443,P00283,COPD,2024-06-22,Moderate
+D00444,P00602,COPD,2025-08-09,Moderate
+D00445,P00876,Type 2 Diabetes,2022-05-14,Severe
+D00446,P00605,Coronary Artery Disease,2022-02-26,Mild
+D00447,P00088,Obesity,2023-11-12,Moderate
+D00448,P00906,Anemia,2022-12-06,Mild
+D00449,P00991,Asthma,2023-06-17,Severe
+D00450,P00531,COPD,2020-11-20,Mild
+D00451,P00134,Hypertension,2022-02-20,Severe
+D00452,P00759,Heart Failure,2021-10-03,Severe
+D00453,P00203,Anemia,2022-09-12,Severe
+D00454,P00340,Stroke,2020-06-22,Severe
+D00455,P00676,Type 2 Diabetes,2023-06-05,Moderate
+D00456,P00385,Asthma,2020-09-29,Mild
+D00457,P00502,Anemia,2020-12-31,Severe
+D00458,P00395,Stroke,2024-04-26,Moderate
+D00459,P00027,Arthritis,2022-10-31,Mild
+D00460,P00063,Stroke,2021-01-11,Severe
+D00461,P00447,Depression,2021-01-06,Severe
+D00462,P00528,Stroke,2025-08-28,Moderate
+D00463,P00537,Heart Failure,2022-11-15,Moderate
+D00464,P00439,Heart Failure,2022-06-01,Mild
+D00465,P00196,Arthritis,2022-05-10,Mild
+D00466,P00520,Type 2 Diabetes,2022-04-26,Moderate
+D00467,P00611,Type 2 Diabetes,2025-10-15,Moderate
+D00468,P00836,Anemia,2024-07-15,Severe
+D00469,P00381,Asthma,2025-02-19,Moderate
+D00470,P00279,Anemia,2023-11-16,Severe
+D00471,P00232,Obesity,2020-01-20,Moderate
+D00472,P00863,Peripheral Artery Disease,2022-12-17,Mild
+D00473,P00355,Peripheral Artery Disease,2023-08-03,Moderate
+D00474,P00548,Coronary Artery Disease,2022-09-19,Mild
+D00475,P00015,Arthritis,2025-09-30,Severe
+D00476,P00579,Heart Failure,2025-11-14,Severe
+D00477,P00373,Prediabetes,2025-11-09,Moderate
+D00478,P00839,COPD,2025-11-04,Moderate
+D00479,P00875,Obesity,2020-10-25,Moderate
+D00480,P00927,Chronic Kidney Disease,2020-11-19,Mild
+D00481,P00581,Anemia,2021-09-04,Mild
+D00482,P00482,Arthritis,2022-08-16,Mild
+D00483,P00403,Heart Failure,2020-06-28,Mild
+D00484,P00463,Prediabetes,2024-08-28,Severe
+D00485,P00906,Peripheral Artery Disease,2024-10-02,Severe
+D00486,P00816,Type 2 Diabetes,2025-03-23,Severe
+D00487,P00374,Anemia,2025-12-09,Moderate
+D00488,P00993,Coronary Artery Disease,2025-03-05,Severe
+D00489,P00933,Hyperlipidemia,2024-09-05,Moderate
+D00490,P00139,Obesity,2023-09-29,Severe
+D00491,P00112,Type 2 Diabetes,2022-07-11,Mild
+D00492,P00072,Type 2 Diabetes,2020-06-02,Mild
+D00493,P00209,Depression,2020-06-12,Severe
+D00494,P00458,Depression,2022-07-06,Mild
+D00495,P00927,Type 2 Diabetes,2022-03-28,Moderate
+D00496,P00797,Type 2 Diabetes,2021-09-26,Moderate
+D00497,P00803,Hyperlipidemia,2021-07-31,Mild
+D00498,P00597,Asthma,2020-09-30,Severe
+D00499,P00788,Coronary Artery Disease,2024-02-24,Severe
+D00500,P00863,Type 2 Diabetes,2022-12-28,Mild
+D00501,P00829,Hyperlipidemia,2022-12-09,Mild
+D00502,P00447,Asthma,2021-03-23,Moderate
+D00503,P00962,Type 2 Diabetes,2020-12-31,Mild
+D00504,P00153,Asthma,2023-12-09,Severe
+D00505,P00373,Hypertension,2022-02-25,Mild
+D00506,P00404,Prediabetes,2023-04-21,Mild
+D00507,P00283,Anemia,2023-07-19,Moderate
+D00508,P00867,Prediabetes,2023-11-08,Severe
+D00509,P00215,Chronic Kidney Disease,2020-07-24,Mild
+D00510,P00748,Anemia,2022-06-26,Severe
+D00511,P00608,Depression,2021-02-14,Mild
+D00512,P00474,Coronary Artery Disease,2020-05-15,Moderate
+D00513,P00940,Heart Failure,2022-08-12,Mild
+D00514,P00594,Chronic Kidney Disease,2021-10-03,Severe
+D00515,P00102,Obesity,2020-01-06,Mild
+D00516,P00615,Hyperlipidemia,2025-09-17,Mild
+D00517,P00427,Asthma,2021-04-18,Mild
+D00518,P00188,Asthma,2025-10-03,Severe
+D00519,P00595,Anemia,2020-10-23,Severe
+D00520,P00569,COPD,2020-09-26,Moderate
+D00521,P00255,Hyperlipidemia,2021-10-07,Mild
+D00522,P00340,Stroke,2022-08-25,Mild
+D00523,P00843,Asthma,2022-11-18,Mild
+D00524,P00315,Asthma,2020-12-24,Moderate
+D00525,P00974,Heart Failure,2020-03-24,Moderate
+D00526,P00624,Prediabetes,2020-02-28,Moderate
+D00527,P00128,Depression,2022-12-17,Moderate
+D00528,P00090,Coronary Artery Disease,2020-05-15,Severe
+D00529,P00161,Depression,2022-12-12,Mild
+D00530,P00031,Coronary Artery Disease,2021-05-10,Severe
+D00531,P00448,Arthritis,2021-05-25,Moderate
+D00532,P00882,Type 2 Diabetes,2021-12-11,Mild
+D00533,P00575,Chronic Kidney Disease,2024-04-25,Mild
+D00534,P00712,Stroke,2020-04-09,Severe
+D00535,P00526,Coronary Artery Disease,2020-12-21,Moderate
+D00536,P00124,Heart Failure,2021-07-02,Moderate
+D00537,P00406,Heart Failure,2023-10-10,Severe
+D00538,P00892,Obesity,2025-09-25,Mild
+D00539,P00795,Coronary Artery Disease,2024-10-01,Moderate
+D00540,P00573,Stroke,2025-02-10,Severe
+D00541,P00570,Coronary Artery Disease,2021-10-12,Mild
+D00542,P00977,Asthma,2021-01-13,Severe
+D00543,P00780,Prediabetes,2024-10-26,Moderate
+D00544,P00636,Chronic Kidney Disease,2020-02-23,Moderate
+D00545,P00203,Type 2 Diabetes,2024-04-29,Severe
+D00546,P00574,Peripheral Artery Disease,2021-04-02,Moderate
+D00547,P00508,Peripheral Artery Disease,2022-06-20,Mild
+D00548,P00137,Prediabetes,2023-09-23,Moderate
+D00549,P00183,Stroke,2021-11-03,Moderate
+D00550,P00843,COPD,2022-02-26,Severe
+D00551,P00038,Prediabetes,2025-05-31,Severe
+D00552,P00698,Hypertension,2021-04-28,Severe
+D00553,P00139,Asthma,2020-01-25,Severe
+D00554,P00911,Prediabetes,2022-10-07,Mild
+D00555,P00024,COPD,2021-01-14,Moderate
+D00556,P00043,Type 2 Diabetes,2025-04-08,Severe
+D00557,P00627,COPD,2023-12-05,Mild
+D00558,P00078,Obesity,2020-06-29,Mild
+D00559,P00900,Prediabetes,2025-10-17,Moderate
+D00560,P00814,COPD,2024-08-12,Severe
+D00561,P00112,Peripheral Artery Disease,2021-10-03,Moderate
+D00562,P00571,Depression,2024-04-08,Moderate
+D00563,P00965,Anemia,2025-05-01,Moderate
+D00564,P00774,Chronic Kidney Disease,2021-03-07,Mild
+D00565,P00640,Anemia,2025-01-24,Mild
+D00566,P00857,Hypertension,2025-10-07,Mild
+D00567,P00893,Chronic Kidney Disease,2025-08-27,Moderate
+D00568,P00767,Obesity,2025-12-06,Severe
+D00569,P00737,Obesity,2024-03-23,Moderate
+D00570,P00658,Type 2 Diabetes,2021-09-21,Mild
+D00571,P00748,COPD,2022-02-16,Severe
+D00572,P00599,Heart Failure,2021-05-04,Moderate
+D00573,P00850,Chronic Kidney Disease,2024-06-20,Severe
+D00574,P00823,Asthma,2023-05-26,Moderate
+D00575,P00323,Coronary Artery Disease,2024-01-01,Severe
+D00576,P00627,Anemia,2020-07-13,Mild
+D00577,P00373,Type 2 Diabetes,2025-10-08,Moderate
+D00578,P00087,Heart Failure,2022-11-06,Severe
+D00579,P00420,Peripheral Artery Disease,2021-12-04,Severe
+D00580,P00042,Asthma,2025-09-29,Severe
+D00581,P00946,Type 2 Diabetes,2022-08-10,Mild
+D00582,P00928,Chronic Kidney Disease,2025-09-19,Mild
+D00583,P00582,Stroke,2023-09-05,Severe
+D00584,P00469,Coronary Artery Disease,2022-04-21,Mild
+D00585,P00516,Obesity,2025-10-06,Severe
+D00586,P00760,Prediabetes,2020-07-25,Severe
+D00587,P00805,Coronary Artery Disease,2024-10-01,Moderate
+D00588,P00207,Arthritis,2024-12-27,Severe
+D00589,P00243,COPD,2024-08-26,Mild
+D00590,P00854,COPD,2023-11-23,Severe
+D00591,P00376,Heart Failure,2025-02-05,Moderate
+D00592,P00594,Chronic Kidney Disease,2023-02-24,Severe
+D00593,P00001,Asthma,2025-01-21,Mild
+D00594,P00181,Depression,2021-10-15,Mild
+D00595,P00779,Arthritis,2020-08-11,Severe
+D00596,P00789,Hyperlipidemia,2024-03-07,Mild
+D00597,P00671,Coronary Artery Disease,2021-08-23,Mild
+D00598,P00120,Asthma,2024-05-11,Mild
+D00599,P00947,Hypertension,2021-01-09,Mild
+D00600,P00526,Hypertension,2023-12-28,Moderate
+D00601,P00028,Type 2 Diabetes,2022-03-08,Mild
+D00602,P00087,COPD,2023-08-23,Severe
+D00603,P00196,Type 2 Diabetes,2021-05-29,Moderate
+D00604,P00021,Depression,2022-11-07,Severe
+D00605,P00696,Peripheral Artery Disease,2022-09-20,Mild
+D00606,P00132,Chronic Kidney Disease,2024-04-24,Moderate
+D00607,P00504,Depression,2025-08-20,Severe
+D00608,P00990,Type 2 Diabetes,2024-03-11,Severe
+D00609,P00016,Depression,2021-12-19,Mild
+D00610,P00987,Type 2 Diabetes,2025-04-29,Severe
+D00611,P00099,Anemia,2022-07-08,Mild
+D00612,P00178,COPD,2025-03-30,Moderate
+D00613,P00638,Coronary Artery Disease,2020-09-23,Mild
+D00614,P00422,Heart Failure,2024-08-12,Mild
+D00615,P00784,Heart Failure,2023-12-24,Moderate
+D00616,P00986,Arthritis,2022-02-27,Mild
+D00617,P00894,Stroke,2025-10-16,Mild
+D00618,P00061,Asthma,2024-08-15,Moderate
+D00619,P00794,Chronic Kidney Disease,2023-09-23,Mild
+D00620,P00625,Peripheral Artery Disease,2024-09-29,Mild
+D00621,P00173,Obesity,2020-10-25,Mild
+D00622,P00284,Coronary Artery Disease,2020-05-19,Moderate
+D00623,P00928,COPD,2024-06-19,Mild
+D00624,P00678,Stroke,2024-07-08,Severe
+D00625,P00838,Prediabetes,2024-07-16,Severe
+D00626,P00251,Depression,2021-03-29,Mild
+D00627,P00508,Anemia,2024-02-09,Mild
+D00628,P00450,Stroke,2022-03-27,Moderate
+D00629,P00973,COPD,2021-05-20,Mild
+D00630,P00053,Stroke,2022-11-11,Severe
+D00631,P00077,Arthritis,2021-05-26,Mild
+D00632,P00448,Asthma,2023-10-08,Severe
+D00633,P00090,Chronic Kidney Disease,2021-01-08,Moderate
+D00634,P00932,Prediabetes,2021-09-01,Moderate
+D00635,P00918,Hypertension,2023-12-14,Mild
+D00636,P00679,Asthma,2023-06-13,Mild
+D00637,P00971,Depression,2023-03-17,Mild
+D00638,P00057,Asthma,2023-09-11,Severe
+D00639,P00717,Hypertension,2022-12-23,Moderate
+D00640,P00455,Stroke,2025-11-24,Moderate
+D00641,P00766,Peripheral Artery Disease,2025-05-23,Mild
+D00642,P00298,Hypertension,2020-10-19,Mild
+D00643,P00538,COPD,2024-03-04,Moderate
+D00644,P00065,COPD,2021-01-26,Severe
+D00645,P00129,Obesity,2025-02-04,Severe
+D00646,P00280,Arthritis,2022-03-15,Severe
+D00647,P00569,Coronary Artery Disease,2020-02-25,Severe
+D00648,P00813,Depression,2021-07-10,Mild
+D00649,P00800,Asthma,2025-01-15,Mild
+D00650,P00022,Peripheral Artery Disease,2025-01-05,Severe
+D00651,P00450,Hypertension,2022-08-03,Severe
+D00652,P00826,Peripheral Artery Disease,2021-04-18,Severe
+D00653,P00162,Arthritis,2020-06-30,Severe
+D00654,P00750,Obesity,2024-02-01,Severe
+D00655,P00811,Hyperlipidemia,2021-07-25,Moderate
+D00656,P00350,Peripheral Artery Disease,2021-10-13,Moderate
+D00657,P00252,Heart Failure,2020-06-30,Severe
+D00658,P00371,Hyperlipidemia,2023-11-01,Moderate
+D00659,P00134,Asthma,2025-03-19,Severe
+D00660,P00401,Chronic Kidney Disease,2021-08-26,Moderate
+D00661,P00918,Chronic Kidney Disease,2020-08-23,Severe
+D00662,P00618,Asthma,2020-09-12,Mild
+D00663,P00453,Peripheral Artery Disease,2025-11-10,Severe
+D00664,P00256,Stroke,2022-11-21,Severe
+D00665,P00752,Stroke,2020-10-09,Moderate
+D00666,P00940,COPD,2025-10-22,Mild
+D00667,P00990,Hyperlipidemia,2022-03-28,Moderate
+D00668,P00306,Prediabetes,2022-12-29,Moderate
+D00669,P00700,Stroke,2021-10-06,Severe
+D00670,P00617,Chronic Kidney Disease,2024-01-15,Moderate
+D00671,P00239,Heart Failure,2020-09-14,Severe
+D00672,P00324,Stroke,2024-03-10,Mild
+D00673,P00341,Prediabetes,2020-02-17,Severe
+D00674,P00604,Depression,2020-02-15,Mild
+D00675,P00395,Heart Failure,2023-07-08,Mild
+D00676,P00217,COPD,2024-10-09,Mild
+D00677,P00237,Coronary Artery Disease,2021-12-15,Moderate
+D00678,P00402,Asthma,2024-01-09,Moderate
+D00679,P00172,Depression,2023-05-21,Mild
+D00680,P00006,Hypertension,2025-10-25,Moderate
+D00681,P00038,Hypertension,2021-11-20,Severe
+D00682,P00645,COPD,2025-04-07,Moderate
+D00683,P00620,Chronic Kidney Disease,2021-01-11,Mild
+D00684,P00110,Heart Failure,2025-08-08,Moderate
+D00685,P00641,Anemia,2024-09-20,Moderate
+D00686,P00958,Arthritis,2022-05-03,Moderate
+D00687,P00159,Heart Failure,2024-03-25,Severe
+D00688,P00352,Heart Failure,2020-10-31,Severe
+D00689,P00402,COPD,2022-06-23,Severe
+D00690,P00838,Peripheral Artery Disease,2022-10-11,Moderate
+D00691,P00844,Arthritis,2024-01-07,Severe
+D00692,P00055,Coronary Artery Disease,2020-04-07,Severe
+D00693,P00854,Depression,2020-04-17,Mild
+D00694,P00941,Arthritis,2023-08-24,Severe
+D00695,P00602,Anemia,2024-06-03,Severe
+D00696,P00182,Prediabetes,2025-10-12,Severe
+D00697,P00564,Hyperlipidemia,2023-07-16,Mild
+D00698,P00971,Hypertension,2020-12-31,Severe
+D00699,P00477,Chronic Kidney Disease,2022-01-17,Mild
+D00700,P00603,Peripheral Artery Disease,2025-07-18,Moderate
+D00701,P00598,Arthritis,2024-03-13,Moderate
+D00702,P00403,Depression,2023-08-01,Mild
+D00703,P00196,Asthma,2022-06-24,Moderate
+D00704,P00438,Coronary Artery Disease,2023-04-03,Mild
+D00705,P00312,Peripheral Artery Disease,2025-04-05,Mild
+D00706,P00673,Arthritis,2025-03-28,Severe
+D00707,P00979,Type 2 Diabetes,2021-12-04,Moderate
+D00708,P00040,Type 2 Diabetes,2020-11-26,Moderate
+D00709,P00473,Type 2 Diabetes,2023-03-09,Severe
+D00710,P00789,Arthritis,2023-09-13,Moderate
+D00711,P00657,Anemia,2025-12-29,Mild
+D00712,P00768,Type 2 Diabetes,2023-04-17,Severe
+D00713,P00996,Stroke,2024-12-23,Mild
+D00714,P00367,Chronic Kidney Disease,2021-04-22,Severe
+D00715,P00338,Obesity,2025-08-01,Mild
+D00716,P00343,Heart Failure,2020-10-02,Severe
+D00717,P00031,Chronic Kidney Disease,2021-02-15,Moderate
+D00718,P00909,Hyperlipidemia,2023-12-16,Moderate
+D00719,P00537,Arthritis,2023-08-29,Severe
+D00720,P00938,Hypertension,2023-12-06,Severe
+D00721,P00683,Type 2 Diabetes,2024-04-16,Moderate
+D00722,P00965,Hyperlipidemia,2022-09-20,Severe
+D00723,P00553,Anemia,2024-01-01,Mild
+D00724,P00687,COPD,2020-02-08,Mild
+D00725,P00490,Hyperlipidemia,2021-11-29,Moderate
+D00726,P00500,Anemia,2025-12-25,Mild
+D00727,P00331,Heart Failure,2020-03-30,Moderate
+D00728,P00832,Type 2 Diabetes,2025-09-16,Mild
+D00729,P00581,Coronary Artery Disease,2022-09-09,Severe
+D00730,P00245,Prediabetes,2024-07-20,Severe
+D00731,P00364,Chronic Kidney Disease,2024-12-02,Mild
+D00732,P00683,Hyperlipidemia,2023-07-21,Moderate
+D00733,P00790,Stroke,2022-11-22,Mild
+D00734,P00282,Hyperlipidemia,2020-04-21,Moderate
+D00735,P00575,Type 2 Diabetes,2020-07-05,Severe
+D00736,P00209,Arthritis,2021-09-11,Moderate
+D00737,P00291,COPD,2022-11-02,Mild
+D00738,P00695,Coronary Artery Disease,2022-05-25,Moderate
+D00739,P00088,COPD,2021-04-08,Severe
+D00740,P00907,Coronary Artery Disease,2020-04-05,Severe
+D00741,P00526,Obesity,2022-03-20,Moderate
+D00742,P00302,Chronic Kidney Disease,2022-02-06,Mild
+D00743,P00121,Peripheral Artery Disease,2025-06-01,Mild
+D00744,P00245,Asthma,2025-08-04,Severe
+D00745,P00800,Hyperlipidemia,2021-09-11,Mild
+D00746,P00378,Prediabetes,2020-09-27,Moderate
+D00747,P00010,Anemia,2023-05-15,Moderate
+D00748,P00601,Coronary Artery Disease,2024-12-08,Moderate
+D00749,P00033,Stroke,2020-07-18,Severe
+D00750,P00952,Obesity,2020-08-27,Mild
+D00751,P00362,Heart Failure,2024-01-27,Moderate
+D00752,P00812,Hypertension,2022-08-08,Moderate
+D00753,P00368,Asthma,2025-01-23,Moderate
+D00754,P00072,Prediabetes,2024-05-26,Moderate
+D00755,P00409,Type 2 Diabetes,2020-10-11,Mild
+D00756,P00485,Type 2 Diabetes,2023-09-20,Mild
+D00757,P00248,Peripheral Artery Disease,2025-12-22,Moderate
+D00758,P00841,Hyperlipidemia,2024-02-29,Mild
+D00759,P00180,Anemia,2022-08-12,Moderate
+D00760,P00569,Coronary Artery Disease,2021-07-21,Severe
+D00761,P00861,Peripheral Artery Disease,2025-11-07,Moderate
+D00762,P00127,Arthritis,2020-06-21,Severe
+D00763,P00230,COPD,2022-07-10,Severe
+D00764,P00407,Hyperlipidemia,2024-10-20,Mild
+D00765,P00692,Type 2 Diabetes,2022-03-26,Moderate
+D00766,P00213,Heart Failure,2020-06-12,Mild
+D00767,P00859,Peripheral Artery Disease,2025-07-26,Mild
+D00768,P00002,Anemia,2021-11-08,Moderate
+D00769,P00542,Heart Failure,2022-08-19,Moderate
+D00770,P00968,Peripheral Artery Disease,2025-06-27,Mild
+D00771,P00391,Hyperlipidemia,2024-03-26,Severe
+D00772,P00242,Prediabetes,2020-05-09,Severe
+D00773,P00480,Arthritis,2021-11-25,Moderate
+D00774,P00224,Hyperlipidemia,2020-06-16,Moderate
+D00775,P00212,COPD,2024-05-02,Severe
+D00776,P00881,Arthritis,2023-07-25,Severe
+D00777,P00833,Coronary Artery Disease,2024-12-17,Mild
+D00778,P00998,Peripheral Artery Disease,2020-11-12,Moderate
+D00779,P00781,Heart Failure,2025-12-11,Mild
+D00780,P00162,Peripheral Artery Disease,2025-05-30,Mild
+D00781,P00756,Arthritis,2023-09-27,Mild
+D00782,P00531,Arthritis,2020-10-17,Severe
+D00783,P00220,Arthritis,2021-11-01,Mild
+D00784,P00427,Type 2 Diabetes,2022-06-03,Moderate
+D00785,P00151,Type 2 Diabetes,2020-06-12,Moderate
+D00786,P00222,Prediabetes,2022-07-29,Severe
+D00787,P00102,Heart Failure,2023-10-28,Moderate
+D00788,P00380,Coronary Artery Disease,2020-06-13,Moderate
+D00789,P00917,Coronary Artery Disease,2021-12-08,Mild
+D00790,P00089,Hypertension,2022-05-11,Mild
+D00791,P00701,Coronary Artery Disease,2023-10-09,Severe
+D00792,P00931,Anemia,2024-06-21,Moderate
+D00793,P00177,Obesity,2021-04-06,Moderate
+D00794,P00417,Obesity,2023-03-05,Moderate
+D00795,P00678,Depression,2022-09-22,Mild
+D00796,P00978,Peripheral Artery Disease,2024-05-22,Moderate
+D00797,P00860,Stroke,2020-09-03,Moderate
+D00798,P00439,Asthma,2023-11-13,Mild
+D00799,P00906,Arthritis,2025-09-18,Severe
+D00800,P00641,Hypertension,2023-01-07,Mild
+D00801,P00628,Prediabetes,2024-05-23,Severe
+D00802,P00637,Heart Failure,2022-10-18,Mild
+D00803,P00516,Stroke,2025-12-24,Mild
+D00804,P00980,Chronic Kidney Disease,2025-04-06,Severe
+D00805,P00293,Hyperlipidemia,2020-03-01,Severe
+D00806,P00890,Obesity,2022-05-20,Severe
+D00807,P00576,Obesity,2020-12-31,Moderate
+D00808,P00217,Chronic Kidney Disease,2024-03-22,Severe
+D00809,P00815,Anemia,2021-06-25,Moderate
+D00810,P00522,Stroke,2020-03-20,Moderate
+D00811,P00894,Stroke,2022-02-01,Severe
+D00812,P00525,COPD,2023-04-04,Mild
+D00813,P00661,Peripheral Artery Disease,2023-02-22,Moderate
+D00814,P00017,Depression,2025-09-24,Severe
+D00815,P00090,Peripheral Artery Disease,2025-02-04,Moderate
+D00816,P00916,Hyperlipidemia,2022-06-18,Moderate
+D00817,P00706,Stroke,2021-03-07,Mild
+D00818,P00592,Type 2 Diabetes,2024-05-25,Mild
+D00819,P00606,Anemia,2022-10-10,Mild
+D00820,P00381,Depression,2021-01-22,Mild
+D00821,P00119,Obesity,2021-12-26,Moderate
+D00822,P00350,Peripheral Artery Disease,2022-06-27,Moderate
+D00823,P00856,Heart Failure,2021-03-11,Severe
+D00824,P00897,Chronic Kidney Disease,2022-04-26,Moderate
+D00825,P00811,Type 2 Diabetes,2023-06-28,Severe
+D00826,P00172,Heart Failure,2024-02-22,Mild
+D00827,P00863,Peripheral Artery Disease,2022-04-02,Mild
+D00828,P00604,COPD,2022-09-28,Mild
+D00829,P00263,Obesity,2025-06-05,Severe
+D00830,P00982,Hypertension,2020-06-08,Mild
+D00831,P00718,COPD,2021-08-04,Severe
+D00832,P00527,Type 2 Diabetes,2023-11-23,Severe
+D00833,P00393,Stroke,2025-02-01,Severe
+D00834,P00904,Depression,2023-10-31,Severe
+D00835,P00102,Prediabetes,2024-06-02,Moderate
+D00836,P00116,Depression,2025-02-26,Moderate
+D00837,P00140,Anemia,2022-12-03,Mild
+D00838,P00121,Peripheral Artery Disease,2021-08-05,Severe
+D00839,P00993,Hypertension,2024-07-27,Mild
+D00840,P00207,Chronic Kidney Disease,2025-12-31,Mild
+D00841,P00660,Depression,2021-07-29,Mild
+D00842,P00689,Asthma,2022-03-02,Moderate
+D00843,P00517,Hyperlipidemia,2021-05-19,Moderate
+D00844,P00776,Type 2 Diabetes,2023-08-08,Mild
+D00845,P00536,Depression,2021-10-28,Mild
+D00846,P00107,Arthritis,2020-10-06,Mild
+D00847,P00292,Stroke,2025-10-01,Severe
+D00848,P00208,COPD,2025-09-07,Severe
+D00849,P00584,Peripheral Artery Disease,2023-05-14,Moderate
+D00850,P00798,Depression,2020-07-09,Mild
+D00851,P00807,Heart Failure,2023-08-08,Severe
+D00852,P00954,Anemia,2020-09-28,Severe
+D00853,P00256,Depression,2023-12-16,Severe
+D00854,P00669,Type 2 Diabetes,2021-07-03,Mild
+D00855,P00824,Heart Failure,2024-05-05,Mild
+D00856,P00255,Hypertension,2025-12-04,Mild
+D00857,P00045,Anemia,2020-10-10,Moderate
+D00858,P00633,Heart Failure,2023-09-12,Severe
+D00859,P00804,Peripheral Artery Disease,2021-11-06,Moderate
+D00860,P00362,Peripheral Artery Disease,2023-12-10,Severe
+D00861,P00562,Obesity,2023-11-20,Moderate
+D00862,P00082,Anemia,2022-04-19,Mild
+D00863,P00958,Heart Failure,2024-06-13,Severe
+D00864,P00145,Anemia,2020-06-10,Mild
+D00865,P00953,Hyperlipidemia,2024-02-25,Mild
+D00866,P00715,Anemia,2023-10-16,Moderate
+D00867,P00557,Arthritis,2020-01-17,Severe
+D00868,P00155,Arthritis,2020-09-03,Moderate
+D00869,P00855,Asthma,2023-02-21,Severe
+D00870,P00512,Peripheral Artery Disease,2023-08-28,Moderate
+D00871,P00354,Hypertension,2021-02-23,Mild
+D00872,P00304,Stroke,2024-09-06,Moderate
+D00873,P00660,Asthma,2023-02-18,Severe
+D00874,P00948,Anemia,2023-09-02,Moderate
+D00875,P00533,Arthritis,2022-01-06,Moderate
+D00876,P00019,Hypertension,2024-07-31,Moderate
+D00877,P00908,Hyperlipidemia,2020-08-29,Severe
+D00878,P00352,COPD,2025-04-22,Severe
+D00879,P00195,Peripheral Artery Disease,2020-07-03,Moderate
+D00880,P00839,Heart Failure,2021-05-11,Moderate
+D00881,P00824,Obesity,2021-01-02,Mild
+D00882,P00196,Asthma,2021-06-04,Moderate
+D00883,P00124,Anemia,2022-04-22,Severe
+D00884,P00575,Coronary Artery Disease,2021-01-02,Mild
+D00885,P00554,Peripheral Artery Disease,2020-04-17,Moderate
+D00886,P00177,Anemia,2024-01-12,Moderate
+D00887,P00417,Anemia,2024-04-04,Severe
+D00888,P00540,Asthma,2024-05-01,Mild
+D00889,P00966,Heart Failure,2023-12-29,Moderate
+D00890,P00752,Coronary Artery Disease,2025-02-04,Severe
+D00891,P00165,Heart Failure,2021-03-06,Severe
+D00892,P00851,Chronic Kidney Disease,2024-09-18,Moderate
+D00893,P00783,Coronary Artery Disease,2023-06-19,Moderate
+D00894,P00240,Heart Failure,2022-08-23,Mild
+D00895,P00260,COPD,2023-12-20,Mild
+D00896,P00179,Depression,2021-10-10,Severe
+D00897,P00374,Prediabetes,2022-04-30,Mild
+D00898,P00608,Obesity,2020-08-08,Mild
+D00899,P00061,Peripheral Artery Disease,2022-06-12,Moderate
+D00900,P00942,Depression,2023-02-09,Moderate
+D00901,P00940,COPD,2021-02-18,Moderate
+D00902,P00107,COPD,2024-04-07,Severe
+D00903,P00462,Obesity,2021-09-02,Mild
+D00904,P00262,Chronic Kidney Disease,2022-01-20,Mild
+D00905,P00720,Peripheral Artery Disease,2023-09-28,Moderate
+D00906,P00239,Depression,2022-11-26,Severe
+D00907,P00317,Type 2 Diabetes,2022-07-13,Moderate
+D00908,P00941,Peripheral Artery Disease,2024-04-02,Moderate
+D00909,P00970,Peripheral Artery Disease,2020-10-30,Moderate
+D00910,P00444,Hypertension,2022-06-25,Moderate
+D00911,P00644,Chronic Kidney Disease,2020-05-19,Moderate
+D00912,P00159,Prediabetes,2024-10-07,Mild
+D00913,P00739,COPD,2020-04-29,Moderate
+D00914,P00626,Chronic Kidney Disease,2025-02-25,Severe
+D00915,P00836,Heart Failure,2024-03-11,Moderate
+D00916,P00987,COPD,2021-10-29,Severe
+D00917,P00981,Anemia,2022-07-06,Moderate
+D00918,P00090,Type 2 Diabetes,2022-02-07,Moderate
+D00919,P00769,Depression,2025-03-24,Severe
+D00920,P00072,Peripheral Artery Disease,2024-06-11,Severe
+D00921,P00548,Anemia,2021-10-23,Mild
+D00922,P00184,Peripheral Artery Disease,2020-07-23,Severe
+D00923,P00967,Anemia,2025-12-25,Severe
+D00924,P00217,Hyperlipidemia,2023-01-18,Mild
+D00925,P00907,Anemia,2022-10-07,Moderate
+D00926,P00939,Obesity,2025-10-05,Mild
+D00927,P00703,Type 2 Diabetes,2022-06-16,Severe
+D00928,P00627,Coronary Artery Disease,2024-07-15,Mild
+D00929,P00562,Peripheral Artery Disease,2024-11-13,Moderate
+D00930,P00665,Asthma,2020-01-26,Severe
+D00931,P00109,Stroke,2021-02-28,Moderate
+D00932,P00749,Prediabetes,2024-12-29,Mild
+D00933,P00608,Arthritis,2024-04-10,Mild
+D00934,P00691,Chronic Kidney Disease,2025-09-24,Mild
+D00935,P00233,Depression,2021-08-05,Severe
+D00936,P00041,COPD,2023-06-11,Severe
+D00937,P00041,Stroke,2020-09-23,Severe
+D00938,P00124,Chronic Kidney Disease,2023-01-21,Severe
+D00939,P00753,Type 2 Diabetes,2021-01-22,Moderate
+D00940,P00125,Chronic Kidney Disease,2022-05-05,Mild
+D00941,P00821,Type 2 Diabetes,2020-09-03,Severe
+D00942,P00566,Prediabetes,2024-01-26,Mild
+D00943,P00125,Anemia,2021-03-11,Moderate
+D00944,P00212,Asthma,2021-03-06,Mild
+D00945,P00260,Prediabetes,2022-06-17,Mild
+D00946,P00872,Stroke,2024-05-01,Mild
+D00947,P00196,Peripheral Artery Disease,2022-10-01,Severe
+D00948,P00320,Type 2 Diabetes,2021-05-06,Severe
+D00949,P00255,Peripheral Artery Disease,2022-06-08,Mild
+D00950,P00839,Coronary Artery Disease,2024-06-12,Moderate
+D00951,P00667,Hypertension,2025-10-12,Mild
+D00952,P00193,Anemia,2021-02-17,Severe
+D00953,P00945,Type 2 Diabetes,2023-05-13,Mild
+D00954,P00182,Coronary Artery Disease,2021-10-26,Moderate
+D00955,P00632,Heart Failure,2022-10-18,Moderate
+D00956,P00187,Depression,2023-08-31,Severe
+D00957,P00186,Prediabetes,2025-11-14,Mild
+D00958,P00611,Asthma,2023-07-26,Severe
+D00959,P00453,Prediabetes,2022-06-06,Moderate
+D00960,P00084,Peripheral Artery Disease,2021-02-17,Mild
+D00961,P00742,Anemia,2020-05-03,Mild
+D00962,P00100,Hyperlipidemia,2025-09-15,Mild
+D00963,P00524,Type 2 Diabetes,2025-11-07,Mild
+D00964,P00979,Prediabetes,2025-07-17,Severe
+D00965,P00840,Depression,2020-07-31,Moderate
+D00966,P00643,Obesity,2021-12-20,Moderate
+D00967,P00251,Heart Failure,2020-08-13,Mild
+D00968,P00011,Hypertension,2024-12-30,Mild
+D00969,P00589,Obesity,2023-01-14,Severe
+D00970,P00577,Arthritis,2022-07-01,Severe
+D00971,P00715,Hyperlipidemia,2025-02-18,Moderate
+D00972,P00129,Obesity,2025-04-04,Mild
+D00973,P00187,Peripheral Artery Disease,2023-03-24,Severe
+D00974,P00666,Prediabetes,2021-10-13,Moderate
+D00975,P00043,Asthma,2024-08-17,Mild
+D00976,P00595,Anemia,2024-07-13,Mild
+D00977,P00854,Anemia,2022-11-17,Moderate
+D00978,P00661,Stroke,2025-02-08,Severe
+D00979,P00492,Arthritis,2022-04-12,Mild
+D00980,P00498,Heart Failure,2021-09-15,Moderate
+D00981,P00912,Stroke,2024-10-18,Moderate
+D00982,P00236,Hyperlipidemia,2023-04-17,Mild
+D00983,P00157,Stroke,2022-05-27,Moderate
+D00984,P00035,Asthma,2020-08-19,Moderate
+D00985,P00880,Chronic Kidney Disease,2022-12-04,Severe
+D00986,P00848,Type 2 Diabetes,2021-10-21,Moderate
+D00987,P00386,Hypertension,2020-04-20,Severe
+D00988,P00599,Hyperlipidemia,2025-07-29,Mild
+D00989,P00029,Anemia,2021-06-21,Moderate
+D00990,P00328,Stroke,2022-01-12,Severe
+D00991,P00670,Stroke,2023-08-19,Mild
+D00992,P00092,Hyperlipidemia,2023-03-21,Moderate
+D00993,P00115,Type 2 Diabetes,2025-01-16,Mild
+D00994,P00434,Heart Failure,2020-10-11,Mild
+D00995,P00337,COPD,2023-02-16,Severe
+D00996,P00464,Hyperlipidemia,2024-04-16,Moderate
+D00997,P00354,Asthma,2020-06-15,Moderate
+D00998,P00652,Hypertension,2024-07-16,Mild
+D00999,P00478,Chronic Kidney Disease,2023-07-25,Moderate
+D01000,P00258,Peripheral Artery Disease,2022-04-07,Moderate
+D01001,P00971,Heart Failure,2024-10-26,Moderate
+D01002,P00550,Arthritis,2025-03-13,Mild
+D01003,P00985,Depression,2024-03-21,Severe
+D01004,P00526,COPD,2020-05-09,Mild
+D01005,P00926,Coronary Artery Disease,2023-07-25,Mild
+D01006,P00282,Heart Failure,2021-10-23,Moderate
+D01007,P00509,Stroke,2024-01-01,Severe
+D01008,P00780,Arthritis,2022-09-13,Mild
+D01009,P00385,Peripheral Artery Disease,2023-08-09,Moderate
+D01010,P00845,Anemia,2024-06-14,Moderate
+D01011,P00880,Obesity,2023-05-19,Moderate
+D01012,P00214,Obesity,2024-04-19,Mild
+D01013,P00485,Hypertension,2023-07-17,Severe
+D01014,P00961,Obesity,2024-09-26,Mild
+D01015,P00415,Type 2 Diabetes,2021-06-29,Moderate
+D01016,P00021,Chronic Kidney Disease,2020-06-16,Moderate
+D01017,P00606,Stroke,2021-04-11,Severe
+D01018,P00908,Coronary Artery Disease,2025-11-23,Severe
+D01019,P00321,Stroke,2022-05-05,Mild
+D01020,P00173,Chronic Kidney Disease,2024-07-20,Severe
+D01021,P00619,Hyperlipidemia,2022-03-15,Moderate
+D01022,P00265,Heart Failure,2020-07-18,Mild
+D01023,P00812,Heart Failure,2023-02-07,Severe
+D01024,P00888,Chronic Kidney Disease,2025-09-01,Mild
+D01025,P00638,COPD,2024-12-01,Moderate
+D01026,P00770,Type 2 Diabetes,2023-02-02,Moderate
+D01027,P00254,Stroke,2023-05-09,Moderate
+D01028,P00630,Stroke,2024-11-03,Mild
+D01029,P00029,Depression,2022-04-26,Moderate
+D01030,P00883,Chronic Kidney Disease,2021-05-22,Moderate
+D01031,P00113,Type 2 Diabetes,2025-01-26,Severe
+D01032,P00471,Coronary Artery Disease,2020-09-28,Mild
+D01033,P00764,Heart Failure,2025-02-02,Mild
+D01034,P00298,Stroke,2025-05-16,Severe
+D01035,P00644,COPD,2021-10-18,Moderate
+D01036,P00665,Arthritis,2022-05-12,Mild
+D01037,P00821,Peripheral Artery Disease,2023-07-16,Moderate
+D01038,P00420,Chronic Kidney Disease,2024-03-08,Mild
+D01039,P00559,Depression,2024-08-11,Mild
+D01040,P00973,Obesity,2022-06-30,Mild
+D01041,P00200,Hypertension,2021-12-08,Mild
+D01042,P00608,Heart Failure,2021-10-08,Moderate
+D01043,P00144,Heart Failure,2023-01-07,Severe
+D01044,P00856,Asthma,2023-02-19,Moderate
+D01045,P00521,Chronic Kidney Disease,2024-11-18,Moderate
+D01046,P00315,Asthma,2024-03-03,Severe
+D01047,P00463,Hyperlipidemia,2025-07-08,Mild
+D01048,P00184,Heart Failure,2025-03-05,Severe
+D01049,P00678,Obesity,2024-10-31,Mild
+D01050,P00868,Peripheral Artery Disease,2025-06-06,Moderate
+D01051,P00125,Depression,2021-01-25,Mild
+D01052,P00430,Coronary Artery Disease,2020-08-16,Mild
+D01053,P00555,Obesity,2022-05-12,Moderate
+D01054,P00314,Obesity,2022-05-09,Severe
+D01055,P00282,Depression,2025-11-20,Mild
+D01056,P00593,Prediabetes,2025-10-11,Severe
+D01057,P00470,Chronic Kidney Disease,2025-03-21,Severe
+D01058,P00788,Heart Failure,2020-11-22,Severe
+D01059,P00650,Chronic Kidney Disease,2023-11-08,Mild
+D01060,P00618,Hypertension,2023-03-25,Mild
+D01061,P00143,Chronic Kidney Disease,2021-08-16,Moderate
+D01062,P00155,Heart Failure,2024-07-08,Moderate
+D01063,P00131,Depression,2020-04-08,Mild
+D01064,P00779,Depression,2020-04-23,Severe
+D01065,P00688,Prediabetes,2025-08-10,Severe
+D01066,P00638,Hyperlipidemia,2022-07-09,Mild
+D01067,P00779,COPD,2021-07-22,Moderate
+D01068,P00194,Anemia,2024-07-06,Moderate
+D01069,P00457,Asthma,2025-06-30,Severe
+D01070,P00089,Depression,2022-09-16,Severe
+D01071,P00008,Chronic Kidney Disease,2020-07-30,Moderate
+D01072,P00448,Asthma,2024-10-24,Severe
+D01073,P00749,Chronic Kidney Disease,2023-12-26,Severe
+D01074,P00646,Heart Failure,2020-05-27,Moderate
+D01075,P00965,Hyperlipidemia,2020-12-16,Mild
+D01076,P00465,Prediabetes,2024-08-07,Severe
+D01077,P00092,COPD,2024-09-02,Moderate
+D01078,P00603,COPD,2025-04-13,Mild
+D01079,P00464,Chronic Kidney Disease,2022-01-08,Mild
+D01080,P00047,Stroke,2021-06-13,Severe
+D01081,P00471,Prediabetes,2024-10-14,Severe
+D01082,P00061,Chronic Kidney Disease,2022-05-27,Moderate
+D01083,P00017,Heart Failure,2022-06-21,Moderate
+D01084,P00518,Asthma,2025-11-10,Moderate
+D01085,P00204,Anemia,2024-10-25,Mild
+D01086,P00558,Depression,2021-08-11,Mild
+D01087,P00522,Prediabetes,2021-01-09,Mild
+D01088,P00070,Coronary Artery Disease,2025-01-13,Severe
+D01089,P00151,Chronic Kidney Disease,2025-02-23,Moderate
+D01090,P00828,Chronic Kidney Disease,2025-03-27,Severe
+D01091,P00863,Hypertension,2022-11-25,Severe
+D01092,P00019,Stroke,2023-01-22,Severe
+D01093,P00341,Arthritis,2025-05-20,Severe
+D01094,P00743,Hyperlipidemia,2021-04-24,Mild
+D01095,P00894,Anemia,2020-04-10,Moderate
+D01096,P00420,Anemia,2023-12-11,Severe
+D01097,P00747,Chronic Kidney Disease,2025-04-22,Mild
+D01098,P00855,Hypertension,2020-04-05,Moderate
+D01099,P00149,COPD,2023-11-25,Mild
+D01100,P00065,Depression,2021-11-18,Moderate
+D01101,P00665,Asthma,2020-08-18,Moderate
+D01102,P00776,Chronic Kidney Disease,2022-12-18,Moderate
+D01103,P00546,Obesity,2021-11-30,Mild
+D01104,P00668,Obesity,2024-07-19,Severe
+D01105,P00801,Coronary Artery Disease,2025-04-19,Mild
+D01106,P00200,Arthritis,2022-07-09,Mild
+D01107,P00246,Arthritis,2021-08-09,Severe
+D01108,P00002,Hyperlipidemia,2024-02-15,Severe
+D01109,P00983,Arthritis,2024-10-07,Severe
+D01110,P00368,Depression,2022-08-12,Mild
+D01111,P00450,Depression,2020-07-10,Moderate
+D01112,P00791,Anemia,2020-12-13,Severe
+D01113,P00639,COPD,2021-11-06,Moderate
+D01114,P00458,Prediabetes,2021-02-22,Severe
+D01115,P00456,COPD,2025-11-23,Moderate
+D01116,P00897,Prediabetes,2020-06-05,Mild
+D01117,P00159,Peripheral Artery Disease,2020-01-30,Severe
+D01118,P00188,Hypertension,2020-12-18,Mild
+D01119,P00900,Prediabetes,2024-08-03,Severe
+D01120,P00688,Hyperlipidemia,2021-10-11,Moderate
+D01121,P00354,Asthma,2023-05-17,Moderate
+D01122,P00231,Hypertension,2021-04-08,Mild
+D01123,P00560,Coronary Artery Disease,2022-08-17,Mild
+D01124,P00642,Depression,2025-03-30,Moderate
+D01125,P00051,Coronary Artery Disease,2022-03-16,Severe
+D01126,P00344,Hypertension,2022-04-21,Severe
+D01127,P00419,Hyperlipidemia,2021-10-30,Severe
+D01128,P00083,Heart Failure,2025-11-10,Mild
+D01129,P00733,Anemia,2021-03-19,Mild
+D01130,P00594,Chronic Kidney Disease,2025-06-14,Severe
+D01131,P00175,Anemia,2025-11-18,Moderate
+D01132,P00846,Type 2 Diabetes,2020-02-06,Severe
+D01133,P00096,Hypertension,2023-01-05,Severe
+D01134,P00732,Asthma,2022-11-11,Severe
+D01135,P00171,COPD,2025-05-02,Moderate
+D01136,P00584,Chronic Kidney Disease,2020-12-05,Severe
+D01137,P00866,Stroke,2024-03-10,Severe
+D01138,P00580,Heart Failure,2025-10-06,Mild
+D01139,P00406,Hypertension,2024-11-29,Moderate
+D01140,P00880,Arthritis,2021-09-11,Mild
+D01141,P00575,Type 2 Diabetes,2025-08-18,Severe
+D01142,P00489,Peripheral Artery Disease,2025-05-26,Mild
+D01143,P00910,Coronary Artery Disease,2023-10-25,Severe
+D01144,P00199,Hypertension,2023-08-21,Severe
+D01145,P00526,Obesity,2020-01-04,Mild
+D01146,P00178,Chronic Kidney Disease,2020-11-12,Severe
+D01147,P00318,Type 2 Diabetes,2022-03-19,Moderate
+D01148,P00522,Type 2 Diabetes,2024-02-17,Severe
+D01149,P00389,Depression,2024-07-23,Mild
+D01150,P00382,Heart Failure,2022-06-23,Mild
+D01151,P00954,Heart Failure,2020-11-18,Severe
+D01152,P00430,Anemia,2022-07-02,Severe
+D01153,P00992,Hyperlipidemia,2020-06-27,Moderate
+D01154,P00748,Stroke,2021-09-12,Severe
+D01155,P00391,Asthma,2021-08-16,Mild
+D01156,P00263,Heart Failure,2020-11-09,Moderate
+D01157,P00092,Coronary Artery Disease,2020-05-20,Severe
+D01158,P00695,Obesity,2024-11-10,Severe
+D01159,P00411,Hyperlipidemia,2024-10-23,Mild
+D01160,P00614,Depression,2025-04-16,Moderate
+D01161,P00864,Coronary Artery Disease,2020-06-15,Severe
+D01162,P00878,Obesity,2021-08-20,Mild
+D01163,P00064,Peripheral Artery Disease,2020-06-05,Moderate
+D01164,P00721,Chronic Kidney Disease,2023-05-15,Moderate
+D01165,P00592,Stroke,2021-12-06,Moderate
+D01166,P00900,Coronary Artery Disease,2021-09-04,Moderate
+D01167,P00575,Prediabetes,2020-07-12,Mild
+D01168,P00024,Heart Failure,2022-12-31,Mild
+D01169,P00549,Peripheral Artery Disease,2025-02-03,Mild
+D01170,P00466,Stroke,2024-05-26,Severe
+D01171,P00779,COPD,2020-11-04,Severe
+D01172,P00322,COPD,2023-09-14,Moderate
+D01173,P00407,Asthma,2021-04-05,Moderate
+D01174,P00346,Obesity,2025-05-23,Severe
+D01175,P00778,Arthritis,2022-12-21,Moderate
+D01176,P00843,Peripheral Artery Disease,2025-03-28,Mild
+D01177,P00770,Type 2 Diabetes,2023-04-18,Mild
+D01178,P00385,Type 2 Diabetes,2021-11-03,Severe
+D01179,P00164,Chronic Kidney Disease,2021-01-23,Mild
+D01180,P00681,Depression,2023-08-07,Mild
+D01181,P00062,Hyperlipidemia,2024-05-26,Severe
+D01182,P00248,Heart Failure,2020-11-30,Severe
+D01183,P00964,Heart Failure,2024-12-14,Moderate
+D01184,P00695,COPD,2020-03-08,Moderate
+D01185,P00923,Anemia,2023-07-19,Mild
+D01186,P00859,Depression,2021-02-05,Mild
+D01187,P00544,Arthritis,2021-12-13,Mild
+D01188,P00818,Type 2 Diabetes,2025-04-02,Moderate
+D01189,P00161,Heart Failure,2025-05-01,Severe
+D01190,P00705,Prediabetes,2022-07-25,Severe
+D01191,P00740,Coronary Artery Disease,2024-06-14,Moderate
+D01192,P00596,Arthritis,2021-04-20,Severe
+D01193,P00283,Heart Failure,2022-02-28,Mild
+D01194,P00443,Type 2 Diabetes,2020-04-18,Mild
+D01195,P00543,Coronary Artery Disease,2024-05-12,Moderate
+D01196,P00297,Peripheral Artery Disease,2020-08-11,Severe
+D01197,P00009,Hypertension,2022-04-20,Moderate
+D01198,P00089,Heart Failure,2022-12-08,Severe
+D01199,P00672,Depression,2022-07-12,Severe
+D01200,P00478,Stroke,2025-01-20,Mild
+D01201,P00452,Hypertension,2023-04-14,Severe
+D01202,P00874,COPD,2022-03-18,Severe
+D01203,P00556,Chronic Kidney Disease,2023-05-02,Moderate
+D01204,P00273,COPD,2023-06-15,Moderate
+D01205,P00853,Stroke,2025-04-09,Mild
+D01206,P00077,Asthma,2022-07-01,Mild
+D01207,P00326,COPD,2023-07-09,Mild
+D01208,P00567,Prediabetes,2025-05-15,Severe
+D01209,P00428,Stroke,2024-01-11,Moderate
+D01210,P00838,Arthritis,2024-08-02,Severe
+D01211,P00634,Asthma,2020-02-11,Mild
+D01212,P00535,Arthritis,2022-08-31,Moderate
+D01213,P00044,Type 2 Diabetes,2020-09-01,Severe
+D01214,P00865,Hypertension,2025-02-13,Mild
+D01215,P00338,Hyperlipidemia,2022-09-19,Severe
+D01216,P00625,Stroke,2020-05-18,Severe
+D01217,P00835,COPD,2023-11-05,Moderate
+D01218,P00488,Type 2 Diabetes,2024-06-08,Mild
+D01219,P00917,Peripheral Artery Disease,2024-03-27,Mild
+D01220,P00330,Hyperlipidemia,2025-11-13,Severe
+D01221,P00407,Hyperlipidemia,2022-01-02,Severe
+D01222,P00268,Peripheral Artery Disease,2022-10-10,Mild
+D01223,P00257,Hyperlipidemia,2023-09-11,Mild
+D01224,P00426,Heart Failure,2023-12-06,Moderate
+D01225,P00985,Asthma,2024-08-03,Mild
+D01226,P00426,Anemia,2022-02-14,Mild
+D01227,P00658,Type 2 Diabetes,2022-12-29,Moderate
+D01228,P00247,Heart Failure,2022-12-01,Severe
+D01229,P00252,COPD,2023-07-22,Moderate
+D01230,P00060,Stroke,2024-10-12,Moderate
+D01231,P00743,COPD,2022-08-06,Mild
+D01232,P00255,Prediabetes,2022-08-21,Mild
+D01233,P00542,Hyperlipidemia,2025-11-22,Moderate
+D01234,P00744,COPD,2023-03-18,Mild
+D01235,P00540,Anemia,2023-11-02,Mild
+D01236,P00130,Heart Failure,2020-10-22,Mild
+D01237,P00193,Type 2 Diabetes,2021-07-15,Severe
+D01238,P00452,COPD,2025-12-01,Moderate
+D01239,P00497,Stroke,2020-09-28,Mild
+D01240,P00807,Obesity,2020-01-04,Mild
+D01241,P00284,Arthritis,2024-09-24,Mild
+D01242,P00046,Chronic Kidney Disease,2023-01-01,Moderate
+D01243,P00645,Asthma,2025-11-19,Mild
+D01244,P00286,Hypertension,2023-03-31,Moderate
+D01245,P00908,Stroke,2022-05-08,Severe
+D01246,P00139,Coronary Artery Disease,2024-06-01,Moderate
+D01247,P00846,Coronary Artery Disease,2024-05-27,Severe
+D01248,P00548,Heart Failure,2025-04-10,Mild
+D01249,P00410,Obesity,2021-07-09,Mild
+D01250,P00464,Anemia,2025-11-16,Severe
+D01251,P00736,Hypertension,2023-08-06,Moderate
+D01252,P00511,Hyperlipidemia,2022-07-12,Moderate
+D01253,P00957,Prediabetes,2020-05-02,Severe
+D01254,P00155,Stroke,2025-09-23,Severe
+D01255,P00089,Chronic Kidney Disease,2024-07-04,Moderate
+D01256,P00230,Hyperlipidemia,2020-01-10,Mild
+D01257,P00904,Type 2 Diabetes,2025-09-07,Severe
+D01258,P00352,Peripheral Artery Disease,2024-11-13,Mild
+D01259,P00686,Stroke,2024-12-09,Moderate
+D01260,P00636,Prediabetes,2022-09-26,Moderate
+D01261,P00334,COPD,2022-03-11,Mild
+D01262,P00947,Depression,2022-06-12,Mild
+D01263,P00574,Coronary Artery Disease,2024-01-29,Severe
+D01264,P00186,Hyperlipidemia,2022-08-01,Mild
+D01265,P00417,COPD,2020-11-12,Moderate
+D01266,P00332,Prediabetes,2021-08-11,Moderate
+D01267,P00261,Chronic Kidney Disease,2023-04-05,Mild
+D01268,P00644,COPD,2020-09-04,Mild
+D01269,P00364,Depression,2024-06-06,Moderate
+D01270,P00795,Coronary Artery Disease,2022-01-20,Moderate
+D01271,P00576,Arthritis,2024-06-25,Severe
+D01272,P00473,Stroke,2022-02-22,Moderate
+D01273,P00315,Obesity,2025-09-20,Mild
+D01274,P00204,Arthritis,2020-10-06,Moderate
+D01275,P00620,Hyperlipidemia,2021-10-16,Severe
+D01276,P00604,Type 2 Diabetes,2022-10-03,Severe
+D01277,P00530,Chronic Kidney Disease,2025-09-01,Moderate
+D01278,P00139,Prediabetes,2024-02-29,Severe
+D01279,P00271,Type 2 Diabetes,2024-11-17,Moderate
+D01280,P00418,Peripheral Artery Disease,2025-11-05,Severe
+D01281,P00548,Hyperlipidemia,2021-10-07,Severe
+D01282,P00434,Prediabetes,2024-12-29,Moderate
+D01283,P00227,Arthritis,2022-10-21,Severe
+D01284,P00584,Arthritis,2025-02-28,Severe
+D01285,P00996,Arthritis,2024-08-11,Severe
+D01286,P00139,Heart Failure,2021-07-21,Mild
+D01287,P00712,Coronary Artery Disease,2024-03-31,Severe
+D01288,P00302,Arthritis,2024-01-11,Severe
+D01289,P00015,Peripheral Artery Disease,2020-03-04,Moderate
+D01290,P00215,Hypertension,2023-09-15,Mild
+D01291,P00857,Asthma,2023-09-14,Severe
+D01292,P00767,Coronary Artery Disease,2021-08-10,Moderate
+D01293,P00928,Arthritis,2023-08-10,Severe
+D01294,P00962,COPD,2025-12-02,Severe
+D01295,P00153,Arthritis,2025-01-31,Mild
+D01296,P00623,Anemia,2024-02-16,Mild
+D01297,P00229,Type 2 Diabetes,2023-12-23,Severe
+D01298,P00783,Coronary Artery Disease,2021-04-03,Severe
+D01299,P00477,Hypertension,2023-02-15,Mild
+D01300,P00520,Chronic Kidney Disease,2025-03-30,Moderate
+D01301,P00756,COPD,2024-03-02,Moderate
+D01302,P00235,Peripheral Artery Disease,2025-09-22,Severe
+D01303,P00338,Stroke,2021-02-07,Moderate
+D01304,P00851,Heart Failure,2020-09-02,Mild
+D01305,P00651,Obesity,2023-01-11,Severe
+D01306,P00259,Hypertension,2023-12-28,Mild
+D01307,P00425,Prediabetes,2022-12-03,Severe
+D01308,P00223,Coronary Artery Disease,2025-06-20,Moderate
+D01309,P00942,Hyperlipidemia,2023-08-05,Severe
+D01310,P00888,Depression,2021-02-06,Severe
+D01311,P00704,Obesity,2024-10-23,Mild
+D01312,P00750,Heart Failure,2021-10-09,Moderate
+D01313,P00052,COPD,2020-01-23,Moderate
+D01314,P00963,Obesity,2025-07-16,Mild
+D01315,P00620,Hyperlipidemia,2021-05-19,Mild
+D01316,P00457,Obesity,2024-05-22,Severe
+D01317,P00775,Peripheral Artery Disease,2022-11-26,Mild
+D01318,P00405,Anemia,2021-03-21,Moderate
+D01319,P00378,Hyperlipidemia,2021-02-26,Severe
+D01320,P00219,Coronary Artery Disease,2024-08-08,Moderate
+D01321,P00825,Peripheral Artery Disease,2024-12-14,Moderate
+D01322,P00739,COPD,2025-08-15,Mild
+D01323,P00418,Hypertension,2022-04-12,Mild
+D01324,P00207,Obesity,2024-01-29,Severe
+D01325,P00893,Peripheral Artery Disease,2020-09-26,Severe
+D01326,P00578,Type 2 Diabetes,2020-05-25,Severe
+D01327,P00125,Arthritis,2024-11-04,Moderate
+D01328,P00502,Chronic Kidney Disease,2020-12-25,Moderate
+D01329,P00862,Heart Failure,2022-07-08,Severe
+D01330,P00392,Hyperlipidemia,2023-12-31,Severe
+D01331,P00043,Hyperlipidemia,2024-03-11,Severe
+D01332,P00224,Peripheral Artery Disease,2025-06-02,Severe
+D01333,P00087,Heart Failure,2020-08-14,Severe
+D01334,P00668,Peripheral Artery Disease,2020-10-07,Moderate
+D01335,P00547,Arthritis,2024-04-06,Mild
+D01336,P00914,Hypertension,2023-02-25,Mild
+D01337,P00054,Hyperlipidemia,2022-12-07,Moderate
+D01338,P00143,Asthma,2024-10-18,Moderate
+D01339,P00444,Coronary Artery Disease,2022-07-05,Moderate
+D01340,P00374,COPD,2022-09-13,Mild
+D01341,P00532,COPD,2024-09-20,Mild
+D01342,P00401,Stroke,2025-12-13,Severe
+D01343,P00604,Hypertension,2024-03-10,Mild
+D01344,P00027,COPD,2021-12-05,Moderate
+D01345,P00717,Heart Failure,2020-01-05,Mild
+D01346,P00751,COPD,2025-01-14,Severe
+D01347,P00559,Hypertension,2023-08-30,Moderate
+D01348,P00138,Hypertension,2021-03-05,Mild
+D01349,P00330,Hyperlipidemia,2022-10-28,Severe
+D01350,P00404,Coronary Artery Disease,2021-10-06,Severe
+D01351,P00269,Arthritis,2020-11-14,Severe
+D01352,P00735,Coronary Artery Disease,2020-08-14,Moderate
+D01353,P00772,Prediabetes,2024-03-16,Severe
+D01354,P00354,Depression,2022-05-03,Severe
+D01355,P00258,Type 2 Diabetes,2024-06-25,Severe
+D01356,P00379,Heart Failure,2023-02-19,Mild
+D01357,P00258,Stroke,2021-12-28,Moderate
+D01358,P00315,Peripheral Artery Disease,2020-02-23,Severe
+D01359,P00834,Type 2 Diabetes,2025-09-14,Mild
+D01360,P00849,Depression,2021-04-09,Severe
+D01361,P00991,Type 2 Diabetes,2021-04-13,Severe
+D01362,P00491,Stroke,2021-10-11,Mild
+D01363,P00137,COPD,2025-09-07,Severe
+D01364,P00280,Depression,2023-07-06,Severe
+D01365,P00442,Chronic Kidney Disease,2021-02-13,Moderate
+D01366,P00691,Anemia,2022-07-09,Moderate
+D01367,P00509,COPD,2024-02-05,Moderate
+D01368,P00097,Asthma,2020-08-08,Moderate
+D01369,P00982,Coronary Artery Disease,2024-07-29,Severe
+D01370,P00779,Obesity,2022-03-14,Mild
+D01371,P00810,Peripheral Artery Disease,2024-01-26,Moderate
+D01372,P00744,Peripheral Artery Disease,2025-10-12,Mild
+D01373,P00712,Type 2 Diabetes,2021-09-16,Moderate
+D01374,P00728,Hyperlipidemia,2025-01-20,Severe
+D01375,P00557,Anemia,2023-11-26,Severe
+D01376,P00270,COPD,2024-09-21,Severe
+D01377,P00671,Peripheral Artery Disease,2024-12-13,Severe
+D01378,P00214,Obesity,2024-11-01,Moderate
+D01379,P00478,Arthritis,2024-02-21,Mild
+D01380,P00131,Hypertension,2024-03-25,Moderate
+D01381,P00360,Hypertension,2023-12-14,Mild
+D01382,P00128,Heart Failure,2020-11-14,Mild
+D01383,P00332,Chronic Kidney Disease,2020-12-28,Moderate
+D01384,P00627,Type 2 Diabetes,2023-02-22,Mild
+D01385,P00142,Coronary Artery Disease,2020-03-10,Mild
+D01386,P00614,Chronic Kidney Disease,2021-05-02,Moderate
+D01387,P00153,Depression,2022-06-16,Moderate
+D01388,P00384,Anemia,2021-10-24,Severe
+D01389,P00095,Hyperlipidemia,2023-12-08,Severe
+D01390,P00631,Hyperlipidemia,2024-03-05,Mild
+D01391,P00788,Hypertension,2021-06-09,Mild
+D01392,P00272,Heart Failure,2020-12-22,Severe
+D01393,P00899,Coronary Artery Disease,2022-06-04,Mild
+D01394,P00854,Hypertension,2022-02-16,Mild
+D01395,P00325,Hyperlipidemia,2020-05-15,Severe
+D01396,P00304,Hyperlipidemia,2025-09-20,Mild
+D01397,P00818,Hypertension,2024-03-16,Severe
+D01398,P00479,Coronary Artery Disease,2023-10-05,Severe
+D01399,P00077,Asthma,2022-12-30,Mild
+D01400,P00091,Arthritis,2025-10-11,Mild
+D01401,P00439,Prediabetes,2024-05-06,Severe
+D01402,P00510,Asthma,2020-05-02,Moderate
+D01403,P00998,Hyperlipidemia,2024-01-26,Moderate
+D01404,P00994,Coronary Artery Disease,2022-12-02,Moderate
+D01405,P00512,Coronary Artery Disease,2025-11-16,Severe
+D01406,P00504,Heart Failure,2022-06-22,Mild
+D01407,P00550,Obesity,2025-05-13,Severe
+D01408,P00156,Hypertension,2024-04-14,Moderate
+D01409,P00853,Obesity,2025-07-23,Moderate
+D01410,P00498,Peripheral Artery Disease,2024-07-11,Moderate
+D01411,P00922,Hyperlipidemia,2021-08-16,Severe
+D01412,P00348,Depression,2020-07-17,Moderate
+D01413,P00422,Asthma,2024-10-16,Mild
+D01414,P00202,Depression,2023-04-01,Severe
+D01415,P00720,Prediabetes,2021-09-05,Moderate
+D01416,P00278,Depression,2024-06-24,Mild
+D01417,P00961,Depression,2023-06-10,Mild
+D01418,P00902,Obesity,2025-12-13,Moderate
+D01419,P00737,Peripheral Artery Disease,2025-09-24,Severe
+D01420,P00945,Stroke,2021-12-01,Moderate
+D01421,P00653,Prediabetes,2020-08-30,Moderate
+D01422,P00034,Stroke,2022-12-31,Severe
+D01423,P00405,Peripheral Artery Disease,2021-04-17,Moderate
+D01424,P00595,Anemia,2023-03-19,Mild
+D01425,P00217,Peripheral Artery Disease,2023-09-12,Moderate
+D01426,P00206,Depression,2024-02-24,Moderate
+D01427,P00518,Hypertension,2020-03-09,Moderate
+D01428,P00993,COPD,2023-07-17,Moderate
+D01429,P00436,Stroke,2023-09-28,Moderate
+D01430,P00776,Arthritis,2020-07-15,Mild
+D01431,P00895,Coronary Artery Disease,2021-06-05,Moderate
+D01432,P00628,Coronary Artery Disease,2020-08-22,Moderate
+D01433,P00978,Asthma,2025-01-17,Moderate
+D01434,P00408,Obesity,2024-02-14,Severe
+D01435,P00602,Peripheral Artery Disease,2020-02-29,Mild
+D01436,P00247,Anemia,2024-01-22,Mild
+D01437,P00925,Hyperlipidemia,2020-07-06,Severe
+D01438,P00099,Prediabetes,2022-09-04,Moderate
+D01439,P00349,Obesity,2022-02-16,Mild
+D01440,P00748,COPD,2021-12-06,Mild
+D01441,P00427,Coronary Artery Disease,2022-01-06,Mild
+D01442,P00881,Chronic Kidney Disease,2025-04-20,Moderate
+D01443,P00542,Prediabetes,2020-08-11,Severe
+D01444,P00509,Stroke,2023-01-10,Mild
+D01445,P00306,Asthma,2024-06-17,Moderate
+D01446,P00233,Anemia,2023-03-29,Moderate
+D01447,P00292,Peripheral Artery Disease,2021-05-08,Mild
+D01448,P00466,Chronic Kidney Disease,2020-12-08,Mild
+D01449,P00482,Prediabetes,2020-09-06,Moderate
+D01450,P00351,Hypertension,2021-08-24,Severe
+D01451,P00568,Anemia,2022-05-24,Severe
+D01452,P00264,Peripheral Artery Disease,2021-07-22,Mild
+D01453,P00052,Hypertension,2023-12-02,Moderate
+D01454,P00499,Arthritis,2022-08-25,Mild
+D01455,P00181,Peripheral Artery Disease,2021-01-27,Severe
+D01456,P00949,Arthritis,2021-09-10,Mild
+D01457,P00757,Heart Failure,2023-05-12,Severe
+D01458,P00580,Hypertension,2020-03-28,Moderate
+D01459,P00845,Anemia,2021-12-22,Mild
+D01460,P00401,Chronic Kidney Disease,2022-10-09,Moderate
+D01461,P00640,Heart Failure,2025-05-02,Severe
+D01462,P00577,Stroke,2025-06-29,Moderate
+D01463,P00068,Type 2 Diabetes,2023-06-09,Moderate
+D01464,P00619,Hypertension,2020-08-27,Moderate
+D01465,P00141,Coronary Artery Disease,2020-05-19,Moderate
+D01466,P00625,Heart Failure,2024-07-31,Moderate
+D01467,P00830,Stroke,2021-09-26,Mild
+D01468,P00161,Hypertension,2023-12-14,Mild
+D01469,P00597,Peripheral Artery Disease,2020-07-03,Severe
+D01470,P00303,Hypertension,2020-12-23,Severe
+D01471,P00673,Prediabetes,2020-01-08,Mild
+D01472,P00340,Type 2 Diabetes,2021-04-18,Severe
+D01473,P00378,Depression,2022-08-20,Mild
+D01474,P00779,Prediabetes,2020-01-14,Mild
+D01475,P00454,Arthritis,2022-03-02,Severe
+D01476,P00073,Asthma,2023-11-08,Moderate
+D01477,P00761,Prediabetes,2024-09-04,Mild
+D01478,P00498,COPD,2021-10-15,Severe
+D01479,P00689,Heart Failure,2023-05-24,Severe
+D01480,P00573,Hyperlipidemia,2020-08-17,Mild
+D01481,P00806,Prediabetes,2023-04-24,Mild
+D01482,P00076,Arthritis,2020-06-13,Mild
+D01483,P00927,Hyperlipidemia,2025-12-30,Moderate
+D01484,P00371,Peripheral Artery Disease,2025-09-08,Severe
+D01485,P00973,Coronary Artery Disease,2021-01-30,Severe
+D01486,P00774,Chronic Kidney Disease,2020-07-06,Mild
+D01487,P00100,Hypertension,2022-06-28,Moderate
+D01488,P00511,Asthma,2021-05-04,Mild
+D01489,P00782,Hypertension,2021-08-18,Moderate
+D01490,P00622,Hypertension,2021-07-22,Mild
+D01491,P00970,Hypertension,2021-04-07,Severe
+D01492,P00058,Hyperlipidemia,2024-09-26,Mild
+D01493,P00084,Type 2 Diabetes,2020-11-04,Moderate
+D01494,P00814,Arthritis,2021-10-19,Severe
+D01495,P00525,Stroke,2025-11-09,Moderate
+D01496,P00929,Type 2 Diabetes,2021-12-22,Severe
+D01497,P00203,COPD,2021-10-11,Mild
+D01498,P00069,Chronic Kidney Disease,2023-10-28,Severe
+D01499,P00840,Chronic Kidney Disease,2022-03-22,Severe
+D01500,P00028,Anemia,2024-08-01,Mild
+D01501,P00123,Depression,2025-05-10,Severe
+D01502,P00407,Depression,2022-08-27,Mild
+D01503,P00804,Hyperlipidemia,2025-03-14,Moderate
+D01504,P00796,Obesity,2022-11-19,Mild
+D01505,P00229,Obesity,2021-10-21,Mild
+D01506,P00807,Stroke,2025-04-04,Severe
+D01507,P00574,Chronic Kidney Disease,2025-07-03,Moderate
+D01508,P00605,Depression,2025-06-22,Moderate
+D01509,P00881,Hyperlipidemia,2022-08-18,Mild
+D01510,P00143,Heart Failure,2021-01-07,Mild
+D01511,P00965,Hyperlipidemia,2023-05-09,Moderate
+D01512,P00083,Hypertension,2022-09-01,Moderate
+D01513,P00877,Stroke,2021-09-30,Mild
+D01514,P00761,Heart Failure,2022-01-10,Moderate
+D01515,P00698,Hyperlipidemia,2025-09-06,Severe
+D01516,P00006,Prediabetes,2024-10-13,Moderate
+D01517,P00632,Heart Failure,2023-11-09,Severe
+D01518,P00006,Type 2 Diabetes,2022-08-24,Severe
+D01519,P00922,Type 2 Diabetes,2025-12-04,Mild
+D01520,P00511,Stroke,2025-05-04,Severe
+D01521,P00682,Asthma,2022-07-11,Severe
+D01522,P00973,Chronic Kidney Disease,2020-06-16,Severe
+D01523,P00612,Heart Failure,2024-04-17,Mild
+D01524,P00176,Arthritis,2021-02-07,Mild
+D01525,P00690,Anemia,2022-12-23,Mild
+D01526,P00946,Coronary Artery Disease,2024-07-30,Mild
+D01527,P00829,Anemia,2020-12-11,Mild
+D01528,P00366,Asthma,2024-04-18,Severe
+D01529,P00957,Prediabetes,2025-08-02,Mild
+D01530,P00766,Type 2 Diabetes,2025-01-03,Mild
+D01531,P00768,Arthritis,2025-03-21,Moderate
+D01532,P00410,Heart Failure,2022-11-18,Mild
+D01533,P00666,Heart Failure,2024-09-27,Mild
+D01534,P00612,Chronic Kidney Disease,2023-09-07,Mild
+D01535,P00915,Hyperlipidemia,2024-08-14,Moderate
+D01536,P00450,Asthma,2021-08-18,Mild
+D01537,P00954,Hyperlipidemia,2020-06-07,Moderate
+D01538,P00062,Hyperlipidemia,2024-02-19,Severe
+D01539,P00101,Heart Failure,2023-02-02,Moderate
+D01540,P00786,Coronary Artery Disease,2022-02-09,Mild
+D01541,P00352,COPD,2023-10-18,Severe
+D01542,P00079,Arthritis,2023-05-17,Mild
+D01543,P00292,Prediabetes,2024-10-01,Moderate
+D01544,P00251,Stroke,2020-10-27,Moderate
+D01545,P00136,Heart Failure,2024-07-29,Moderate
+D01546,P00458,Obesity,2024-04-04,Mild
+D01547,P00166,Asthma,2025-09-30,Mild
+D01548,P00508,Peripheral Artery Disease,2023-03-02,Severe
+D01549,P00268,Asthma,2023-07-02,Severe
+D01550,P00189,Stroke,2025-12-04,Moderate
+D01551,P00265,Depression,2024-10-25,Moderate
+D01552,P00599,Peripheral Artery Disease,2022-03-07,Moderate
+D01553,P00801,Depression,2025-07-04,Severe
+D01554,P00604,Peripheral Artery Disease,2023-04-17,Severe
+D01555,P00167,Asthma,2022-03-04,Severe
+D01556,P00033,Hypertension,2024-02-08,Severe
+D01557,P00614,Prediabetes,2024-07-20,Severe
+D01558,P00917,Coronary Artery Disease,2023-01-13,Mild
+D01559,P00331,Stroke,2022-10-14,Mild
+D01560,P00830,Hyperlipidemia,2022-10-21,Severe
+D01561,P00877,Prediabetes,2024-07-25,Mild
+D01562,P00446,Type 2 Diabetes,2023-09-05,Moderate
+D01563,P00170,Anemia,2025-11-21,Moderate
+D01564,P00154,COPD,2022-11-23,Severe
+D01565,P00263,Arthritis,2024-08-24,Severe
+D01566,P00155,Obesity,2021-04-05,Mild
+D01567,P00081,COPD,2021-09-11,Mild
+D01568,P00513,Prediabetes,2025-05-17,Severe
+D01569,P00507,COPD,2021-02-23,Mild
+D01570,P00423,Heart Failure,2023-01-12,Mild
+D01571,P00018,Anemia,2021-06-11,Moderate
+D01572,P00874,COPD,2025-07-28,Severe
+D01573,P00670,Heart Failure,2020-11-03,Moderate
+D01574,P00006,Heart Failure,2024-03-14,Severe
+D01575,P00119,Prediabetes,2024-04-18,Mild
+D01576,P00712,Peripheral Artery Disease,2024-05-26,Severe
+D01577,P00053,Anemia,2021-10-01,Moderate
+D01578,P00624,Anemia,2025-08-27,Mild
+D01579,P00474,Hyperlipidemia,2023-08-15,Mild
+D01580,P00008,Coronary Artery Disease,2024-03-18,Moderate
+D01581,P00249,Depression,2020-10-02,Moderate
+D01582,P00141,COPD,2025-10-26,Mild
+D01583,P00330,Asthma,2022-12-27,Moderate
+D01584,P00433,Heart Failure,2024-10-18,Severe
+D01585,P00912,Coronary Artery Disease,2024-05-26,Mild
+D01586,P00607,Prediabetes,2022-02-06,Mild
+D01587,P00855,Peripheral Artery Disease,2020-08-02,Moderate
+D01588,P00305,Coronary Artery Disease,2021-06-30,Severe
+D01589,P00500,Anemia,2024-05-19,Moderate
+D01590,P00293,Coronary Artery Disease,2025-10-30,Moderate
+D01591,P00135,Stroke,2022-12-13,Mild
+D01592,P00231,Depression,2022-07-27,Moderate
+D01593,P00064,COPD,2024-01-24,Severe
+D01594,P00460,Anemia,2024-02-05,Severe
+D01595,P00211,Heart Failure,2025-10-19,Severe
+D01596,P00283,Prediabetes,2021-10-29,Moderate
+D01597,P00181,Stroke,2020-12-06,Moderate
+D01598,P00686,Arthritis,2020-06-28,Mild
+D01599,P00575,Arthritis,2024-08-29,Moderate
+D01600,P00407,Prediabetes,2025-09-20,Mild
+D01601,P00816,Chronic Kidney Disease,2023-03-05,Moderate
+D01602,P00580,Peripheral Artery Disease,2022-01-01,Moderate
+D01603,P00178,Asthma,2025-06-14,Mild
+D01604,P00770,Type 2 Diabetes,2024-10-24,Severe
+D01605,P00825,Type 2 Diabetes,2025-12-14,Severe
+D01606,P00920,Anemia,2024-04-16,Moderate
+D01607,P00279,Depression,2025-06-30,Mild
+D01608,P00286,Chronic Kidney Disease,2025-10-08,Moderate
+D01609,P00632,Type 2 Diabetes,2022-09-15,Severe
+D01610,P00191,Coronary Artery Disease,2024-06-15,Severe
+D01611,P00175,Depression,2021-07-11,Moderate
+D01612,P00449,Chronic Kidney Disease,2024-04-11,Severe
+D01613,P00330,COPD,2020-04-23,Moderate
+D01614,P00006,Hyperlipidemia,2025-09-01,Moderate
+D01615,P00749,Asthma,2024-06-03,Moderate
+D01616,P00307,COPD,2025-10-09,Severe
+D01617,P00160,COPD,2023-08-28,Moderate
+D01618,P00335,Asthma,2025-12-25,Moderate
+D01619,P00966,Coronary Artery Disease,2021-02-22,Moderate
+D01620,P00978,COPD,2021-10-22,Severe
+D01621,P00853,Heart Failure,2021-01-20,Mild
+D01622,P00858,Depression,2025-06-26,Mild
+D01623,P00390,Depression,2022-08-15,Moderate
+D01624,P00565,Anemia,2025-01-30,Mild
+D01625,P00792,Anemia,2023-04-04,Severe
+D01626,P00166,Asthma,2024-01-30,Mild
+D01627,P00140,Hyperlipidemia,2021-11-15,Moderate
+D01628,P00560,Asthma,2025-11-03,Mild
+D01629,P00912,Hypertension,2025-03-13,Mild
+D01630,P00046,Depression,2024-01-07,Mild
+D01631,P00021,Hyperlipidemia,2023-04-13,Mild
+D01632,P00996,Depression,2023-03-04,Severe
+D01633,P00457,COPD,2025-04-23,Moderate
+D01634,P00078,Hyperlipidemia,2021-03-28,Moderate
+D01635,P00530,Arthritis,2025-10-07,Moderate
+D01636,P00519,Heart Failure,2020-06-24,Mild
+D01637,P00064,Prediabetes,2020-10-17,Moderate
+D01638,P00880,COPD,2020-10-04,Mild
+D01639,P00820,Depression,2023-06-07,Moderate
+D01640,P00301,Stroke,2025-03-23,Moderate
+D01641,P00263,Stroke,2024-05-05,Mild
+D01642,P00966,Prediabetes,2024-09-30,Moderate
+D01643,P00024,Coronary Artery Disease,2023-01-20,Moderate
+D01644,P00247,Anemia,2022-08-01,Moderate
+D01645,P00633,Chronic Kidney Disease,2020-08-10,Mild
+D01646,P00390,COPD,2020-12-09,Severe
+D01647,P00971,Prediabetes,2023-08-06,Severe
+D01648,P00446,Anemia,2023-07-01,Moderate
+D01649,P00521,Arthritis,2024-02-06,Severe
+D01650,P00334,Stroke,2024-07-30,Severe
+D01651,P00973,Chronic Kidney Disease,2024-12-15,Mild
+D01652,P00209,Hypertension,2020-08-09,Severe
+D01653,P00742,Peripheral Artery Disease,2022-08-31,Severe
+D01654,P00795,Asthma,2023-05-19,Moderate
+D01655,P00414,Obesity,2020-03-14,Moderate
+D01656,P00529,Heart Failure,2024-11-24,Severe
+D01657,P00602,Stroke,2025-12-31,Moderate
+D01658,P00625,Chronic Kidney Disease,2022-06-04,Severe
+D01659,P00532,Arthritis,2024-10-31,Moderate
+D01660,P00997,Prediabetes,2024-07-28,Mild
+D01661,P00251,Hyperlipidemia,2025-03-24,Mild
+D01662,P00210,Prediabetes,2025-04-18,Mild
+D01663,P00998,Anemia,2023-04-16,Mild
+D01664,P00860,Obesity,2025-02-01,Mild
+D01665,P00209,Stroke,2025-05-04,Mild
+D01666,P00705,Asthma,2025-08-22,Moderate
+D01667,P00456,Arthritis,2024-02-08,Severe
+D01668,P00517,Prediabetes,2024-08-03,Mild
+D01669,P00772,Anemia,2020-06-18,Mild
+D01670,P00734,Heart Failure,2021-05-03,Severe
+D01671,P00275,Depression,2022-02-03,Severe
+D01672,P00822,Coronary Artery Disease,2025-01-08,Severe
+D01673,P00354,Depression,2022-10-19,Mild
+D01674,P00489,COPD,2023-10-20,Mild
+D01675,P00727,Anemia,2020-06-27,Mild
+D01676,P00634,Stroke,2024-04-13,Severe
+D01677,P00186,Stroke,2020-11-19,Mild
+D01678,P00119,Type 2 Diabetes,2023-12-13,Moderate
+D01679,P00954,Coronary Artery Disease,2024-02-20,Mild
+D01680,P00592,Asthma,2022-03-03,Mild
+D01681,P00697,Asthma,2021-03-13,Moderate
+D01682,P00249,Obesity,2021-06-22,Severe
+D01683,P00039,Heart Failure,2020-08-30,Severe
+D01684,P00279,Chronic Kidney Disease,2024-08-01,Moderate
+D01685,P00221,COPD,2022-06-19,Moderate
+D01686,P00390,Heart Failure,2024-12-19,Moderate
+D01687,P00721,Chronic Kidney Disease,2024-07-03,Severe
+D01688,P00028,Heart Failure,2020-04-11,Moderate
+D01689,P00852,Arthritis,2025-05-26,Severe
+D01690,P00708,Stroke,2025-03-07,Moderate
+D01691,P00261,Peripheral Artery Disease,2022-08-17,Moderate
+D01692,P00876,Type 2 Diabetes,2021-02-18,Mild
+D01693,P00148,COPD,2021-04-05,Moderate
+D01694,P00638,Asthma,2021-11-11,Moderate
+D01695,P00529,Hypertension,2024-03-20,Severe
+D01696,P00586,Prediabetes,2020-10-24,Moderate
+D01697,P00463,Type 2 Diabetes,2022-06-30,Severe
+D01698,P00200,Type 2 Diabetes,2020-11-12,Moderate
+D01699,P00957,Anemia,2021-04-24,Moderate
+D01700,P00686,Heart Failure,2020-05-08,Mild
+D01701,P00757,Chronic Kidney Disease,2024-08-28,Severe
+D01702,P00946,Stroke,2024-02-14,Mild
+D01703,P00151,Heart Failure,2021-08-11,Mild
+D01704,P00071,Coronary Artery Disease,2020-12-28,Mild
+D01705,P00401,Anemia,2025-12-21,Moderate
+D01706,P00735,Depression,2023-06-25,Severe
+D01707,P00001,Depression,2023-03-28,Severe
+D01708,P00785,Heart Failure,2021-06-05,Severe
+D01709,P00723,COPD,2024-02-19,Moderate
+D01710,P00418,Stroke,2020-07-25,Moderate
+D01711,P00750,Hyperlipidemia,2024-10-27,Mild
+D01712,P00597,Stroke,2024-03-05,Mild
+D01713,P00790,Type 2 Diabetes,2020-09-29,Moderate
+D01714,P00436,Coronary Artery Disease,2024-11-30,Moderate
+D01715,P00148,Hypertension,2021-09-09,Moderate
+D01716,P00383,Heart Failure,2022-02-04,Moderate
+D01717,P00941,Peripheral Artery Disease,2023-10-13,Moderate
+D01718,P00157,Anemia,2020-09-22,Severe
+D01719,P00544,Hyperlipidemia,2020-09-24,Mild
+D01720,P00855,Hyperlipidemia,2022-08-02,Mild
+D01721,P00579,Type 2 Diabetes,2023-09-16,Mild
+D01722,P00673,Stroke,2023-06-08,Moderate
+D01723,P00343,Hyperlipidemia,2022-09-03,Mild
+D01724,P00596,Coronary Artery Disease,2021-02-08,Moderate
+D01725,P00562,Chronic Kidney Disease,2022-01-15,Moderate
+D01726,P00757,Prediabetes,2025-09-09,Severe
+D01727,P00230,Hyperlipidemia,2025-02-17,Moderate
+D01728,P00617,Coronary Artery Disease,2023-09-29,Severe
+D01729,P00514,Coronary Artery Disease,2020-01-12,Mild
+D01730,P00588,Asthma,2022-08-09,Severe
+D01731,P00783,Stroke,2024-02-01,Moderate
+D01732,P00016,Hypertension,2024-03-04,Mild
+D01733,P00155,Anemia,2022-04-01,Severe
+D01734,P00327,Chronic Kidney Disease,2025-03-23,Moderate
+D01735,P00648,Stroke,2025-03-15,Moderate
+D01736,P00339,Stroke,2025-09-09,Mild
+D01737,P00524,Arthritis,2021-12-05,Mild
+D01738,P00943,Stroke,2024-01-11,Severe
+D01739,P00479,Depression,2022-04-02,Moderate
+D01740,P00210,Chronic Kidney Disease,2022-10-23,Mild
+D01741,P00100,COPD,2020-02-02,Moderate
+D01742,P00988,Hyperlipidemia,2025-11-27,Mild
+D01743,P00045,Type 2 Diabetes,2024-02-11,Mild
+D01744,P00520,Peripheral Artery Disease,2025-10-02,Severe
+D01745,P00727,Peripheral Artery Disease,2021-05-11,Mild
+D01746,P00779,Hyperlipidemia,2020-12-24,Moderate
+D01747,P00462,Stroke,2022-10-21,Mild
+D01748,P00890,Stroke,2021-07-24,Moderate
+D01749,P00867,Type 2 Diabetes,2021-09-16,Mild
+D01750,P00906,Asthma,2023-12-24,Mild
+D01751,P00887,COPD,2025-05-24,Mild
+D01752,P00377,Chronic Kidney Disease,2024-11-04,Severe
+D01753,P00203,Depression,2023-02-26,Mild
+D01754,P00772,Hypertension,2021-07-14,Mild
+D01755,P00399,Chronic Kidney Disease,2024-12-06,Mild
+D01756,P00815,Coronary Artery Disease,2024-10-03,Moderate
+D01757,P00133,Heart Failure,2020-06-16,Mild
+D01758,P00031,Stroke,2024-07-16,Severe
+D01759,P00331,Peripheral Artery Disease,2021-12-06,Severe
+D01760,P00767,Peripheral Artery Disease,2025-02-22,Mild
+D01761,P00096,COPD,2023-02-27,Mild
+D01762,P00186,Coronary Artery Disease,2022-09-27,Mild
+D01763,P00233,Arthritis,2024-11-18,Severe
+D01764,P00521,Anemia,2021-05-17,Mild
+D01765,P00548,Asthma,2025-08-06,Severe
+D01766,P00566,Stroke,2022-06-14,Moderate
+D01767,P00461,Peripheral Artery Disease,2020-06-02,Moderate
+D01768,P00837,Hyperlipidemia,2022-12-02,Severe
+D01769,P00153,Obesity,2024-11-04,Severe
+D01770,P00015,Chronic Kidney Disease,2020-08-31,Severe
+D01771,P00698,Prediabetes,2025-01-06,Moderate
+D01772,P00374,Heart Failure,2020-06-29,Mild
+D01773,P00857,Prediabetes,2020-07-12,Mild
+D01774,P00243,Depression,2022-04-15,Mild
+D01775,P00185,Type 2 Diabetes,2021-02-28,Moderate
+D01776,P00210,Peripheral Artery Disease,2025-02-08,Severe
+D01777,P00008,Prediabetes,2020-10-24,Severe
+D01778,P00352,Prediabetes,2020-10-23,Severe
+D01779,P00082,Stroke,2025-05-03,Moderate
+D01780,P00619,Asthma,2020-07-05,Mild
+D01781,P00418,Hyperlipidemia,2024-05-26,Severe
+D01782,P00118,Peripheral Artery Disease,2023-07-15,Moderate
+D01783,P00708,Obesity,2021-06-25,Moderate
+D01784,P00218,Peripheral Artery Disease,2022-02-03,Mild
+D01785,P00233,Obesity,2025-10-18,Mild
+D01786,P00773,Hyperlipidemia,2025-01-16,Mild
+D01787,P00884,Obesity,2022-07-11,Moderate
+D01788,P00269,Depression,2024-08-27,Moderate
+D01789,P00059,Type 2 Diabetes,2025-10-02,Mild
+D01790,P00923,Hyperlipidemia,2020-07-17,Mild
+D01791,P00540,Depression,2021-06-27,Moderate
+D01792,P00718,Type 2 Diabetes,2022-06-14,Moderate
+D01793,P00680,COPD,2025-08-07,Moderate
+D01794,P00759,Peripheral Artery Disease,2025-02-23,Mild
+D01795,P00836,Type 2 Diabetes,2022-09-18,Severe
+D01796,P00835,Hypertension,2022-02-12,Moderate
+D01797,P00943,Hypertension,2025-09-21,Mild
+D01798,P00253,Coronary Artery Disease,2021-06-20,Mild
+D01799,P00520,Anemia,2020-01-01,Severe
+D01800,P00666,Hypertension,2023-12-19,Moderate
+D01801,P00249,Asthma,2024-06-08,Moderate
+D01802,P00741,Anemia,2020-04-29,Severe
+D01803,P00297,COPD,2021-12-17,Severe
+D01804,P00335,Peripheral Artery Disease,2022-05-16,Mild
+D01805,P00869,Asthma,2025-05-06,Mild
+D01806,P00623,Asthma,2024-05-28,Moderate
+D01807,P00079,Chronic Kidney Disease,2024-05-23,Mild
+D01808,P00273,Peripheral Artery Disease,2021-06-09,Moderate
+D01809,P00637,Asthma,2025-03-01,Mild
+D01810,P00892,Asthma,2025-09-26,Moderate
+D01811,P00256,Asthma,2024-08-15,Mild
+D01812,P00719,Asthma,2025-04-03,Mild
+D01813,P00319,Stroke,2022-09-02,Moderate
+D01814,P00607,Type 2 Diabetes,2024-06-20,Mild
+D01815,P00699,Depression,2024-10-23,Mild
+D01816,P00642,Anemia,2025-10-16,Severe
+D01817,P00023,Heart Failure,2022-01-12,Severe
+D01818,P00264,Anemia,2022-04-28,Mild
+D01819,P00403,Arthritis,2020-08-10,Severe
+D01820,P00289,Arthritis,2022-11-04,Severe
+D01821,P00795,Obesity,2022-04-05,Severe
+D01822,P00019,Hypertension,2023-07-13,Moderate
+D01823,P00652,Chronic Kidney Disease,2022-11-13,Moderate
+D01824,P00737,Arthritis,2023-08-13,Moderate
+D01825,P00580,Asthma,2025-03-21,Mild
+D01826,P00407,Depression,2023-08-12,Moderate
+D01827,P00639,Obesity,2024-09-11,Mild
+D01828,P00021,Obesity,2024-01-21,Moderate
+D01829,P00115,Chronic Kidney Disease,2021-01-02,Mild
+D01830,P00198,COPD,2023-04-01,Severe
+D01831,P00566,Stroke,2021-04-26,Mild
+D01832,P00888,Hypertension,2024-08-26,Severe
+D01833,P00068,Anemia,2023-01-24,Severe
+D01834,P00363,Peripheral Artery Disease,2023-02-18,Moderate
+D01835,P00269,Coronary Artery Disease,2020-10-14,Moderate
+D01836,P00233,Hypertension,2025-01-11,Mild
+D01837,P00835,Type 2 Diabetes,2021-07-23,Severe
+D01838,P00766,Peripheral Artery Disease,2021-05-05,Severe
+D01839,P00766,Arthritis,2021-06-07,Mild
+D01840,P00623,Anemia,2021-11-03,Mild
+D01841,P00349,Type 2 Diabetes,2025-05-15,Moderate
+D01842,P00487,Hyperlipidemia,2022-03-03,Mild
+D01843,P00441,Hyperlipidemia,2020-01-27,Moderate
+D01844,P00583,Type 2 Diabetes,2021-04-06,Severe
+D01845,P00530,Anemia,2020-06-27,Moderate
+D01846,P00372,Anemia,2022-06-29,Moderate
+D01847,P00243,Depression,2025-05-24,Mild
+D01848,P00296,Coronary Artery Disease,2023-07-05,Mild
+D01849,P00307,Depression,2025-12-31,Mild
+D01850,P00408,Asthma,2022-05-10,Moderate
+D01851,P00279,COPD,2022-05-28,Mild
+D01852,P00094,Prediabetes,2024-05-30,Moderate
+D01853,P00577,Asthma,2024-09-01,Severe
+D01854,P00848,Stroke,2020-08-21,Moderate
+D01855,P00407,Asthma,2024-11-23,Moderate
+D01856,P00569,Asthma,2020-06-26,Moderate
+D01857,P00991,Stroke,2023-08-02,Severe
+D01858,P00662,Hypertension,2024-12-17,Moderate
+D01859,P00612,Asthma,2022-09-07,Mild
+D01860,P00079,Depression,2023-12-21,Moderate
+D01861,P00933,Stroke,2021-03-14,Mild
+D01862,P00793,Coronary Artery Disease,2025-10-22,Moderate
+D01863,P00689,Chronic Kidney Disease,2024-11-11,Moderate
+D01864,P00922,Heart Failure,2022-08-03,Severe
+D01865,P00523,Coronary Artery Disease,2024-01-27,Moderate
+D01866,P00925,Heart Failure,2025-02-26,Moderate
+D01867,P00616,Stroke,2024-05-05,Mild
+D01868,P00139,Peripheral Artery Disease,2021-02-13,Moderate
+D01869,P00285,COPD,2025-11-03,Moderate
+D01870,P00447,Prediabetes,2020-01-25,Severe
+D01871,P00842,Coronary Artery Disease,2025-06-28,Moderate
+D01872,P00027,Obesity,2022-01-20,Severe
+D01873,P00622,Prediabetes,2021-10-23,Severe
+D01874,P00548,Prediabetes,2025-02-04,Severe
+D01875,P00701,Hyperlipidemia,2025-10-20,Severe
+D01876,P00176,Arthritis,2022-01-31,Severe
+D01877,P00360,Type 2 Diabetes,2025-10-24,Severe
+D01878,P00824,Depression,2021-09-03,Severe
+D01879,P00414,COPD,2020-03-16,Mild
+D01880,P00912,Stroke,2020-10-10,Moderate
+D01881,P00782,Chronic Kidney Disease,2022-02-11,Severe
+D01882,P00624,Prediabetes,2024-03-09,Mild
+D01883,P00101,Asthma,2022-03-15,Severe
+D01884,P00933,Anemia,2025-01-11,Severe
+D01885,P00448,Stroke,2021-08-18,Moderate
+D01886,P00837,Type 2 Diabetes,2020-10-06,Severe
+D01887,P00602,Hyperlipidemia,2025-12-20,Moderate
+D01888,P00752,Anemia,2021-10-09,Mild
+D01889,P00969,COPD,2022-05-12,Severe
+D01890,P00549,Arthritis,2022-07-30,Moderate
+D01891,P00878,Anemia,2023-09-07,Severe
+D01892,P00720,Hyperlipidemia,2021-02-19,Severe
+D01893,P00727,Hyperlipidemia,2022-07-23,Severe
+D01894,P00517,COPD,2024-03-25,Moderate
+D01895,P00570,Peripheral Artery Disease,2020-02-24,Severe
+D01896,P00710,Prediabetes,2024-09-11,Mild
+D01897,P00357,Hyperlipidemia,2022-08-29,Moderate
+D01898,P00567,COPD,2020-09-30,Mild
+D01899,P00983,Coronary Artery Disease,2022-03-02,Mild
+D01900,P00185,Peripheral Artery Disease,2020-04-01,Mild
+D01901,P00647,Prediabetes,2025-12-31,Severe
+D01902,P00931,Hypertension,2021-06-20,Moderate
+D01903,P00270,Chronic Kidney Disease,2023-02-17,Mild
+D01904,P00756,Chronic Kidney Disease,2022-07-27,Moderate
+D01905,P00043,Coronary Artery Disease,2023-04-13,Moderate
+D01906,P00325,Stroke,2023-07-13,Mild
+D01907,P00173,Peripheral Artery Disease,2020-06-14,Mild
+D01908,P00727,Peripheral Artery Disease,2021-10-26,Severe
+D01909,P00698,Prediabetes,2024-09-03,Mild
+D01910,P00424,Anemia,2022-03-14,Severe
+D01911,P00225,Hypertension,2024-01-21,Mild
+D01912,P00348,Arthritis,2024-05-03,Severe
+D01913,P00424,Obesity,2024-06-24,Mild
+D01914,P00747,Chronic Kidney Disease,2024-12-30,Mild
+D01915,P00778,Anemia,2021-01-01,Severe
+D01916,P00745,Chronic Kidney Disease,2020-03-14,Severe
+D01917,P00301,Arthritis,2023-07-10,Severe
+D01918,P00317,Anemia,2025-05-17,Severe
+D01919,P00488,Stroke,2022-03-28,Moderate
+D01920,P00644,Peripheral Artery Disease,2020-04-07,Severe
+D01921,P00916,Obesity,2023-03-26,Severe
+D01922,P00617,Hyperlipidemia,2021-04-29,Severe
+D01923,P00036,Peripheral Artery Disease,2020-08-12,Severe
+D01924,P00788,Peripheral Artery Disease,2023-09-06,Severe
+D01925,P00488,Chronic Kidney Disease,2021-06-11,Severe
+D01926,P00520,Obesity,2020-07-06,Moderate
+D01927,P00485,Peripheral Artery Disease,2021-05-18,Moderate
+D01928,P00453,Obesity,2023-11-26,Severe
+D01929,P00093,Type 2 Diabetes,2025-02-09,Mild
+D01930,P00725,Coronary Artery Disease,2021-07-23,Moderate
+D01931,P00461,Peripheral Artery Disease,2025-03-21,Mild
+D01932,P00291,Chronic Kidney Disease,2022-04-18,Severe
+D01933,P00441,Arthritis,2023-10-23,Severe
+D01934,P00164,Stroke,2024-03-28,Moderate
+D01935,P00892,Peripheral Artery Disease,2024-02-20,Moderate
+D01936,P00314,Type 2 Diabetes,2022-01-08,Moderate
+D01937,P00792,Prediabetes,2021-07-14,Moderate
+D01938,P00762,Depression,2025-06-01,Severe
+D01939,P00598,Depression,2022-12-29,Mild
+D01940,P00976,Hyperlipidemia,2023-05-11,Moderate
+D01941,P00037,Type 2 Diabetes,2025-10-24,Moderate
+D01942,P00003,Depression,2024-05-05,Severe
+D01943,P00356,Asthma,2020-08-28,Mild
+D01944,P00688,Peripheral Artery Disease,2021-12-03,Moderate
+D01945,P00762,Anemia,2024-02-01,Moderate
+D01946,P00026,Heart Failure,2020-09-28,Moderate
+D01947,P00315,Arthritis,2020-01-26,Severe
+D01948,P00230,Depression,2020-01-10,Severe
+D01949,P00321,Hypertension,2024-02-27,Mild
+D01950,P00252,Prediabetes,2020-06-24,Mild
+D01951,P00208,Prediabetes,2020-07-04,Mild
+D01952,P00931,COPD,2024-11-13,Moderate
+D01953,P00816,Hyperlipidemia,2023-07-08,Mild
+D01954,P00085,Hyperlipidemia,2025-07-16,Mild
+D01955,P00883,Type 2 Diabetes,2023-10-05,Moderate
+D01956,P00447,Stroke,2023-04-16,Moderate
+D01957,P00075,COPD,2025-07-29,Mild
+D01958,P00172,Obesity,2022-02-13,Mild
+D01959,P00353,Arthritis,2023-06-19,Moderate
+D01960,P00136,COPD,2022-04-25,Severe
+D01961,P00894,Asthma,2023-07-16,Moderate
+D01962,P00948,Anemia,2020-04-27,Mild
+D01963,P00722,COPD,2021-08-26,Moderate
+D01964,P00123,Obesity,2025-09-29,Mild
+D01965,P00505,Asthma,2024-06-19,Mild
+D01966,P00956,Chronic Kidney Disease,2022-10-27,Moderate
+D01967,P00294,Asthma,2022-08-13,Mild
+D01968,P00693,Obesity,2023-10-06,Mild
+D01969,P00971,Arthritis,2022-04-18,Severe
+D01970,P00280,Hyperlipidemia,2023-02-27,Mild
+D01971,P00059,Peripheral Artery Disease,2022-05-23,Moderate
+D01972,P00828,Depression,2021-02-17,Severe
+D01973,P00691,Obesity,2022-10-23,Moderate
+D01974,P00396,Peripheral Artery Disease,2022-11-18,Severe
+D01975,P00810,Chronic Kidney Disease,2024-05-31,Mild
+D01976,P00868,Anemia,2020-06-19,Mild
+D01977,P00734,Asthma,2022-09-16,Mild
+D01978,P00163,Arthritis,2020-01-04,Moderate
+D01979,P00528,Stroke,2025-10-05,Moderate
+D01980,P00866,Hyperlipidemia,2025-02-15,Mild
+D01981,P00411,Heart Failure,2023-03-29,Moderate
+D01982,P00465,Prediabetes,2020-09-30,Moderate
+D01983,P00452,Peripheral Artery Disease,2025-08-21,Severe
+D01984,P00212,Obesity,2024-12-24,Severe
+D01985,P00509,Anemia,2024-03-19,Mild
+D01986,P00103,Anemia,2020-03-21,Moderate
+D01987,P00635,Arthritis,2023-03-22,Mild
+D01988,P00631,Depression,2020-10-30,Mild
+D01989,P00119,Type 2 Diabetes,2020-10-30,Mild
+D01990,P00947,Anemia,2021-11-09,Moderate
+D01991,P00286,COPD,2020-05-31,Moderate
+D01992,P00553,Coronary Artery Disease,2025-04-23,Moderate
+D01993,P00588,Hypertension,2022-06-10,Mild
+D01994,P00528,Type 2 Diabetes,2021-04-16,Moderate
+D01995,P00207,Prediabetes,2023-01-10,Severe
+D01996,P00422,COPD,2022-12-12,Severe
+D01997,P00716,Hypertension,2021-09-09,Moderate
+D01998,P00980,Hypertension,2023-06-28,Severe
+D01999,P00409,Depression,2020-03-01,Mild
+D02000,P00507,Type 2 Diabetes,2022-05-29,Mild
+D02001,P00224,Chronic Kidney Disease,2024-05-12,Severe
+D02002,P00287,COPD,2022-10-06,Severe
+D02003,P00951,Obesity,2025-03-08,Severe
+D02004,P00690,Depression,2023-06-03,Severe
+D02005,P00172,Coronary Artery Disease,2022-10-15,Moderate
+D02006,P00425,Depression,2024-10-04,Severe
+D02007,P00269,Prediabetes,2024-10-03,Mild
+D02008,P00500,Type 2 Diabetes,2023-09-11,Mild
+D02009,P00478,Hyperlipidemia,2024-04-15,Moderate
+D02010,P00680,Asthma,2023-04-24,Moderate
+D02011,P00532,Stroke,2023-11-06,Moderate
+D02012,P00108,Coronary Artery Disease,2020-03-17,Severe
+D02013,P00287,Depression,2020-07-09,Mild
+D02014,P00693,Prediabetes,2021-01-12,Moderate
+D02015,P00153,Chronic Kidney Disease,2021-10-27,Mild
+D02016,P00870,Obesity,2023-07-25,Mild
+D02017,P00655,Heart Failure,2021-04-30,Severe
+D02018,P00423,COPD,2024-09-27,Severe
+D02019,P00988,Coronary Artery Disease,2021-09-20,Severe
+D02020,P00901,Prediabetes,2025-07-11,Moderate
+D02021,P00438,Hypertension,2023-09-21,Severe
+D02022,P00030,Obesity,2025-06-24,Moderate
+D02023,P00813,Chronic Kidney Disease,2021-07-14,Mild
+D02024,P00952,Prediabetes,2023-08-10,Severe
+D02025,P00517,Type 2 Diabetes,2022-09-24,Mild
+D02026,P00497,Depression,2022-06-15,Mild
+D02027,P00302,Stroke,2023-05-21,Moderate
+D02028,P00628,Prediabetes,2024-10-02,Mild
+D02029,P00248,Anemia,2024-03-23,Mild
+D02030,P00296,Hyperlipidemia,2023-08-12,Mild
+D02031,P00499,Prediabetes,2021-02-03,Severe
+D02032,P00078,Type 2 Diabetes,2020-03-10,Mild
+D02033,P00075,Peripheral Artery Disease,2025-10-01,Moderate
+D02034,P00945,Hyperlipidemia,2024-06-18,Severe
+D02035,P00909,COPD,2023-01-07,Mild
+D02036,P00400,Hyperlipidemia,2024-05-22,Moderate
+D02037,P00364,Peripheral Artery Disease,2024-03-27,Severe
+D02038,P00087,Asthma,2023-01-07,Moderate
+D02039,P00793,Coronary Artery Disease,2025-04-16,Mild
+D02040,P00565,Asthma,2021-12-03,Mild
+D02041,P00197,Depression,2021-05-06,Severe
+D02042,P00769,Arthritis,2024-05-19,Mild
+D02043,P00726,Depression,2021-10-18,Severe
+D02044,P00588,Asthma,2022-01-08,Mild
+D02045,P00847,Anemia,2023-12-30,Severe
+D02046,P00289,Type 2 Diabetes,2020-01-05,Mild
+D02047,P00714,Heart Failure,2023-03-18,Mild
+D02048,P00222,Stroke,2024-10-23,Mild
+D02049,P00372,Type 2 Diabetes,2020-03-27,Moderate
+D02050,P00944,Heart Failure,2023-04-02,Mild
+D02051,P00637,Asthma,2022-02-28,Mild
+D02052,P00132,COPD,2024-11-15,Moderate
+D02053,P00071,Hypertension,2023-04-11,Severe
+D02054,P00713,Arthritis,2020-05-28,Moderate
+D02055,P00560,Arthritis,2021-01-11,Moderate
+D02056,P00861,COPD,2022-01-11,Moderate
+D02057,P00137,Depression,2025-04-28,Moderate
+D02058,P00536,Arthritis,2022-07-04,Mild
+D02059,P00743,Prediabetes,2021-04-28,Severe
+D02060,P00048,Coronary Artery Disease,2023-02-06,Mild
+D02061,P00350,Peripheral Artery Disease,2020-09-15,Severe
+D02062,P00018,Anemia,2021-05-09,Mild
+D02063,P00190,Heart Failure,2025-03-23,Mild
+D02064,P00805,Arthritis,2022-09-03,Mild
+D02065,P00443,Heart Failure,2023-07-20,Mild
+D02066,P00212,Obesity,2021-12-21,Severe
+D02067,P00255,Chronic Kidney Disease,2022-09-10,Moderate
+D02068,P00516,Arthritis,2022-07-06,Severe
+D02069,P00120,Prediabetes,2023-08-07,Mild
+D02070,P00893,Arthritis,2023-09-14,Severe
+D02071,P00564,Peripheral Artery Disease,2025-06-23,Severe
+D02072,P00062,Depression,2020-07-10,Mild
+D02073,P00729,Asthma,2024-12-12,Severe
+D02074,P00169,Prediabetes,2020-08-15,Moderate
+D02075,P00243,Arthritis,2024-03-12,Severe
+D02076,P00108,Asthma,2023-03-17,Severe
+D02077,P00889,Arthritis,2024-07-22,Moderate
+D02078,P00730,Chronic Kidney Disease,2023-06-21,Moderate
+D02079,P00071,Peripheral Artery Disease,2025-12-08,Moderate
+D02080,P00078,Anemia,2025-02-21,Moderate
+D02081,P00531,COPD,2020-08-05,Severe
+D02082,P00504,Asthma,2023-07-01,Severe
+D02083,P00579,Stroke,2022-08-31,Moderate
+D02084,P00563,Obesity,2024-06-22,Severe
+D02085,P00326,Asthma,2024-03-24,Severe
+D02086,P00042,Anemia,2024-10-09,Severe
+D02087,P00736,Arthritis,2020-03-25,Mild
+D02088,P00352,Coronary Artery Disease,2021-10-27,Moderate
+D02089,P00119,Stroke,2024-02-02,Severe
+D02090,P00850,Arthritis,2021-12-19,Mild
+D02091,P00366,COPD,2023-12-21,Moderate
+D02092,P00385,Coronary Artery Disease,2024-02-28,Mild
+D02093,P00369,Peripheral Artery Disease,2021-07-24,Moderate
+D02094,P00723,Peripheral Artery Disease,2024-03-15,Mild
+D02095,P00641,Type 2 Diabetes,2020-05-21,Moderate
+D02096,P00270,Hypertension,2025-05-13,Moderate
+D02097,P00891,Coronary Artery Disease,2023-02-10,Mild
+D02098,P00332,Hypertension,2020-04-17,Severe
+D02099,P00821,Type 2 Diabetes,2021-12-23,Mild
+D02100,P00145,Anemia,2020-08-07,Severe
+D02101,P00614,Depression,2020-08-06,Severe
+D02102,P00994,Stroke,2023-10-14,Mild
+D02103,P00064,Hyperlipidemia,2024-05-14,Moderate
+D02104,P00271,Type 2 Diabetes,2022-06-23,Moderate
+D02105,P00389,Hypertension,2021-09-08,Mild
+D02106,P00219,Depression,2025-04-18,Mild
+D02107,P00214,Type 2 Diabetes,2023-04-23,Moderate
+D02108,P00756,Prediabetes,2024-10-14,Moderate
+D02109,P00754,Hyperlipidemia,2022-03-03,Mild
+D02110,P00721,Depression,2020-12-12,Severe
+D02111,P00578,Asthma,2024-08-03,Mild
+D02112,P00286,Asthma,2023-01-02,Mild
+D02113,P00244,Prediabetes,2024-08-02,Moderate
+D02114,P00266,Hypertension,2025-01-08,Mild
+D02115,P00444,Anemia,2022-01-15,Mild
+D02116,P00332,Arthritis,2020-11-18,Moderate
+D02117,P00155,Arthritis,2024-10-26,Moderate
+D02118,P00751,Anemia,2021-01-02,Mild
+D02119,P00802,Anemia,2024-08-12,Moderate
+D02120,P00842,Chronic Kidney Disease,2023-06-03,Severe
+D02121,P00695,Chronic Kidney Disease,2022-02-03,Mild
+D02122,P00820,Coronary Artery Disease,2021-06-06,Severe
+D02123,P00648,Hyperlipidemia,2020-05-04,Moderate
+D02124,P00586,Prediabetes,2021-08-24,Mild
+D02125,P00700,Depression,2020-10-26,Severe
+D02126,P00404,Asthma,2024-07-24,Mild
+D02127,P00581,Arthritis,2020-06-09,Severe
+D02128,P00023,Anemia,2024-05-28,Severe
+D02129,P00152,Arthritis,2024-08-23,Severe
+D02130,P00432,Arthritis,2023-02-07,Severe
+D02131,P00782,Stroke,2022-08-20,Severe
+D02132,P00906,Type 2 Diabetes,2020-09-29,Severe
+D02133,P00951,Type 2 Diabetes,2022-06-19,Severe
+D02134,P00290,Chronic Kidney Disease,2021-08-01,Severe
+D02135,P00508,Hypertension,2025-12-03,Mild
+D02136,P00879,Obesity,2022-08-26,Severe
+D02137,P00429,Obesity,2022-06-23,Moderate
+D02138,P00675,Coronary Artery Disease,2025-12-31,Severe
+D02139,P00399,Stroke,2022-06-29,Mild
+D02140,P00453,Coronary Artery Disease,2022-03-02,Severe
+D02141,P00327,Hypertension,2023-11-27,Moderate
+D02142,P00726,Type 2 Diabetes,2021-04-14,Moderate
+D02143,P00004,Anemia,2020-04-09,Severe
+D02144,P00517,COPD,2024-07-31,Severe
+D02145,P00874,Anemia,2022-02-04,Mild
+D02146,P00254,Hypertension,2022-05-23,Moderate
+D02147,P00499,Heart Failure,2024-01-03,Mild
+D02148,P00561,Arthritis,2023-09-28,Severe
+D02149,P00610,Heart Failure,2021-04-16,Severe
+D02150,P00668,Hyperlipidemia,2024-08-18,Severe
+D02151,P00622,Depression,2025-12-30,Mild
+D02152,P00585,Anemia,2022-11-30,Severe
+D02153,P00467,Hypertension,2022-09-27,Moderate
+D02154,P00477,Obesity,2024-11-10,Moderate
+D02155,P00466,Peripheral Artery Disease,2020-08-10,Mild
+D02156,P00336,Coronary Artery Disease,2020-09-29,Moderate
+D02157,P00449,Obesity,2020-04-20,Severe
+D02158,P00447,Stroke,2020-06-01,Moderate
+D02159,P00170,Obesity,2022-08-05,Mild
+D02160,P00051,Depression,2021-10-10,Mild
+D02161,P00766,Stroke,2024-01-17,Mild
+D02162,P00812,COPD,2020-09-13,Severe
+D02163,P00085,Hyperlipidemia,2023-07-31,Moderate
+D02164,P00726,Peripheral Artery Disease,2025-10-26,Moderate
+D02165,P00151,Chronic Kidney Disease,2024-01-26,Moderate
+D02166,P00126,Anemia,2021-07-31,Severe
+D02167,P00826,Arthritis,2021-05-06,Severe
+D02168,P00894,Peripheral Artery Disease,2024-05-30,Severe
+D02169,P00944,Peripheral Artery Disease,2024-04-13,Mild
+D02170,P00691,Peripheral Artery Disease,2022-07-01,Moderate
+D02171,P00323,Heart Failure,2021-10-13,Moderate
+D02172,P00180,Stroke,2025-10-26,Moderate
+D02173,P00825,Peripheral Artery Disease,2025-11-18,Mild
+D02174,P00082,Anemia,2025-09-03,Moderate
+D02175,P00591,COPD,2022-06-05,Severe
+D02176,P00823,COPD,2024-09-20,Moderate
+D02177,P00776,Stroke,2025-06-06,Severe
+D02178,P00726,Stroke,2024-04-10,Severe
+D02179,P00255,Depression,2023-12-09,Moderate
+D02180,P00225,Hyperlipidemia,2025-04-12,Moderate
+D02181,P00039,COPD,2021-09-23,Moderate
+D02182,P00562,Anemia,2025-01-01,Severe
+D02183,P00417,COPD,2020-05-20,Severe
+D02184,P00458,Stroke,2022-09-14,Severe
+D02185,P00558,Peripheral Artery Disease,2023-01-15,Severe
+D02186,P00781,Anemia,2023-03-27,Severe
+D02187,P00326,Hypertension,2023-11-08,Mild
+D02188,P00808,Depression,2022-03-30,Severe
+D02189,P00813,Peripheral Artery Disease,2023-06-12,Severe
+D02190,P00751,Hyperlipidemia,2020-03-19,Mild
+D02191,P00575,Heart Failure,2025-04-21,Mild
+D02192,P00512,Coronary Artery Disease,2021-11-05,Moderate
+D02193,P00947,Hyperlipidemia,2022-10-20,Severe
+D02194,P00532,COPD,2024-02-03,Moderate
+D02195,P00599,Depression,2020-02-26,Severe
+D02196,P00702,Stroke,2021-12-01,Mild
+D02197,P00640,Stroke,2025-10-19,Severe
+D02198,P00160,Peripheral Artery Disease,2022-03-08,Moderate
+D02199,P00820,Chronic Kidney Disease,2020-12-14,Severe
+D02200,P00061,COPD,2023-10-12,Severe
+D02201,P00743,Heart Failure,2022-03-01,Severe
+D02202,P00305,Depression,2020-10-29,Severe
+D02203,P00416,Asthma,2023-12-29,Severe
+D02204,P00770,Depression,2025-05-11,Mild
+D02205,P00387,Prediabetes,2024-04-05,Moderate
+D02206,P00687,Hypertension,2025-09-28,Mild
+D02207,P00916,Arthritis,2021-08-02,Moderate
+D02208,P00662,Hypertension,2021-03-23,Moderate
+D02209,P00352,Type 2 Diabetes,2023-12-29,Severe
+D02210,P00403,Hypertension,2021-05-19,Moderate
+D02211,P00617,Chronic Kidney Disease,2024-06-22,Moderate
+D02212,P00650,Peripheral Artery Disease,2024-02-25,Severe
+D02213,P00284,Hypertension,2020-01-18,Moderate
+D02214,P00039,Hyperlipidemia,2020-02-12,Moderate
+D02215,P00667,Peripheral Artery Disease,2023-05-07,Moderate
+D02216,P00547,Peripheral Artery Disease,2021-02-02,Severe
+D02217,P00282,Peripheral Artery Disease,2023-03-27,Moderate
+D02218,P00792,Chronic Kidney Disease,2020-07-15,Mild
+D02219,P00391,Hyperlipidemia,2021-03-15,Moderate
+D02220,P00873,Obesity,2024-04-13,Moderate
+D02221,P00556,Type 2 Diabetes,2023-02-04,Moderate
+D02222,P00980,Stroke,2024-12-01,Moderate
+D02223,P00666,Hypertension,2024-06-10,Severe
+D02224,P00840,Heart Failure,2023-05-07,Mild
+D02225,P00785,Prediabetes,2025-08-09,Mild
+D02226,P00383,Type 2 Diabetes,2021-12-01,Mild
+D02227,P00161,Prediabetes,2022-07-06,Mild
+D02228,P00929,Heart Failure,2025-12-18,Mild
+D02229,P00753,COPD,2021-07-10,Severe
+D02230,P00503,Heart Failure,2020-11-03,Mild
+D02231,P00596,Hypertension,2021-07-30,Mild
+D02232,P00090,Obesity,2023-05-27,Mild
+D02233,P00440,Peripheral Artery Disease,2020-09-28,Mild
+D02234,P00691,Heart Failure,2024-11-29,Moderate
+D02235,P00763,Chronic Kidney Disease,2025-12-01,Moderate
+D02236,P00177,Prediabetes,2020-10-14,Moderate
+D02237,P00910,Arthritis,2021-01-05,Mild
+D02238,P00369,Obesity,2023-11-17,Moderate
+D02239,P00731,Heart Failure,2021-09-19,Severe
+D02240,P00719,Chronic Kidney Disease,2021-03-22,Severe
+D02241,P00758,Obesity,2024-01-12,Moderate
+D02242,P00150,Asthma,2020-12-31,Moderate
+D02243,P00255,COPD,2025-11-29,Moderate
+D02244,P00015,Hyperlipidemia,2020-03-17,Moderate
+D02245,P00011,Prediabetes,2022-10-13,Severe
+D02246,P00645,Hyperlipidemia,2021-12-22,Mild
+D02247,P00723,Coronary Artery Disease,2022-02-06,Moderate
+D02248,P00317,Hypertension,2024-06-15,Mild
+D02249,P00915,Hyperlipidemia,2022-04-30,Moderate
+D02250,P00918,Anemia,2021-03-11,Moderate
+D02251,P00989,Depression,2023-06-27,Severe
+D02252,P00079,Depression,2022-03-07,Mild
+D02253,P00164,Peripheral Artery Disease,2023-08-09,Mild
+D02254,P00297,Prediabetes,2021-12-19,Severe
+D02255,P00438,Hypertension,2025-01-04,Moderate
+D02256,P00547,Stroke,2021-06-19,Moderate
+D02257,P00653,Obesity,2021-10-02,Mild
+D02258,P00131,Coronary Artery Disease,2020-09-14,Severe
+D02259,P00699,Chronic Kidney Disease,2024-12-13,Severe
+D02260,P00147,Chronic Kidney Disease,2024-09-29,Mild
+D02261,P00413,Chronic Kidney Disease,2025-05-02,Severe
+D02262,P00438,COPD,2020-07-18,Severe
+D02263,P00403,Peripheral Artery Disease,2021-01-29,Severe
+D02264,P00497,Depression,2022-03-26,Severe
+D02265,P00182,Type 2 Diabetes,2022-05-03,Moderate
+D02266,P00900,Peripheral Artery Disease,2023-08-18,Mild
+D02267,P00754,Type 2 Diabetes,2021-01-20,Moderate
+D02268,P00970,Stroke,2021-07-22,Moderate
+D02269,P00641,Coronary Artery Disease,2025-11-19,Mild
+D02270,P00851,Stroke,2023-07-21,Severe
+D02271,P00294,Obesity,2022-03-04,Moderate
+D02272,P00372,Heart Failure,2022-10-26,Moderate
+D02273,P00514,Arthritis,2020-05-12,Moderate
+D02274,P00152,Type 2 Diabetes,2021-03-25,Moderate
+D02275,P00540,Chronic Kidney Disease,2024-04-24,Moderate
+D02276,P00677,Prediabetes,2021-09-10,Moderate
+D02277,P00106,Stroke,2022-04-17,Severe
+D02278,P00572,Chronic Kidney Disease,2021-12-16,Moderate
+D02279,P00283,Prediabetes,2022-11-12,Severe
+D02280,P00066,Asthma,2024-12-29,Moderate
+D02281,P00525,Hypertension,2022-12-28,Moderate
+D02282,P00332,COPD,2022-11-22,Moderate
+D02283,P00804,Hypertension,2021-01-27,Severe
+D02284,P00954,Obesity,2023-05-19,Severe
+D02285,P00393,Hypertension,2024-03-19,Moderate
+D02286,P00017,Arthritis,2021-08-14,Mild
+D02287,P00098,Asthma,2022-10-19,Severe
+D02288,P00858,Prediabetes,2025-09-07,Severe
+D02289,P00007,Hyperlipidemia,2020-09-03,Mild
+D02290,P00481,Coronary Artery Disease,2022-12-13,Moderate
+D02291,P00513,Arthritis,2023-08-10,Moderate
+D02292,P00560,Type 2 Diabetes,2024-06-24,Severe
+D02293,P00834,Hypertension,2023-07-08,Moderate
+D02294,P00783,Stroke,2025-01-23,Moderate
+D02295,P00931,Prediabetes,2024-09-27,Severe
+D02296,P00665,Prediabetes,2022-07-05,Moderate
+D02297,P00712,Prediabetes,2020-04-29,Moderate
+D02298,P00620,Hypertension,2021-04-16,Severe
+D02299,P00402,Depression,2023-03-25,Mild
+D02300,P00321,Chronic Kidney Disease,2024-06-15,Severe
+D02301,P00999,Arthritis,2023-11-12,Mild
+D02302,P00906,Hypertension,2023-08-21,Moderate
+D02303,P00550,Anemia,2020-02-04,Severe
+D02304,P00478,Prediabetes,2022-07-18,Moderate
+D02305,P00367,Obesity,2023-07-20,Mild
+D02306,P00488,Asthma,2022-06-27,Severe
+D02307,P00595,Peripheral Artery Disease,2025-10-13,Mild
+D02308,P00880,Prediabetes,2025-03-25,Mild
+D02309,P00598,Peripheral Artery Disease,2024-10-29,Moderate
+D02310,P00843,Asthma,2021-07-05,Severe
+D02311,P00400,Hypertension,2024-12-04,Mild
+D02312,P00839,Hypertension,2022-01-28,Severe
+D02313,P00895,Peripheral Artery Disease,2023-04-20,Severe
+D02314,P00588,Type 2 Diabetes,2024-10-05,Moderate
+D02315,P00924,Hypertension,2024-01-30,Mild
+D02316,P00125,Hypertension,2023-12-17,Moderate
+D02317,P00066,Depression,2024-06-28,Moderate
+D02318,P00222,Peripheral Artery Disease,2020-05-21,Severe
+D02319,P00397,Hypertension,2020-11-12,Severe
+D02320,P00643,Anemia,2024-12-13,Severe
+D02321,P00573,Coronary Artery Disease,2024-01-28,Severe
+D02322,P00200,Stroke,2021-04-06,Severe
+D02323,P00720,Depression,2024-07-07,Mild
+D02324,P00087,Anemia,2021-08-29,Mild
+D02325,P00924,Coronary Artery Disease,2020-03-22,Mild
+D02326,P00716,Depression,2021-02-06,Moderate
+D02327,P00246,Hyperlipidemia,2022-02-23,Mild
+D02328,P00945,Chronic Kidney Disease,2021-04-21,Severe
+D02329,P00454,Anemia,2020-08-31,Mild
+D02330,P00698,COPD,2022-03-20,Severe
+D02331,P00998,Obesity,2020-12-07,Mild
+D02332,P00049,Obesity,2024-01-21,Moderate
+D02333,P00479,Anemia,2020-12-18,Severe
+D02334,P00740,Coronary Artery Disease,2020-02-01,Mild
+D02335,P00640,Obesity,2021-07-11,Moderate
+D02336,P00552,Arthritis,2024-07-02,Mild
+D02337,P00898,Stroke,2021-04-03,Severe
+D02338,P00744,Heart Failure,2023-05-19,Mild
+D02339,P00962,Chronic Kidney Disease,2025-08-22,Moderate
+D02340,P00592,Hypertension,2020-07-18,Mild
+D02341,P00141,Coronary Artery Disease,2024-11-01,Moderate
+D02342,P00693,Hyperlipidemia,2020-07-22,Moderate
+D02343,P00139,Peripheral Artery Disease,2023-04-08,Moderate
+D02344,P00095,Anemia,2021-06-20,Mild
+D02345,P00224,Prediabetes,2020-02-05,Mild
+D02346,P00817,Obesity,2025-08-04,Mild
+D02347,P00305,Heart Failure,2022-08-28,Mild
+D02348,P00608,Coronary Artery Disease,2022-08-13,Mild
+D02349,P00940,Asthma,2023-05-13,Severe
+D02350,P00870,COPD,2022-09-19,Severe
+D02351,P00333,Asthma,2025-09-19,Severe
+D02352,P00439,Asthma,2020-08-03,Severe
+D02353,P00892,Coronary Artery Disease,2020-05-26,Moderate
+D02354,P00961,Asthma,2022-03-13,Mild
+D02355,P00044,Depression,2025-08-16,Moderate
+D02356,P00229,Anemia,2023-11-17,Severe
+D02357,P00645,Arthritis,2021-01-18,Moderate
+D02358,P00864,Arthritis,2024-06-12,Moderate
+D02359,P00615,COPD,2020-11-10,Moderate
+D02360,P00714,Anemia,2022-06-12,Mild
+D02361,P00876,Type 2 Diabetes,2021-11-12,Mild
+D02362,P00241,Asthma,2024-06-30,Mild
+D02363,P00498,Arthritis,2025-02-15,Moderate
+D02364,P00154,Depression,2020-03-08,Mild
+D02365,P00495,Anemia,2025-10-19,Moderate
+D02366,P00656,Obesity,2023-08-20,Mild
+D02367,P00873,Type 2 Diabetes,2024-09-17,Mild
+D02368,P00745,Arthritis,2021-12-30,Moderate
+D02369,P00457,Heart Failure,2020-11-09,Moderate
+D02370,P00221,COPD,2020-11-16,Severe
+D02371,P00201,Peripheral Artery Disease,2024-08-04,Moderate
+D02372,P00125,Prediabetes,2024-09-30,Mild
+D02373,P00971,COPD,2021-06-02,Severe
+D02374,P00012,Depression,2024-09-15,Mild
+D02375,P00376,Coronary Artery Disease,2021-07-01,Mild
+D02376,P00114,Chronic Kidney Disease,2020-05-18,Mild
+D02377,P00854,Asthma,2022-12-20,Severe
+D02378,P00691,Asthma,2022-11-09,Moderate
+D02379,P00879,Depression,2023-06-20,Severe
+D02380,P00716,Peripheral Artery Disease,2024-11-11,Severe
+D02381,P00229,Coronary Artery Disease,2025-02-06,Moderate
+D02382,P00553,Stroke,2020-03-29,Severe
+D02383,P00762,Hypertension,2025-12-29,Moderate
+D02384,P00766,Prediabetes,2023-05-22,Moderate
+D02385,P00739,Anemia,2024-07-20,Severe
+D02386,P00827,Peripheral Artery Disease,2023-01-21,Moderate
+D02387,P00634,Hyperlipidemia,2021-10-16,Severe
+D02388,P00759,Type 2 Diabetes,2022-12-04,Moderate
+D02389,P00248,Hyperlipidemia,2023-01-24,Moderate
+D02390,P00604,Peripheral Artery Disease,2021-12-03,Mild
+D02391,P00776,Asthma,2020-06-25,Severe
+D02392,P00483,Chronic Kidney Disease,2021-12-09,Moderate
+D02393,P00386,Chronic Kidney Disease,2024-08-02,Mild
+D02394,P00576,Prediabetes,2022-04-15,Severe
+D02395,P00828,Obesity,2022-11-22,Severe
+D02396,P00445,Heart Failure,2024-02-27,Mild
+D02397,P00444,Anemia,2023-10-04,Moderate
+D02398,P00522,Stroke,2023-10-01,Severe
+D02399,P00268,Arthritis,2024-08-14,Moderate
+D02400,P00545,Obesity,2022-10-31,Severe
+D02401,P00289,Prediabetes,2024-07-04,Mild
+D02402,P00313,Depression,2020-08-19,Moderate
+D02403,P00720,COPD,2022-09-08,Moderate
+D02404,P00615,Asthma,2020-10-19,Severe
+D02405,P00531,COPD,2022-03-13,Moderate
+D02406,P00423,Obesity,2023-03-29,Severe
+D02407,P00540,Stroke,2024-01-17,Mild
+D02408,P00250,Prediabetes,2025-10-28,Moderate
+D02409,P00059,Coronary Artery Disease,2020-09-14,Mild
+D02410,P00119,Hyperlipidemia,2025-06-17,Moderate
+D02411,P00341,COPD,2020-06-06,Mild
+D02412,P00187,Prediabetes,2024-04-04,Moderate
+D02413,P00460,Hyperlipidemia,2020-04-09,Severe
+D02414,P00402,Depression,2021-09-16,Moderate
+D02415,P00051,Coronary Artery Disease,2025-10-13,Severe
+D02416,P00171,Chronic Kidney Disease,2021-11-09,Severe
+D02417,P00065,Stroke,2025-01-22,Severe
+D02418,P00921,Arthritis,2020-10-04,Severe
+D02419,P00804,Heart Failure,2020-11-25,Moderate
+D02420,P00151,Type 2 Diabetes,2023-10-17,Mild
+D02421,P00047,Prediabetes,2021-05-17,Moderate
+D02422,P00390,Chronic Kidney Disease,2025-11-18,Moderate
+D02423,P00692,Arthritis,2023-01-12,Severe
+D02424,P00010,Stroke,2025-04-27,Severe
+D02425,P00655,Peripheral Artery Disease,2022-11-20,Mild
+D02426,P00638,Arthritis,2020-10-22,Mild
+D02427,P00215,Prediabetes,2020-10-15,Severe
+D02428,P00425,Prediabetes,2021-06-12,Moderate
+D02429,P00981,Type 2 Diabetes,2024-10-14,Mild
+D02430,P00039,Stroke,2021-10-14,Moderate
+D02431,P00739,Peripheral Artery Disease,2023-01-14,Moderate
+D02432,P00814,COPD,2025-04-28,Moderate
+D02433,P00407,Anemia,2024-12-11,Moderate
+D02434,P00447,Hypertension,2021-06-28,Mild
+D02435,P00756,Peripheral Artery Disease,2025-03-19,Mild
+D02436,P00917,Arthritis,2021-12-26,Moderate
+D02437,P00796,Depression,2024-04-26,Mild
+D02438,P00164,Type 2 Diabetes,2021-03-07,Moderate
+D02439,P00212,Peripheral Artery Disease,2020-05-19,Severe
+D02440,P00023,Hypertension,2021-06-21,Mild
+D02441,P00190,Prediabetes,2021-02-05,Severe
+D02442,P00418,Stroke,2023-05-09,Moderate
+D02443,P00601,Anemia,2022-08-30,Severe
+D02444,P00413,Anemia,2020-10-04,Mild
+D02445,P00091,Prediabetes,2022-01-27,Severe
+D02446,P00691,Stroke,2020-01-21,Moderate
+D02447,P00916,Peripheral Artery Disease,2024-03-21,Mild
+D02448,P00777,Anemia,2025-01-16,Severe
+D02449,P00328,Peripheral Artery Disease,2022-03-08,Mild
+D02450,P00640,Heart Failure,2021-04-25,Severe
+D02451,P00299,Arthritis,2024-09-07,Severe
+D02452,P00662,Anemia,2023-06-09,Severe
+D02453,P00223,COPD,2025-09-12,Moderate
+D02454,P00181,Depression,2021-03-05,Moderate
+D02455,P00295,COPD,2022-06-17,Moderate
+D02456,P00878,Arthritis,2020-01-05,Moderate
+D02457,P00951,Hypertension,2024-04-06,Moderate
+D02458,P00520,COPD,2024-06-16,Severe
+D02459,P00379,Hypertension,2023-01-13,Severe
+D02460,P00301,Type 2 Diabetes,2022-09-20,Moderate
+D02461,P00060,Stroke,2021-12-01,Mild
+D02462,P00157,Stroke,2024-07-02,Mild
+D02463,P00266,Prediabetes,2020-10-16,Severe
+D02464,P00721,Peripheral Artery Disease,2022-04-06,Mild
+D02465,P00567,Anemia,2020-02-03,Severe
+D02466,P00030,Type 2 Diabetes,2025-10-20,Mild
+D02467,P00919,COPD,2021-11-02,Severe
+D02468,P00805,Stroke,2025-12-24,Mild
+D02469,P00469,Chronic Kidney Disease,2024-11-21,Moderate
+D02470,P00963,Prediabetes,2025-09-02,Severe
+D02471,P00545,COPD,2022-11-23,Mild
+D02472,P00957,Arthritis,2023-05-08,Moderate
+D02473,P00386,Type 2 Diabetes,2023-10-01,Severe
+D02474,P00979,Coronary Artery Disease,2023-04-16,Severe
+D02475,P00623,Obesity,2025-11-23,Severe
+D02476,P00815,Chronic Kidney Disease,2020-07-25,Moderate
+D02477,P00124,Stroke,2023-09-20,Moderate
+D02478,P00862,Arthritis,2020-07-14,Moderate
+D02479,P00466,Stroke,2021-10-11,Severe
+D02480,P00920,Obesity,2022-07-05,Moderate
+D02481,P00273,Hyperlipidemia,2022-09-04,Severe
+D02482,P00232,Asthma,2025-09-10,Moderate
+D02483,P00872,Type 2 Diabetes,2022-11-28,Severe
+D02484,P00008,Type 2 Diabetes,2023-04-10,Mild
+D02485,P00756,Coronary Artery Disease,2023-09-10,Mild
+D02486,P00521,Coronary Artery Disease,2023-12-27,Mild
+D02487,P00662,Peripheral Artery Disease,2022-07-01,Severe
+D02488,P00892,Chronic Kidney Disease,2025-06-29,Severe
+D02489,P00758,Asthma,2024-10-08,Severe
+D02490,P00633,COPD,2023-03-20,Moderate
+D02491,P00351,Stroke,2024-04-22,Mild
+D02492,P00206,Hypertension,2021-11-11,Severe
+D02493,P00699,Heart Failure,2025-07-10,Severe
+D02494,P00841,COPD,2024-06-02,Severe
+D02495,P00398,Obesity,2022-07-02,Moderate
+D02496,P00765,Peripheral Artery Disease,2024-04-19,Mild
+D02497,P00911,COPD,2022-05-20,Mild
+D02498,P00389,Hypertension,2022-02-14,Mild
+D02499,P00661,Obesity,2023-07-10,Severe
+D02500,P00997,Depression,2021-04-01,Mild
+D02501,P00615,Coronary Artery Disease,2023-11-25,Mild
+D02502,P00696,Anemia,2024-09-16,Moderate
+D02503,P00655,Hypertension,2021-11-17,Mild
+D02504,P00590,Hypertension,2024-09-08,Mild
+D02505,P00942,Type 2 Diabetes,2020-07-11,Moderate
+D02506,P00153,Hypertension,2020-06-04,Severe
+D02507,P00325,Obesity,2021-12-18,Severe
+D02508,P00942,Hyperlipidemia,2024-07-11,Mild
+D02509,P00886,Asthma,2022-11-21,Mild
+D02510,P00730,Prediabetes,2022-07-05,Severe
+D02511,P00037,Type 2 Diabetes,2023-04-11,Severe
+D02512,P00069,Stroke,2025-01-30,Severe
+D02513,P00456,Hypertension,2024-08-16,Mild
+D02514,P00088,Hyperlipidemia,2023-04-23,Moderate
+D02515,P00249,Hypertension,2023-08-01,Severe
+D02516,P00836,Asthma,2023-09-09,Mild
+D02517,P00426,Asthma,2022-06-11,Moderate
+D02518,P00631,Obesity,2022-08-06,Mild
+D02519,P00097,Chronic Kidney Disease,2020-12-16,Moderate
+D02520,P00877,Asthma,2023-06-06,Moderate
+D02521,P00100,Peripheral Artery Disease,2020-11-02,Moderate
+D02522,P00606,Anemia,2022-08-22,Mild
+D02523,P00586,Heart Failure,2024-04-25,Severe
+D02524,P00897,COPD,2025-05-18,Severe
+D02525,P00268,Anemia,2020-03-24,Severe
+D02526,P00530,Depression,2022-07-14,Severe
+D02527,P00525,Hyperlipidemia,2022-09-23,Severe
+D02528,P00806,Obesity,2025-11-14,Severe
+D02529,P00428,Asthma,2021-09-09,Moderate
+D02530,P00613,Obesity,2020-09-28,Moderate
+D02531,P00724,COPD,2025-05-30,Mild
+D02532,P00915,Depression,2025-01-24,Mild
+D02533,P00602,COPD,2020-04-25,Moderate
+D02534,P00307,Obesity,2022-10-21,Mild
+D02535,P00554,Arthritis,2020-08-01,Moderate
+D02536,P00176,Hyperlipidemia,2021-01-05,Mild
+D02537,P00594,Hyperlipidemia,2024-07-01,Moderate
+D02538,P00675,COPD,2023-10-31,Mild
+D02539,P00207,Prediabetes,2022-10-29,Mild
+D02540,P00291,Peripheral Artery Disease,2025-08-19,Moderate
+D02541,P00048,Prediabetes,2020-09-29,Mild
+D02542,P00293,COPD,2025-12-14,Mild
+D02543,P00528,Asthma,2024-12-05,Mild
+D02544,P00757,Anemia,2021-06-26,Mild
+D02545,P00345,Asthma,2024-03-03,Mild
+D02546,P00817,Prediabetes,2023-06-01,Mild
+D02547,P00105,Arthritis,2023-01-20,Moderate
+D02548,P00540,Arthritis,2021-11-29,Severe
+D02549,P00032,COPD,2024-05-11,Severe
+D02550,P00729,Chronic Kidney Disease,2023-11-09,Moderate
+D02551,P00133,Asthma,2021-01-10,Severe
+D02552,P00974,Anemia,2020-05-17,Moderate
+D02553,P00665,Heart Failure,2024-11-12,Severe
+D02554,P00305,Hyperlipidemia,2021-03-21,Severe
+D02555,P00692,Obesity,2023-11-01,Moderate
+D02556,P00343,Prediabetes,2023-07-11,Moderate
+D02557,P00494,Prediabetes,2021-08-18,Moderate
+D02558,P00571,Type 2 Diabetes,2023-08-24,Severe
+D02559,P00149,Asthma,2022-03-08,Severe
+D02560,P00074,Hyperlipidemia,2022-03-12,Mild
+D02561,P00269,Stroke,2022-01-09,Mild
+D02562,P00205,Chronic Kidney Disease,2024-02-29,Mild
+D02563,P00547,Hypertension,2025-10-26,Mild
+D02564,P00976,Chronic Kidney Disease,2025-12-31,Moderate
+D02565,P00708,Peripheral Artery Disease,2024-07-27,Severe
+D02566,P00710,Hypertension,2020-10-11,Severe
+D02567,P00355,Obesity,2023-03-06,Moderate
+D02568,P00239,Hypertension,2022-01-15,Moderate
+D02569,P00272,Coronary Artery Disease,2020-09-10,Severe
+D02570,P00962,Depression,2023-12-28,Severe
+D02571,P00411,Chronic Kidney Disease,2023-02-05,Moderate
+D02572,P00548,Hypertension,2022-06-27,Mild
+D02573,P00224,Arthritis,2023-08-22,Moderate
+D02574,P00226,Stroke,2021-10-25,Moderate
+D02575,P00032,Chronic Kidney Disease,2024-01-10,Severe
+D02576,P00895,Type 2 Diabetes,2020-04-22,Moderate
+D02577,P00987,Depression,2021-03-12,Moderate
+D02578,P00209,Heart Failure,2023-12-17,Moderate
+D02579,P00601,Arthritis,2021-12-06,Mild
+D02580,P00643,Hypertension,2021-09-10,Mild
+D02581,P00239,Stroke,2020-10-14,Mild
+D02582,P00525,Arthritis,2024-01-11,Moderate
+D02583,P00846,Hypertension,2020-05-31,Moderate
+D02584,P00033,Heart Failure,2021-06-05,Severe
+D02585,P00758,Coronary Artery Disease,2023-08-26,Mild
+D02586,P00060,Type 2 Diabetes,2021-02-07,Mild
+D02587,P00267,Type 2 Diabetes,2024-09-02,Severe
+D02588,P00194,Arthritis,2020-07-28,Moderate
+D02589,P00403,Depression,2022-12-17,Moderate
+D02590,P00100,Coronary Artery Disease,2022-12-29,Severe
+D02591,P00672,Asthma,2023-05-14,Mild
+D02592,P00258,COPD,2020-03-27,Mild
+D02593,P00845,Hypertension,2024-07-23,Mild
+D02594,P00116,Type 2 Diabetes,2021-07-16,Mild
+D02595,P00558,Arthritis,2024-08-04,Severe
+D02596,P00004,Arthritis,2021-09-13,Moderate
+D02597,P00569,Obesity,2022-01-19,Severe
+D02598,P00106,Stroke,2021-06-17,Mild
+D02599,P00596,Heart Failure,2025-06-02,Severe
+D02600,P00139,Hyperlipidemia,2021-05-24,Moderate
+D02601,P00370,Anemia,2020-05-08,Mild
+D02602,P00987,Heart Failure,2022-11-26,Mild
+D02603,P00101,COPD,2020-08-27,Moderate
+D02604,P00756,Anemia,2022-09-12,Mild
+D02605,P00906,Heart Failure,2022-02-12,Moderate
+D02606,P00676,Obesity,2024-08-15,Moderate
+D02607,P00867,COPD,2025-05-15,Mild
+D02608,P00952,Type 2 Diabetes,2021-08-10,Severe
+D02609,P00521,Type 2 Diabetes,2021-03-12,Mild
+D02610,P00596,Stroke,2025-06-19,Moderate
+D02611,P00697,Coronary Artery Disease,2023-06-27,Moderate
+D02612,P00006,COPD,2020-05-20,Moderate
+D02613,P00715,Depression,2025-06-15,Moderate
+D02614,P00405,Chronic Kidney Disease,2022-10-13,Moderate
+D02615,P00814,Chronic Kidney Disease,2024-01-13,Mild
+D02616,P00327,Type 2 Diabetes,2020-06-24,Mild
+D02617,P00850,Heart Failure,2020-05-02,Severe
+D02618,P00953,Heart Failure,2022-01-18,Moderate
+D02619,P00013,Chronic Kidney Disease,2020-07-25,Severe
+D02620,P00529,Prediabetes,2023-11-09,Moderate
+D02621,P00470,Hypertension,2024-01-31,Moderate
+D02622,P00955,Chronic Kidney Disease,2021-08-17,Mild
+D02623,P00867,Obesity,2020-04-08,Mild
+D02624,P00638,Coronary Artery Disease,2020-04-01,Severe
+D02625,P00521,Coronary Artery Disease,2025-10-07,Moderate
+D02626,P00206,Prediabetes,2020-12-28,Severe
+D02627,P00983,Chronic Kidney Disease,2023-03-08,Severe
+D02628,P00486,Peripheral Artery Disease,2020-04-17,Mild
+D02629,P00590,Arthritis,2022-07-30,Severe
+D02630,P00919,Hypertension,2023-10-29,Moderate
+D02631,P00828,Chronic Kidney Disease,2023-06-21,Mild
+D02632,P00295,Anemia,2020-09-27,Moderate
+D02633,P00814,Hyperlipidemia,2024-11-18,Mild
+D02634,P00467,Anemia,2024-11-26,Moderate
+D02635,P00515,Asthma,2024-07-17,Severe
+D02636,P00592,Hyperlipidemia,2024-03-31,Severe
+D02637,P00924,Obesity,2024-06-22,Severe
+D02638,P00755,Depression,2021-07-29,Moderate
+D02639,P00334,Peripheral Artery Disease,2022-07-02,Severe
+D02640,P00362,Coronary Artery Disease,2021-06-17,Severe
+D02641,P00293,Heart Failure,2023-12-15,Severe
+D02642,P00483,Arthritis,2020-10-12,Moderate
+D02643,P00261,Stroke,2021-03-27,Mild
+D02644,P00219,Obesity,2023-09-03,Severe
+D02645,P00486,Hyperlipidemia,2021-07-19,Moderate
+D02646,P00933,Obesity,2024-02-07,Mild
+D02647,P00978,Arthritis,2023-05-11,Moderate
+D02648,P00088,Coronary Artery Disease,2021-09-06,Moderate
+D02649,P00361,Peripheral Artery Disease,2022-02-16,Mild
+D02650,P00323,COPD,2024-08-19,Severe
+D02651,P00724,Prediabetes,2024-07-29,Severe
+D02652,P00373,Anemia,2025-07-30,Severe
+D02653,P00620,Asthma,2022-07-27,Mild
+D02654,P00472,Stroke,2021-10-07,Mild
+D02655,P00324,Anemia,2024-07-06,Moderate
+D02656,P00265,Obesity,2025-11-30,Severe
+D02657,P00039,Obesity,2025-06-16,Mild
+D02658,P00055,Obesity,2021-11-23,Severe
+D02659,P00937,Chronic Kidney Disease,2022-03-27,Severe
+D02660,P00217,Heart Failure,2020-03-30,Moderate
+D02661,P00455,COPD,2022-09-30,Mild
+D02662,P00747,Heart Failure,2022-10-14,Severe
+D02663,P00342,Hyperlipidemia,2020-02-17,Severe
+D02664,P00546,Anemia,2023-03-19,Severe
+D02665,P00844,Stroke,2025-08-07,Moderate
+D02666,P00801,Coronary Artery Disease,2023-02-16,Moderate
+D02667,P00234,Asthma,2022-09-10,Severe
+D02668,P00683,Anemia,2024-07-28,Mild
+D02669,P00553,Type 2 Diabetes,2021-02-12,Severe
+D02670,P00759,Heart Failure,2020-09-21,Severe
+D02671,P00555,Type 2 Diabetes,2020-11-03,Severe
+D02672,P00607,Obesity,2024-09-12,Severe
+D02673,P00233,COPD,2024-11-08,Severe
+D02674,P00581,Coronary Artery Disease,2024-03-24,Mild
+D02675,P00286,Hypertension,2021-01-14,Mild
+D02676,P00457,Peripheral Artery Disease,2022-07-15,Mild
+D02677,P00402,Prediabetes,2025-08-09,Mild
+D02678,P00474,Peripheral Artery Disease,2020-02-04,Mild
+D02679,P00619,Peripheral Artery Disease,2023-06-13,Moderate
+D02680,P00553,Prediabetes,2021-02-02,Moderate
+D02681,P00169,Peripheral Artery Disease,2025-09-25,Severe
+D02682,P00165,Stroke,2021-01-02,Moderate
+D02683,P00864,COPD,2025-02-21,Moderate
+D02684,P00255,Hyperlipidemia,2020-11-22,Moderate
+D02685,P00779,Arthritis,2023-12-09,Mild
+D02686,P00042,Hypertension,2021-09-06,Mild
+D02687,P00446,Obesity,2024-10-09,Mild
+D02688,P00835,Stroke,2021-07-10,Severe
+D02689,P00370,Type 2 Diabetes,2020-05-09,Mild
+D02690,P00653,Stroke,2022-05-10,Severe
+D02691,P00233,Obesity,2022-01-16,Moderate
+D02692,P00252,Prediabetes,2022-05-29,Severe
+D02693,P00907,Stroke,2024-02-08,Moderate
+D02694,P00617,Obesity,2022-07-04,Moderate
+D02695,P00491,Hyperlipidemia,2025-10-03,Mild
+D02696,P00546,Chronic Kidney Disease,2023-04-11,Severe
+D02697,P00801,Heart Failure,2025-04-29,Severe
+D02698,P00029,Asthma,2021-01-05,Moderate
+D02699,P00549,Depression,2021-04-08,Moderate
+D02700,P00685,Asthma,2020-05-18,Moderate
+D02701,P00705,Heart Failure,2021-10-17,Moderate
+D02702,P00696,Obesity,2022-04-14,Mild
+D02703,P00027,Anemia,2023-01-06,Mild
+D02704,P00141,Type 2 Diabetes,2021-10-05,Severe
+D02705,P00660,Prediabetes,2020-06-29,Moderate
+D02706,P00024,COPD,2021-05-29,Severe
+D02707,P00644,Arthritis,2023-10-13,Mild
+D02708,P00803,Coronary Artery Disease,2021-02-11,Mild
+D02709,P00588,Chronic Kidney Disease,2022-04-18,Mild
+D02710,P01000,Coronary Artery Disease,2021-07-22,Severe
+D02711,P00214,Prediabetes,2022-06-11,Mild
+D02712,P00758,Obesity,2022-02-12,Mild
+D02713,P00653,Arthritis,2024-12-11,Severe
+D02714,P00799,Peripheral Artery Disease,2022-04-12,Moderate
+D02715,P00836,Obesity,2023-09-29,Moderate
+D02716,P00135,Peripheral Artery Disease,2025-08-28,Mild
+D02717,P00235,Stroke,2022-08-28,Moderate
+D02718,P00478,Peripheral Artery Disease,2020-07-06,Severe
+D02719,P00300,Peripheral Artery Disease,2020-10-24,Severe
+D02720,P00648,Peripheral Artery Disease,2023-12-05,Mild
+D02721,P00877,Anemia,2025-01-29,Moderate
+D02722,P00557,Asthma,2022-10-02,Mild
+D02723,P00034,Type 2 Diabetes,2020-02-12,Mild
+D02724,P00170,Prediabetes,2023-07-03,Moderate
+D02725,P00505,Hyperlipidemia,2025-06-11,Severe
+D02726,P00678,Depression,2025-07-15,Moderate
+D02727,P00047,Asthma,2024-09-24,Moderate
+D02728,P00852,Hypertension,2021-08-22,Moderate
+D02729,P00732,Arthritis,2022-10-12,Severe
+D02730,P00327,Prediabetes,2021-05-14,Moderate
+D02731,P00222,Type 2 Diabetes,2021-04-30,Severe
+D02732,P00801,Depression,2023-04-15,Mild
+D02733,P00993,Type 2 Diabetes,2022-06-26,Moderate
+D02734,P00868,Hypertension,2022-02-25,Moderate
+D02735,P00616,Coronary Artery Disease,2024-05-18,Moderate
+D02736,P00346,Heart Failure,2022-11-26,Mild
+D02737,P00876,Obesity,2023-01-10,Severe
+D02738,P00265,Chronic Kidney Disease,2022-05-03,Moderate
+D02739,P00856,Arthritis,2022-08-27,Mild
+D02740,P00239,COPD,2024-10-14,Severe
+D02741,P00411,Arthritis,2022-06-18,Moderate
+D02742,P00131,Anemia,2025-10-24,Severe
+D02743,P00214,Type 2 Diabetes,2020-09-15,Moderate
+D02744,P00777,Depression,2025-04-27,Mild
+D02745,P00130,Stroke,2022-11-15,Severe
+D02746,P00812,Heart Failure,2023-06-20,Severe
+D02747,P00222,Hyperlipidemia,2025-03-25,Mild
+D02748,P00526,Chronic Kidney Disease,2023-11-23,Mild
+D02749,P00670,Anemia,2025-06-25,Severe
+D02750,P00549,Heart Failure,2022-07-03,Moderate
+D02751,P00610,Asthma,2021-09-09,Mild
+D02752,P00060,Hyperlipidemia,2025-09-19,Moderate
+D02753,P00103,Anemia,2023-03-07,Mild
+D02754,P00950,COPD,2022-04-19,Severe
+D02755,P00954,Depression,2021-11-05,Mild
+D02756,P00991,Asthma,2021-03-21,Severe
+D02757,P00872,Depression,2025-11-17,Mild
+D02758,P00659,Chronic Kidney Disease,2021-06-05,Moderate
+D02759,P00293,Asthma,2023-06-10,Moderate
+D02760,P00601,Arthritis,2023-08-08,Moderate
+D02761,P00889,Depression,2022-12-08,Moderate
+D02762,P00301,Peripheral Artery Disease,2025-04-01,Severe
+D02763,P00565,Type 2 Diabetes,2020-03-19,Severe
+D02764,P00638,Coronary Artery Disease,2020-02-10,Moderate
+D02765,P00454,Chronic Kidney Disease,2024-05-05,Mild
+D02766,P00560,Stroke,2024-10-02,Mild
+D02767,P00367,Arthritis,2021-04-07,Severe
+D02768,P00607,Heart Failure,2023-06-01,Mild
+D02769,P00399,Hypertension,2024-09-17,Moderate
+D02770,P00062,Arthritis,2021-08-20,Mild
+D02771,P00937,Asthma,2021-10-26,Severe
+D02772,P00205,Chronic Kidney Disease,2020-01-23,Moderate
+D02773,P00630,Hyperlipidemia,2023-07-07,Mild
+D02774,P00074,Prediabetes,2023-04-16,Severe
+D02775,P00206,Arthritis,2020-05-05,Mild
+D02776,P00993,Peripheral Artery Disease,2024-08-12,Severe
+D02777,P00061,Chronic Kidney Disease,2023-05-18,Moderate
+D02778,P00845,Coronary Artery Disease,2021-03-21,Severe
+D02779,P00654,Asthma,2020-08-03,Moderate
+D02780,P00712,Heart Failure,2021-05-22,Moderate
+D02781,P00127,Type 2 Diabetes,2023-07-03,Mild
+D02782,P00568,Arthritis,2025-05-15,Moderate
+D02783,P00934,Hypertension,2020-09-23,Mild
+D02784,P00240,Heart Failure,2025-03-01,Severe
+D02785,P00238,Arthritis,2021-03-27,Severe
+D02786,P00302,Asthma,2021-03-11,Moderate
+D02787,P00037,Hypertension,2021-05-30,Moderate
+D02788,P00872,Coronary Artery Disease,2024-09-18,Mild
+D02789,P00123,Asthma,2021-04-30,Severe
+D02790,P00941,Arthritis,2023-03-22,Moderate
+D02791,P00542,Prediabetes,2025-10-08,Mild
+D02792,P00957,Type 2 Diabetes,2024-09-27,Moderate
+D02793,P00078,Coronary Artery Disease,2020-12-01,Severe
+D02794,P00853,Hyperlipidemia,2020-05-31,Mild
+D02795,P00232,Hypertension,2024-02-20,Severe
+D02796,P00653,Hypertension,2023-09-01,Moderate
+D02797,P00676,Chronic Kidney Disease,2023-06-03,Severe
+D02798,P00240,Obesity,2020-02-09,Mild
+D02799,P00788,Peripheral Artery Disease,2022-09-25,Severe
+D02800,P00671,Peripheral Artery Disease,2021-03-25,Mild
+D02801,P00721,Anemia,2022-04-29,Severe
+D02802,P00052,Prediabetes,2021-11-22,Moderate
+D02803,P00035,Heart Failure,2024-03-26,Moderate
+D02804,P00121,Hypertension,2020-10-22,Moderate
+D02805,P00707,Heart Failure,2021-04-07,Moderate
+D02806,P00985,Anemia,2025-09-12,Severe
+D02807,P00104,Asthma,2021-04-29,Severe
+D02808,P00174,Type 2 Diabetes,2023-03-07,Mild
+D02809,P00325,COPD,2025-05-20,Severe
+D02810,P00712,Peripheral Artery Disease,2021-01-31,Severe
+D02811,P00540,COPD,2020-11-26,Moderate
+D02812,P00177,Obesity,2021-06-25,Moderate
+D02813,P00874,Heart Failure,2021-07-20,Moderate
+D02814,P00897,Coronary Artery Disease,2024-10-11,Severe
+D02815,P00069,Peripheral Artery Disease,2020-07-04,Severe
+D02816,P00633,Prediabetes,2021-02-20,Mild
+D02817,P00634,Type 2 Diabetes,2023-12-20,Mild
+D02818,P00780,Chronic Kidney Disease,2022-09-23,Moderate
+D02819,P00648,Hypertension,2025-09-22,Mild
+D02820,P00852,Type 2 Diabetes,2023-01-09,Moderate
+D02821,P00968,Type 2 Diabetes,2025-10-11,Mild
+D02822,P00074,Asthma,2023-04-16,Severe
+D02823,P00965,Chronic Kidney Disease,2025-08-05,Moderate
+D02824,P00539,Chronic Kidney Disease,2024-06-11,Mild
+D02825,P00585,COPD,2022-02-09,Severe
+D02826,P00567,Depression,2024-04-04,Severe
+D02827,P00565,Anemia,2023-10-22,Mild
+D02828,P00324,Hyperlipidemia,2025-08-20,Moderate
+D02829,P00492,Chronic Kidney Disease,2022-05-03,Moderate
+D02830,P00170,Obesity,2022-10-14,Severe
+D02831,P00827,Hypertension,2020-07-29,Mild
+D02832,P00058,Arthritis,2024-04-10,Moderate
+D02833,P00632,COPD,2023-02-22,Severe
+D02834,P00131,Hypertension,2024-06-04,Mild
+D02835,P00918,Type 2 Diabetes,2023-03-27,Severe
+D02836,P00735,Obesity,2020-07-10,Mild
+D02837,P00804,Arthritis,2023-08-25,Moderate
+D02838,P00700,Arthritis,2020-03-15,Moderate
+D02839,P00054,Peripheral Artery Disease,2023-07-16,Severe
+D02840,P00069,Obesity,2021-06-08,Moderate
+D02841,P00052,COPD,2024-07-25,Moderate
+D02842,P00507,Peripheral Artery Disease,2021-05-05,Severe
+D02843,P00748,Asthma,2021-07-12,Moderate
+D02844,P00007,Depression,2020-05-18,Severe
+D02845,P00101,Heart Failure,2025-09-08,Severe
+D02846,P00215,Arthritis,2022-09-05,Mild
+D02847,P00472,Asthma,2024-01-18,Severe
+D02848,P00059,Type 2 Diabetes,2022-07-23,Mild
+D02849,P00488,Stroke,2020-04-14,Moderate
+D02850,P00565,Hypertension,2021-01-19,Severe
+D02851,P00922,Hyperlipidemia,2021-03-16,Moderate
+D02852,P00053,Stroke,2025-12-16,Severe
+D02853,P00334,Arthritis,2025-10-16,Moderate
+D02854,P00806,Anemia,2022-10-15,Mild
+D02855,P00292,Prediabetes,2020-02-03,Severe
+D02856,P00940,Peripheral Artery Disease,2025-03-28,Mild
+D02857,P00849,Arthritis,2020-04-17,Moderate
+D02858,P00021,Anemia,2022-12-22,Severe
+D02859,P00397,Obesity,2025-01-31,Severe
+D02860,P00149,COPD,2025-12-11,Mild
+D02861,P00207,Chronic Kidney Disease,2020-02-29,Severe
+D02862,P00246,Obesity,2020-06-02,Mild
+D02863,P00152,Stroke,2023-10-04,Moderate
+D02864,P00509,Depression,2020-12-14,Mild
+D02865,P00460,Coronary Artery Disease,2024-06-14,Moderate
+D02866,P00914,Arthritis,2020-01-20,Severe
+D02867,P00800,Asthma,2021-03-23,Severe
+D02868,P00109,Heart Failure,2020-12-19,Mild
+D02869,P00988,Type 2 Diabetes,2021-09-10,Severe
+D02870,P00640,Depression,2023-09-20,Severe
+D02871,P00592,Obesity,2025-04-25,Severe
+D02872,P00973,Heart Failure,2021-09-02,Severe
+D02873,P00529,Chronic Kidney Disease,2020-01-31,Mild
+D02874,P00199,COPD,2025-10-10,Severe
+D02875,P00404,Heart Failure,2021-07-18,Moderate
+D02876,P00432,Depression,2025-06-08,Severe
+D02877,P00898,Hypertension,2025-08-19,Moderate
+D02878,P00939,Obesity,2021-08-24,Moderate
+D02879,P00091,Stroke,2024-07-04,Moderate
+D02880,P00642,COPD,2024-09-11,Severe
+D02881,P00413,Arthritis,2023-06-21,Mild
+D02882,P00097,Depression,2022-06-14,Mild
+D02883,P00809,COPD,2021-09-23,Mild
+D02884,P00749,COPD,2021-04-20,Mild
+D02885,P00994,Obesity,2020-05-26,Moderate
+D02886,P00731,Hyperlipidemia,2023-07-05,Severe
+D02887,P00017,Hyperlipidemia,2021-07-05,Moderate
+D02888,P00922,Peripheral Artery Disease,2021-02-13,Mild
+D02889,P00654,Hypertension,2023-01-25,Severe
+D02890,P00210,Heart Failure,2023-11-29,Moderate
+D02891,P00796,Peripheral Artery Disease,2021-03-04,Severe
+D02892,P00778,Stroke,2025-09-10,Mild
+D02893,P00075,Stroke,2022-01-28,Mild
+D02894,P00840,Hypertension,2023-02-19,Mild
+D02895,P00764,Prediabetes,2023-04-11,Severe
+D02896,P00096,Depression,2021-11-12,Mild
+D02897,P00566,Type 2 Diabetes,2022-05-31,Severe
+D02898,P00089,Depression,2023-04-09,Moderate
+D02899,P00129,Depression,2025-05-11,Mild
+D02900,P00357,Hyperlipidemia,2022-03-18,Moderate
+D02901,P00594,Arthritis,2024-12-14,Moderate
+D02902,P00403,Type 2 Diabetes,2024-04-19,Mild
+D02903,P00428,Peripheral Artery Disease,2024-04-05,Severe
+D02904,P00317,Coronary Artery Disease,2021-02-07,Moderate
+D02905,P00117,Peripheral Artery Disease,2024-02-27,Mild
+D02906,P00975,Obesity,2025-12-12,Mild
+D02907,P00214,Depression,2020-07-10,Moderate
+D02908,P00057,Peripheral Artery Disease,2023-10-15,Mild
+D02909,P00606,Chronic Kidney Disease,2020-02-09,Mild
+D02910,P00348,Prediabetes,2021-11-24,Severe
+D02911,P00061,Heart Failure,2023-12-16,Mild
+D02912,P00289,Peripheral Artery Disease,2023-02-05,Severe
+D02913,P00473,Anemia,2020-09-01,Moderate
+D02914,P00111,Arthritis,2023-05-21,Severe
+D02915,P00371,Depression,2020-06-23,Severe
+D02916,P00300,Hypertension,2025-05-16,Moderate
+D02917,P00605,Stroke,2020-05-02,Moderate
+D02918,P00506,Anemia,2025-05-12,Moderate
+D02919,P00364,Heart Failure,2023-06-26,Moderate
+D02920,P00068,Hypertension,2025-07-15,Severe
+D02921,P00150,Arthritis,2025-07-19,Severe
+D02922,P00463,Depression,2022-04-12,Mild
+D02923,P00128,Hypertension,2021-01-01,Severe
+D02924,P00103,COPD,2021-09-22,Severe
+D02925,P00235,Anemia,2020-10-20,Moderate
+D02926,P00768,Stroke,2024-02-07,Mild
+D02927,P00931,Hyperlipidemia,2022-04-12,Moderate
+D02928,P00950,Chronic Kidney Disease,2021-04-22,Mild
+D02929,P00118,Prediabetes,2022-02-07,Mild
+D02930,P00021,Obesity,2020-01-02,Mild
+D02931,P00633,Coronary Artery Disease,2021-08-27,Moderate
+D02932,P00577,Anemia,2023-08-31,Severe
+D02933,P00202,Depression,2022-01-04,Severe
+D02934,P00500,Coronary Artery Disease,2020-07-26,Mild
+D02935,P00067,Stroke,2021-08-28,Moderate
+D02936,P00217,Heart Failure,2024-05-29,Mild
+D02937,P00228,Asthma,2020-02-10,Moderate
+D02938,P00414,Heart Failure,2022-05-17,Severe
+D02939,P00221,Chronic Kidney Disease,2022-08-17,Moderate
+D02940,P00726,Coronary Artery Disease,2025-03-10,Severe
+D02941,P00493,Depression,2025-05-08,Moderate
+D02942,P00748,Type 2 Diabetes,2024-04-08,Moderate
+D02943,P00575,Type 2 Diabetes,2023-04-28,Severe
+D02944,P00468,Stroke,2025-04-27,Moderate
+D02945,P00859,Heart Failure,2021-05-31,Severe
+D02946,P00252,Anemia,2023-08-01,Severe
+D02947,P00572,Asthma,2024-06-14,Moderate
+D02948,P00091,Stroke,2025-03-13,Moderate
+D02949,P00208,Asthma,2023-07-13,Moderate
+D02950,P00269,Type 2 Diabetes,2022-07-21,Mild
+D02951,P00928,Coronary Artery Disease,2020-05-15,Moderate
+D02952,P00689,Prediabetes,2021-10-09,Mild
+D02953,P00698,Prediabetes,2024-01-26,Mild
+D02954,P00776,Arthritis,2022-12-04,Moderate
+D02955,P00353,Coronary Artery Disease,2025-07-30,Mild
+D02956,P00370,Peripheral Artery Disease,2023-09-17,Mild
+D02957,P00859,Chronic Kidney Disease,2025-12-09,Mild
+D02958,P00436,Hyperlipidemia,2023-09-22,Severe
+D02959,P00120,Depression,2024-05-05,Mild
+D02960,P00703,Coronary Artery Disease,2020-01-13,Severe
+D02961,P00520,Depression,2025-10-22,Severe
+D02962,P00019,Type 2 Diabetes,2023-01-23,Severe
+D02963,P00524,COPD,2021-06-22,Mild
+D02964,P00430,Coronary Artery Disease,2020-06-01,Moderate
+D02965,P00682,Prediabetes,2020-03-16,Moderate
+D02966,P00769,Prediabetes,2023-09-05,Mild
+D02967,P00733,COPD,2020-06-26,Moderate
+D02968,P00310,Asthma,2023-06-13,Severe
+D02969,P00652,Arthritis,2023-08-03,Mild
+D02970,P00175,Prediabetes,2020-04-10,Mild
+D02971,P00865,Type 2 Diabetes,2025-12-20,Moderate
+D02972,P00270,Prediabetes,2025-05-03,Moderate
+D02973,P00067,Hypertension,2025-08-23,Mild
+D02974,P00595,Stroke,2022-08-04,Mild
+D02975,P00052,Chronic Kidney Disease,2022-01-18,Severe
+D02976,P00540,Heart Failure,2020-01-06,Mild
+D02977,P00328,Anemia,2025-06-08,Moderate
+D02978,P00548,Hypertension,2020-10-29,Moderate
+D02979,P00715,Chronic Kidney Disease,2022-02-27,Mild
+D02980,P00133,Hyperlipidemia,2020-08-26,Moderate
+D02981,P00901,Depression,2024-07-20,Mild
+D02982,P00673,Arthritis,2024-12-05,Moderate
+D02983,P00077,Heart Failure,2023-12-18,Moderate
+D02984,P00338,Asthma,2021-04-13,Mild
+D02985,P00077,Arthritis,2024-11-23,Mild
+D02986,P00550,Prediabetes,2024-06-03,Severe
+D02987,P00124,Arthritis,2021-06-07,Mild
+D02988,P00054,Depression,2020-09-04,Mild
+D02989,P00222,Chronic Kidney Disease,2022-03-30,Moderate
+D02990,P00842,Type 2 Diabetes,2024-03-31,Severe
+D02991,P00014,Prediabetes,2022-01-28,Mild
+D02992,P00373,Hypertension,2023-01-09,Mild
+D02993,P00458,Peripheral Artery Disease,2022-04-05,Mild
+D02994,P00768,Chronic Kidney Disease,2020-09-11,Mild
+D02995,P00415,Depression,2021-12-16,Mild
+D02996,P00784,Type 2 Diabetes,2020-09-01,Moderate
+D02997,P00522,Heart Failure,2025-07-20,Mild
+D02998,P00999,Prediabetes,2025-11-18,Moderate
+D02999,P00203,Chronic Kidney Disease,2021-11-12,Severe
+D03000,P00199,Anemia,2020-07-01,Moderate

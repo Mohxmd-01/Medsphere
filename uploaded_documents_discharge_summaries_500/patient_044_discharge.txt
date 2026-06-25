@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00044
+Patient: Sophia Clark
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+7.8
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Structured weight management program.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00291
+Patient: Olivia Brown
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+8.7
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Dietary modification and exercise plan advised.

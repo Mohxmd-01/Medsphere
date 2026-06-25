@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00470
+Patient: Michael Lewis
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+10.8
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

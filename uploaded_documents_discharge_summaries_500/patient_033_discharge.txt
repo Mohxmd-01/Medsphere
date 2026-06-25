@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00033
+Patient: John Taylor
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+8.5
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Medication review and lifestyle counseling.

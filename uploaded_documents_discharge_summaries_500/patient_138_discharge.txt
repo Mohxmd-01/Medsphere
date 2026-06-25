@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00138
+Patient: David Wilson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+10.8
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Cardiology follow-up recommended.

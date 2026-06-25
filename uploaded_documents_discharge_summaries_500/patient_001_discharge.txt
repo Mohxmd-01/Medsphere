@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00001
+Patient: Sarah Taylor
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+9.7
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Dietary modification and exercise plan advised.

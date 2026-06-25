@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00290
+Patient: William Clark
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+8.4
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Continue current medications and monitor symptoms.

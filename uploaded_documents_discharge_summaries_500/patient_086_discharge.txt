@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00086
+Patient: Olivia Smith
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+9.2
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

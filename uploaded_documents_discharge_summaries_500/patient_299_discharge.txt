@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00299
+Patient: Ava Wilson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+6.6
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Cardiology follow-up recommended.

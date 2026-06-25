@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00274
+Patient: James Davis
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+7.2
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Cardiology follow-up recommended.

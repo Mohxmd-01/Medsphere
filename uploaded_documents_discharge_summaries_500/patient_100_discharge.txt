@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00100
+Patient: William Taylor
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+8.6
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Dietary modification and exercise plan advised.

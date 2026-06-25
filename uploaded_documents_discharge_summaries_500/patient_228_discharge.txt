@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00228
+Patient: David Clark
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+8.9
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

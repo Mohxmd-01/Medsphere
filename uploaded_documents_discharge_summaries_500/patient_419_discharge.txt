@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00419
+Patient: Ava Harris
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+8.4
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Continue current medications and monitor symptoms.

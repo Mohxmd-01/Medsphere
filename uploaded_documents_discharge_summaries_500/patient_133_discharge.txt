@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00133
+Patient: Sarah Smith
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+6.0
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Medication review and lifestyle counseling.

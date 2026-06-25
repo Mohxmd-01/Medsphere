@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00019
+Patient: Michael Clark
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+8.1
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Continue current medications and monitor symptoms.

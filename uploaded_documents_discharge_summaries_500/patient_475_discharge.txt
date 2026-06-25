@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00475
+Patient: Michael Brown
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+9.5
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

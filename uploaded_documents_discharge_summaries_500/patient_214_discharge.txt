@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00214
+Patient: Ava Davis
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+7.9
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Dietary modification and exercise plan advised.

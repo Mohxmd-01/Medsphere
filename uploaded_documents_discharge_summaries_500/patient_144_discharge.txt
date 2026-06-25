@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00144
+Patient: James Taylor
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+6.8
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Cardiology follow-up recommended.

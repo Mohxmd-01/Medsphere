@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00358
+Patient: Ava Lee
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+7.6
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

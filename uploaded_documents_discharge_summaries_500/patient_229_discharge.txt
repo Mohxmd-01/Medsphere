@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00229
+Patient: Ava Brown
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+6.0
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

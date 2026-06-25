@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00306
+Patient: Emma Smith
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+10.3
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Structured weight management program.

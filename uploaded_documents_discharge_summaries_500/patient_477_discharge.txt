@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00477
+Patient: Emma Wilson
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+10.3
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Cardiology follow-up recommended.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00020
+Patient: Olivia Smith
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+9.4
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Dietary modification and exercise plan advised.

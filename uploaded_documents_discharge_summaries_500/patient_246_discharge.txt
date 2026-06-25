@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00246
+Patient: Ava Brown
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+8.8
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Continue current medications and monitor symptoms.

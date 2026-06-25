@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00449
+Patient: Ava Taylor
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+8.7
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Dietary modification and exercise plan advised.

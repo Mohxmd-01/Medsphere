@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00456
+Patient: Sarah Harris
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+6.9
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Medication review and lifestyle counseling.

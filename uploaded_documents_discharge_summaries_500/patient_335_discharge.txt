@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00335
+Patient: David Lee
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+6.7
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Dietary modification and exercise plan advised.

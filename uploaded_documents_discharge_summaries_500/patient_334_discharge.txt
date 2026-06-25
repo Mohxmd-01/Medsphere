@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00334
+Patient: David Lee
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+7.5
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Dietary modification and exercise plan advised.

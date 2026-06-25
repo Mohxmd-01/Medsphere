@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00316
+Patient: James Smith
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+9.9
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Continue current medications and monitor symptoms.

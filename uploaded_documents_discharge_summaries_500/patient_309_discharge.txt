@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00309
+Patient: James Johnson
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+9.7
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Endocrinology referral.

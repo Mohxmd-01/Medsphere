@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00494
+Patient: Olivia Taylor
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+7.1
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

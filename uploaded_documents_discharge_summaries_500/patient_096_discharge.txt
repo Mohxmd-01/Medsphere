@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00096
+Patient: Sophia Clark
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Furosemide 40mg
+Amlodipine 5mg
+
+Recent HbA1c:
+10.1
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Continue current medications and monitor symptoms.

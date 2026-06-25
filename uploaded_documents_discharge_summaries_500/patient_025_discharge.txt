@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00025
+Patient: Sarah Lewis
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+8.4
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Medication review and lifestyle counseling.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00154
+Patient: Olivia Lee
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+6.6
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Continue current medications and monitor symptoms.

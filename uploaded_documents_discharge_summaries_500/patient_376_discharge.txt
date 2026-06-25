@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00376
+Patient: Emma Taylor
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+10.2
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Structured weight management program.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00006
+Patient: John Lewis
+
+Diagnosis:
+Hypertension
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+6.1
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Continue current medications and monitor symptoms.

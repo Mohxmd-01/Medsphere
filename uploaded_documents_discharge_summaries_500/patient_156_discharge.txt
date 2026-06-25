@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00156
+Patient: Emma Johnson
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+10.3
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

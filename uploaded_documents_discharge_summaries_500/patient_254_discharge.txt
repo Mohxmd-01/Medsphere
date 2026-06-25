@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00254
+Patient: David Brown
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+9.2
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Structured weight management program.

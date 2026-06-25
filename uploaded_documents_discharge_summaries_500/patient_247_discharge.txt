@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00247
+Patient: Emma Taylor
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+9.0
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

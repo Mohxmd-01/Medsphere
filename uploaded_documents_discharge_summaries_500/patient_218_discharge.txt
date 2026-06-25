@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00218
+Patient: John Clark
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+7.7
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Repeat laboratory evaluation in three months.

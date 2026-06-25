@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00177
+Patient: Sarah Harris
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+10.5
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Dietary modification and exercise plan advised.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00139
+Patient: William Brown
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.5
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Cardiology follow-up recommended.

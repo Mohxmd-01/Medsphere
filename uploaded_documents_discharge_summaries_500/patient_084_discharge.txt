@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00084
+Patient: John Johnson
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+10.2
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Structured weight management program.

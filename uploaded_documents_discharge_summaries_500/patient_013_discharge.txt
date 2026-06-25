@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00013
+Patient: Emma Harris
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+10.5
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Endocrinology referral.

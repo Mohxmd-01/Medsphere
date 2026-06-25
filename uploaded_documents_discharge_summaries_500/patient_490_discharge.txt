@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00490
+Patient: John Wilson
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+5.9
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Continue current medications and monitor symptoms.

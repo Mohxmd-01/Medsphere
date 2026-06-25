@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00458
+Patient: Olivia Johnson
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Insulin 20 units
+Metformin 1000mg
+
+Recent HbA1c:
+6.3
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Endocrinology referral.

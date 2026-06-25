@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00435
+Patient: Olivia Smith
+
+Diagnosis:
+Coronary Artery Disease
+Hyperlipidemia
+
+Current Medications:
+Metformin 500mg
+Lisinopril 10mg
+
+Recent HbA1c:
+9.6
+
+Assessment:
+Medication adherence requires close monitoring.
+
+Recommendation:
+Dietary modification and exercise plan advised.

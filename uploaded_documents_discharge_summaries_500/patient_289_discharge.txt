@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00289
+Patient: John Lewis
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+5.9
+
+Assessment:
+Progressive worsening glycemic control.
+
+Recommendation:
+Cardiology follow-up recommended.

@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00315
+Patient: William Lee
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+5.8
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Endocrinology referral.

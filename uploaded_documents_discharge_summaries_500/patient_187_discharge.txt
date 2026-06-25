@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00187
+Patient: James Harris
+
+Diagnosis:
+Heart Failure
+Hypertension
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+6.8
+
+Assessment:
+Recent laboratory trends suggest need for treatment review.
+
+Recommendation:
+Continue current medications and monitor symptoms.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00438
+Patient: Ava Davis
+
+Diagnosis:
+Type 2 Diabetes
+Chronic Kidney Disease
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+9.4
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Structured weight management program.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00281
+Patient: Emma Brown
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Orlistat 120mg
+
+Recent HbA1c:
+8.6
+
+Assessment:
+Clinical status stable but requires routine follow-up.
+
+Recommendation:
+Medication review and lifestyle counseling.

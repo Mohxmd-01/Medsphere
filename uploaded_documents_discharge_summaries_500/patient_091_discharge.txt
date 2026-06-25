@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00091
+Patient: David Smith
+
+Diagnosis:
+Asthma
+Obesity
+
+Current Medications:
+Losartan 50mg
+Rosuvastatin 10mg
+
+Recent HbA1c:
+8.5
+
+Assessment:
+Blood pressure remains above target range.
+
+Recommendation:
+Endocrinology referral.

@@ -1,0 +1,20 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00305
+Patient: James Davis
+
+Diagnosis:
+Obesity
+Prediabetes
+
+Current Medications:
+Albuterol 2mg
+
+Recent HbA1c:
+10.5
+
+Assessment:
+Weight gain and reduced physical activity observed.
+
+Recommendation:
+Dietary modification and exercise plan advised.

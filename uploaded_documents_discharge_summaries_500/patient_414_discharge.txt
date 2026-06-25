@@ -1,0 +1,21 @@
+DISCHARGE SUMMARY
+
+Patient ID: P00414
+Patient: Sarah Brown
+
+Diagnosis:
+Type 2 Diabetes
+Hypertension
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 20mg
+
+Recent HbA1c:
+7.0
+
+Assessment:
+Cardiovascular risk remains elevated.
+
+Recommendation:
+Medication review and lifestyle counseling.
