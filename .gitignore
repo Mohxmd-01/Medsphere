@@ -23,6 +23,9 @@ Thumbs.db
 # Environment
 .env
 
+# Hugging Face Space repository
+medsphere-clinical-risk-api/
+
 backend/app/database/mock_qdrant.json
 backend/app/database/mock_neo4j.json
 

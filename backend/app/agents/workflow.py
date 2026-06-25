@@ -313,41 +313,31 @@ def ml_risk_engine_node(state: ClinicalState) -> ClinicalState:
         "has_anemia": has_anemia
     }
     
-    # 3. Load Trained XGBoost Model
-    models_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "models")
-    model_path = os.path.join(models_dir, "risk_model.pkl")
+    # 3. Request prediction from Hugging Face Space API
+    hf_space_url = "https://mohxmd-01-medsphere-clinical-risk-api.hf.space/predict"
     
     risk_score = 0.35
     risk_category = "Moderate"
     feat_importance = {}
     confidence = 0.85
     
-    if os.path.exists(model_path):
-        try:
-            with open(model_path, "rb") as f:
-                model_data = pickle.load(f)
-            model = model_data["model"]
-            feat_names = model_data["feature_names"]
-            feat_importance = model_data["importances"]
+    try:
+        logger.info(f"Sending risk prediction request to Hugging Face Space: {hf_space_url}")
+        response = requests.post(hf_space_url, json=feature_dict, timeout=10)
+        if response.status_code == 200:
+            res_data = response.json()
+            risk_score = res_data["risk_score"]
+            risk_category = res_data["risk_category"]
+            confidence = res_data["confidence"]
+            feat_importance = res_data["feature_importance"]
+            logger.info(f"Hugging Face Space prediction successful. Score: {risk_score:.3f}, Category: {risk_category}")
+        else:
+            logger.error(f"Hugging Face Space returned status code {response.status_code}: {response.text}")
+            raise Exception("HF API status not 200")
             
-            feature_vector = [feature_dict[name] for name in feat_names]
-            
-            prob = model.predict_proba([feature_vector])[0]
-            risk_score = float(prob[1])
-            
-            if risk_score > 0.65:
-                risk_category = "High"
-            elif risk_score > 0.30:
-                risk_category = "Moderate"
-            else:
-                risk_category = "Low"
-                
-            confidence = round(0.80 + (abs(risk_score - 0.5) * 0.3), 2)
-            logger.info(f"XGBoost model prediction successful. Score: {risk_score:.3f}, Category: {risk_category}")
-        except Exception as e:
-            logger.error(f"Error running XGBoost model inference: {e}")
-    else:
-        logger.warning("risk_model.pkl not found. Running mathematical clinical proxy model.")
+    except Exception as e:
+        logger.warning(f"Failed to query Hugging Face Space ({e}). Running local/mathematical fallback model.")
+        # Local mathematical clinical proxy fallback
         raw_risk = (
             0.04 * (feature_dict["age"] - 30) + 
             0.12 * (feature_dict["bmi"] - 22) + 
