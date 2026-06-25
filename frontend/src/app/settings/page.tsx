@@ -16,10 +16,10 @@ import axios from "axios";
 export default function SettingsPage() {
   const { user } = useStore();
   const [dbStatus, setDbStatus] = useState<any>(null);
-
   useEffect(() => {
     // Fetch API status to read database mock statuses
-    axios.get("http://localhost:8000/").then((res) => {
+    const rootUrl = (process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api").replace(/\/api\/?$/, "");
+    axios.get(rootUrl).then((res) => {
       setDbStatus(res.data);
     }).catch(() => {
       setDbStatus({

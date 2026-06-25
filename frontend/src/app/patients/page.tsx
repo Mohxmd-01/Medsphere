@@ -137,7 +137,8 @@ export default function PatientsPage() {
   // Fetch full details of patient 1
   useEffect(() => {
     if (compareId1) {
-      axios.get(`http://localhost:8000/api/patients/${compareId1}`, {
+      const apiBase = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api";
+      axios.get(`${apiBase}/patients/${compareId1}`, {
         headers: { Authorization: `Bearer ${localStorage.getItem("medsphere_token")}` }
       })
       .then(res => setComparePatient1(res.data))
@@ -148,7 +149,8 @@ export default function PatientsPage() {
   // Fetch full details of patient 2
   useEffect(() => {
     if (compareId2) {
-      axios.get(`http://localhost:8000/api/patients/${compareId2}`, {
+      const apiBase = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api";
+      axios.get(`${apiBase}/patients/${compareId2}`, {
         headers: { Authorization: `Bearer ${localStorage.getItem("medsphere_token")}` }
       })
       .then(res => setComparePatient2(res.data))
